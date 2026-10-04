@@ -45,8 +45,10 @@ check:
 
 links:
 	$(PYTHON) tools/epub_links.py links/rationality.epub
-	$(PYTHON) tools/check_links.py
 	$(PYTHON) tools/place_links.py
+	$(PYTHON) tools/prepare.py
+	$(PYTHON) tools/bibliography.py
+	$(PYTHON) tools/check_links.py
 
 clean:
 	rm -rf build

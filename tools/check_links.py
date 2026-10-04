@@ -144,11 +144,55 @@ def _wayback(url):
     return None, None
 
 
+def check_special(url):
+    """Sites that block bots but can be verified another way."""
+    p = urlsplit(url)
+    host = p.netloc.lower()
+    if host in ('doi.org', 'dx.doi.org'):
+        # a registered DOI answers with a redirect to the publisher
+        doi = p.path.lstrip('/')
+        canon = 'https://doi.org/' + doi
+        try:
+            r = requests.get(canon, allow_redirects=False, timeout=TIMEOUT,
+                             headers={'User-Agent': UA})
+        except requests.RequestException:
+            return None
+        if r.status_code in (301, 302, 303, 307, 308):
+            return {'status': 'ok' if canon == url else 'redirected',
+                    'final': canon, 'http': r.status_code, 'title': '',
+                    'note': 'DOI resolves to ' + r.headers.get('location', '')[:120]}
+        if r.status_code == 404:
+            return None
+    if host.endswith('youtube.com') and 'watch' in p.path:
+        try:
+            r = requests.get('https://www.youtube.com/oembed',
+                             params={'url': url, 'format': 'json'},
+                             timeout=TIMEOUT, headers={'User-Agent': UA})
+        except requests.RequestException:
+            return None
+        if r.status_code == 200:
+            final = https_variant(url).replace('://youtube.com', '://www.youtube.com')
+            return {'status': 'ok' if final == url else 'redirected',
+                    'final': final, 'http': 200,
+                    'title': r.json().get('title', '')[:120],
+                    'note': 'verified via YouTube oEmbed'}
+        if r.status_code in (400, 404):
+            return {'dead': True}
+    return None
+
+
 def check(url):
     res = {'url': url, 'checked': datetime.date.today().isoformat()}
     if 'web.archive.org/web/' in url:
         res.update(status='archived', final=url.replace('http://', 'https://', 1),
                    note='already an archive link in the 2015 text')
+        return res
+    special = check_special(url)
+    if special and special.get('dead'):
+        res.update(note='video no longer available', dead=True)
+        return archive(res)
+    if special:
+        res.update(special)
         return res
     tried = []
     dead = False

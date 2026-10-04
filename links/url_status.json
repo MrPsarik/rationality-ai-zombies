@@ -7,6 +7,14 @@
   "title": "[0706.3639] A Collection of Definitions of Intelligence",
   "url": "http://arxiv.org/abs/0706.3639"
  },
+ "http://arxiv.org/abs/astro-ph/0302131": {
+  "checked": "2026-10-04",
+  "final": "https://arxiv.org/abs/astro-ph/0302131",
+  "http": 200,
+  "status": "ok",
+  "title": "[astro-ph/0302131] Parallel Universes",
+  "url": "http://arxiv.org/abs/astro-ph/0302131"
+ },
  "http://arxiv.org/pdf/0706.3639v1.pdf": {
   "checked": "2026-10-04",
   "final": "https://arxiv.org/pdf/0706.3639v1",
@@ -15,6 +23,56 @@
   "title": "",
   "url": "http://arxiv.org/pdf/0706.3639v1.pdf"
  },
+ "http://ask.metafilter.com/54496/Feynman-Quote-Demystification": {
+  "checked": "2026-10-04",
+  "final": "http://ask.metafilter.com/54496/Feynman-Quote-Demystification",
+  "http": 403,
+  "note": "https://ask.metafilter.com/54496/Feynman-Quote-Demystification: HTTP 403 (bot protection); http://ask.metafilter.com/54496/Feynman-Quote-Demystification: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://ask.metafilter.com/54496/Feynman-Quote-Demystification"
+ },
+ "http://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm": {
+  "checked": "2026-10-04",
+  "final": "http://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm",
+  "note": "https://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm: ProxyError; http://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm"
+ },
+ "http://atheism.about.com/library/FAQs/skepticism/blfaq_fall_genetic.htm": {
+  "checked": "2026-10-04",
+  "final": "http://atheism.about.com/library/FAQs/skepticism/blfaq_fall_genetic.htm",
+  "note": "https://atheism.about.com/library/FAQs/skepticism/blfaq_fall_genetic.htm: ProxyError; http://atheism.about.com/library/FAQs/skepticism/blfaq_fall_genetic.htm: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://atheism.about.com/library/FAQs/skepticism/blfaq_fall_genetic.htm"
+ },
+ "http://bayes.cs.ucla.edu/BOOK-2K/": {
+  "checked": "2026-10-04",
+  "final": "https://bayes.cs.ucla.edu/BOOK-2K/",
+  "http": 200,
+  "status": "ok",
+  "title": "CAUSALITY, 2nd Edition, 2009",
+  "url": "http://bayes.cs.ucla.edu/BOOK-2K/"
+ },
+ "http://bayes.wustl.edu/etj/articles/prob.as.logic.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://bayes.wustl.edu/etj/articles/prob.as.logic.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://bayes.wustl.edu/etj/articles/prob.as.logic.pdf"
+ },
+ "http://blog.sethroberts.net/": {
+  "checked": "2026-10-04",
+  "final": "http://blog.sethroberts.net/",
+  "http": 403,
+  "note": "https://blog.sethroberts.net/: SSLError; http://blog.sethroberts.net/: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://blog.sethroberts.net/"
+ },
  "http://bloggingheads.tv/videos/2220": {
   "checked": "2026-10-04",
   "final": "https://bloggingheads.tv/videos/2220",
@@ -22,6 +80,120 @@
   "status": "ok",
   "title": "Bloggingheads.tv",
   "url": "http://bloggingheads.tv/videos/2220"
+ },
+ "http://books.google.com/books/about/Breaking_the_Spell.html?id=yWtwDDqR61QC": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books/about/Breaking_the_Spell.html?id=yWtwDDqR61QC",
+  "http": 200,
+  "status": "ok",
+  "title": "Breaking the Spell: Religion as a Natural Phenomenon - Daniel Clement Dennett - Google Books",
+  "url": "http://books.google.com/books/about/Breaking_the_Spell.html?id=yWtwDDqR61QC"
+ },
+ "http://books.google.com/books?id=0fZZQHOfdAAC&dq=the+conscious+mind&pg=PP1&ots=qjv14gGUOR&sig=98dNHve8xZp-yltM37iN8mgq2AQ&hl=en&prev=http://www.google.com/search?hl=en&q=the+conscious+mind&sa=X&oi=print&ct=title&cad=one-book-with-thumbnail#PPA180,M1": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=0fZZQHOfdAAC&dq=the+conscious+mind&pg=PP1&ots=qjv14gGUOR&sig=98dNHve8xZp-yltM37iN8mgq2AQ&hl=en&prev=http://www.google.com/search?hl=en&q=the+conscious+mind&sa=X&oi=print&ct=title&cad=one-book-with-thumbnail#PPA180,M1",
+  "http": 200,
+  "status": "ok",
+  "title": "The Conscious Mind: In Search of a Fundamental Theory - David J. Chalmers - Google Books",
+  "url": "http://books.google.com/books?id=0fZZQHOfdAAC&dq=the+conscious+mind&pg=PP1&ots=qjv14gGUOR&sig=98dNHve8xZp-yltM37iN8mgq2AQ&hl=en&prev=http://www.google.com/search?hl=en&q=the+conscious+mind&sa=X&oi=print&ct=title&cad=one-book-with-thumbnail#PPA180,M1"
+ },
+ "http://books.google.com/books?id=LDOCZPyg2MQC&pg=PA76&vq=xii&dq=%22chuang+tzu%22+deeds+history&sig=govZRcDAVbAQdvi2cf7u2Svce2A": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=LDOCZPyg2MQC&pg=PA76&vq=xii&dq=%22chuang+tzu%22+deeds+history&sig=govZRcDAVbAQdvi2cf7u2Svce2A",
+  "http": 200,
+  "status": "ok",
+  "title": "The Way of Chuang-Tzŭ - Zhuangzi, Thomas Merton - Google Books",
+  "url": "http://books.google.com/books?id=LDOCZPyg2MQC&pg=PA76&vq=xii&dq=%22chuang+tzu%22+deeds+history&sig=govZRcDAVbAQdvi2cf7u2Svce2A"
+ },
+ "http://books.google.com/books?id=b924ifrqfosC&printsec=frontcover#PPA14,M1": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=b924ifrqfosC&printsec=frontcover#PPA14,M1",
+  "http": 200,
+  "status": "ok",
+  "title": "Adaptation and Natural Selection: A Critique of Some Current Evolutionary ... - George Christopher Williams - Google Boo",
+  "url": "http://books.google.com/books?id=b924ifrqfosC&printsec=frontcover#PPA14,M1"
+ },
+ "http://books.google.com/books?id=cEPNtxAoYPAC&pg=PA18&lpg=PA18&dq=h2o+logically+possible&source=web&ots=R9zyWvo3Uz&sig=FjyegdF0D-2I77l7dHQ-RRkSR88&hl=en": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=cEPNtxAoYPAC&pg=PA18&lpg=PA18&dq=h2o+logically+possible&source=web&ots=R9zyWvo3Uz&sig=FjyegdF0D-2I77l7dHQ-RRkSR88&hl=en",
+  "http": 200,
+  "status": "ok",
+  "title": "The Twin Earth Chronicles: Twenty Years of Reflection on Hilary Putnam's ... - Google Books",
+  "url": "http://books.google.com/books?id=cEPNtxAoYPAC&pg=PA18&lpg=PA18&dq=h2o+logically+possible&source=web&ots=R9zyWvo3Uz&sig=FjyegdF0D-2I77l7dHQ-RRkSR88&hl=en"
+ },
+ "http://books.google.com/books?id=k9VsqN24pNYC&dq=&pg=PP1&ots=WR9UGWdOdd&sig=w_Mrax-y4VVwZy5SQGySphNsKMc&prev=http://www.google.com/search%3Fhl%3Den%26safe%3Doff%26q%3Dpearl%2Bintelligent%2Bsystems%26btnG%3DSearch&sa=X&oi=print&ct=title#PPA143,M1": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=k9VsqN24pNYC&dq=&pg=PP1&ots=WR9UGWdOdd&sig=w_Mrax-y4VVwZy5SQGySphNsKMc&prev=http://www.google.com/search%3Fhl%3Den%26safe%3Doff%26q%3Dpearl%2Bintelligent%2Bsystems%26btnG%3DSearch&sa=X&oi=print&ct=title#PPA143,M1",
+  "http": 200,
+  "status": "ok",
+  "title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference - Judea Pearl - Google Books",
+  "url": "http://books.google.com/books?id=k9VsqN24pNYC&dq=&pg=PP1&ots=WR9UGWdOdd&sig=w_Mrax-y4VVwZy5SQGySphNsKMc&prev=http://www.google.com/search%3Fhl%3Den%26safe%3Doff%26q%3Dpearl%2Bintelligent%2Bsystems%26btnG%3DSearch&sa=X&oi=print&ct=title#PPA143,M1"
+ },
+ "http://books.google.com/books?id=xWjTZhw1MiUC&pg=PA68#v=onepage&q&f=false": {
+  "checked": "2026-10-04",
+  "final": "https://books.google.com/books?id=xWjTZhw1MiUC&pg=PA68#v=onepage&q&f=false",
+  "http": 200,
+  "status": "ok",
+  "title": "Priceless: The Myth of Fair Value (and How to Take Advantage of It) - William Poundstone - Google Books",
+  "url": "http://books.google.com/books?id=xWjTZhw1MiUC&pg=PA68#v=onepage&q&f=false"
+ },
+ "http://chaitanya1.files.wordpress.com/2008/06/bigbang.gif": {
+  "checked": "2026-10-04",
+  "final": "http://chaitanya1.files.wordpress.com/2008/06/bigbang.gif",
+  "http": 403,
+  "note": "https://chaitanya1.files.wordpress.com/2008/06/bigbang.gif: HTTP 403 (bot protection); http://chaitanya1.files.wordpress.com/2008/06/bigbang.gif: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://chaitanya1.files.wordpress.com/2008/06/bigbang.gif"
+ },
+ "http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150306235935/http://chem.tufts.edu:80/answersinscience/relativityofwrong.htm",
+  "http": 404,
+  "note": "https://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm: HTTP 404",
+  "snapshot": "20150306235935",
+  "status": "archived",
+  "title": "",
+  "url": "http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm"
+ },
+ "http://condor.depaul.edu/mfiddler/hyphen/humunivers.htm": {
+  "checked": "2026-10-04",
+  "final": "https://condor.depaul.edu/mfiddler/hyphen/humunivers.htm",
+  "http": 200,
+  "status": "ok",
+  "title": "Human Universals",
+  "url": "http://condor.depaul.edu/mfiddler/hyphen/humunivers.htm"
+ },
+ "http://consc.net/papers/facing.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://consc.net/papers/facing.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://consc.net/papers/facing.pdf"
+ },
+ "http://content.time.com/time/magazine/article/0,9171,954853,00.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150309082311/http://content.time.com:80/time/magazine/article/0,9171,954853,00.html",
+  "http": 406,
+  "note": "https://content.time.com/time/magazine/article/0,9171,954853,00.html: HTTP 406",
+  "snapshot": "20150309082311",
+  "status": "archived",
+  "title": "",
+  "url": "http://content.time.com/time/magazine/article/0,9171,954853,00.html"
+ },
+ "http://csml.som.ohio-state.edu/Music829C/hindsight.bias.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150201231159/http://csml.som.ohio-state.edu/Music829C/hindsight.bias.html",
+  "http": 200,
+  "note": "redirected to the home page",
+  "snapshot": "20150201231159",
+  "status": "archived",
+  "title": "",
+  "url": "http://csml.som.ohio-state.edu/Music829C/hindsight.bias.html"
  },
  "http://darwin-online.org.uk/content/frameset?itemID=F944&viewtype=text&pageseq=1": {
   "checked": "2026-10-04",
@@ -39,6 +211,442 @@
   "title": "",
   "url": "http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=F373&pageseq=1"
  },
+ "http://dx.doi.org/10.1002/bdm.434": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1002/bdm.434",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1002/bdm.434",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1002/bdm.434"
+ },
+ "http://dx.doi.org/10.1006/cogp.1994.1006": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0010028584710061",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1006/cogp.1994.1006"
+ },
+ "http://dx.doi.org/10.1006/jeem.1995.1011": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S009506968571011X",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1006/jeem.1995.1011"
+ },
+ "http://dx.doi.org/10.1006/jmla.1995.1005": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749596X85710054",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1006/jmla.1995.1005"
+ },
+ "http://dx.doi.org/10.1006/obhd.1996.0077": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749597896900771",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1006/obhd.1996.0077"
+ },
+ "http://dx.doi.org/10.1006/obhd.2000.2914": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749597800929145",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1006/obhd.2000.2914"
+ },
+ "http://dx.doi.org/10.1007/978-3-540-68677-4": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1007/978-3-540-68677-4",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.1007/978-3-540-68677-4"
+ },
+ "http://dx.doi.org/10.1007/BF01065315": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1007/BF01065315",
+  "http": 302,
+  "note": "DOI resolves to http://link.springer.com/10.1007/BF01065315",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1007/BF01065315"
+ },
+ "http://dx.doi.org/10.1007/b138233": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1007/b138233",
+  "http": 302,
+  "note": "DOI resolves to http://link.springer.com/10.1007/b138233",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1007/b138233"
+ },
+ "http://dx.doi.org/10.1016/0010-0285(86)90001-0": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/0010028586900010",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1016/0010-0285(86)90001-0"
+ },
+ "http://dx.doi.org/10.1016/0010-0285(92)90013-R": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/001002859290013R",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1016/0010-0285(92)90013-R"
+ },
+ "http://dx.doi.org/10.1016/0022-1031(76)90073-1": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/0022103176900731",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1016/0022-1031(76)90073-1"
+ },
+ "http://dx.doi.org/10.1016/S0065-2458(08)60418-0": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0065245808604180",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1016/S0065-2458(08)60418-0"
+ },
+ "http://dx.doi.org/10.1016/S1053-5357(02)00174-9": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S1053535702001749",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "http://dx.doi.org/10.1016/S1053-5357(02)00174-9"
+ },
+ "http://dx.doi.org/10.1017/CBO9780511498497": {
+  "checked": "2026-10-04",
+  "final": "https://www.cambridge.org/core/books/foundations-of-causal-decision-theory/068BC033D4D8245FCF607904CC4DB730",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Foundations of Causal Decision Theory",
+  "url": "http://dx.doi.org/10.1017/CBO9780511498497"
+ },
+ "http://dx.doi.org/10.1017/S0305004100011750": {
+  "checked": "2026-10-04",
+  "final": "https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/mathematical-theory-of-natural-and-artificial-selection/5ACBCBD66F8F2DFFD760B6626941FF6B",
+  "http": 200,
+  "status": "redirected",
+  "title": "A mathematical theory of Natural and Artificial Selection | Mathematical Proceedings of the Cambridge Philosophical Soci",
+  "url": "http://dx.doi.org/10.1017/S0305004100011750"
+ },
+ "http://dx.doi.org/10.1023/A:1007710408413": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007710408413",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.1023/A:1007710408413"
+ },
+ "http://dx.doi.org/10.1023/A:1007744326393": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007744326393",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.1023/A:1007744326393"
+ },
+ "http://dx.doi.org/10.1023/A:1007835629236": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007835629236",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.1023/A:1007835629236"
+ },
+ "http://dx.doi.org/10.1023/A:1007876907268": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007876907268",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.1023/A:1007876907268"
+ },
+ "http://dx.doi.org/10.1037/0022-3514.37.8.1387": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.37.8.1387",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0022-3514.37.8.1387"
+ },
+ "http://dx.doi.org/10.1037/0022-3514.59.4.601": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.59.4.601",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0022-3514.59.4.601"
+ },
+ "http://dx.doi.org/10.1037/0022-3514.65.2.221": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.65.2.221",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0022-3514.65.2.221"
+ },
+ "http://dx.doi.org/10.1037/0022-3514.66.5.819": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.66.5.819",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0022-3514.66.5.819"
+ },
+ "http://dx.doi.org/10.1037/0022-3514.67.3.366": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.67.3.366",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0022-3514.67.3.366"
+ },
+ "http://dx.doi.org/10.1037/0033-2909.110.1.109": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-2909.110.1.109",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0033-2909.110.1.109"
+ },
+ "http://dx.doi.org/10.1037/0033-295X.108.4.814": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-295X.108.4.814",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0033-295X.108.4.814"
+ },
+ "http://dx.doi.org/10.1037/0033-295X.90.4.293": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-295X.90.4.293",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0033-295X.90.4.293"
+ },
+ "http://dx.doi.org/10.1037/0278-7393.4.6.551": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0278-7393.4.6.551",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/0278-7393.4.6.551"
+ },
+ "http://dx.doi.org/10.1037/1076-898X.2.2.107": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/1076-898X.2.2.107",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/1076-898X.2.2.107"
+ },
+ "http://dx.doi.org/10.1037/1076-898X.6.3.171": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/1076-898X.6.3.171",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/1076-898X.6.3.171"
+ },
+ "http://dx.doi.org/10.1037/h0023123": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/h0023123",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1037/h0023123"
+ },
+ "http://dx.doi.org/10.1073/pnas.73.12.4604": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1073/pnas.73.12.4604",
+  "http": 302,
+  "note": "DOI resolves to https://pnas.org/doi/full/10.1073/pnas.73.12.4604",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1073/pnas.73.12.4604"
+ },
+ "http://dx.doi.org/10.1080/14792779343000112": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/14792779343000112",
+  "http": 302,
+  "note": "DOI resolves to http://www.tandfonline.com/doi/abs/10.1080/14792779343000112",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1080/14792779343000112"
+ },
+ "http://dx.doi.org/10.1080/14792779943000044": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/14792779943000044",
+  "http": 302,
+  "note": "DOI resolves to http://www.tandfonline.com/doi/abs/10.1080/14792779943000044",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1080/14792779943000044"
+ },
+ "http://dx.doi.org/10.1080/17470216008416717": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/17470216008416717",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1080/17470216008416717",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1080/17470216008416717"
+ },
+ "http://dx.doi.org/10.1108/S0573-8555(1993)0000220007": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1108/S0573-8555(1993)0000220007",
+  "http": 302,
+  "note": "DOI resolves to https://www.emerald.com/books/book/12915/chapter/83289595/ISSUES-IN-THE-CONTINGENT-VALUATION-OF",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1108/S0573-8555(1993)0000220007"
+ },
+ "http://dx.doi.org/10.1111/1467-9280.00372": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/1467-9280.00372",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1111/1467-9280.00372",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1111/1467-9280.00372"
+ },
+ "http://dx.doi.org/10.1111/1467-9280.00439": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/1467-9280.00439",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1111/1467-9280.00439",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1111/1467-9280.00439"
+ },
+ "http://dx.doi.org/10.1111/j.1540-5907.2006.00214.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1540-5907.2006.00214.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1111/j.1540-5907.2006.00214.x"
+ },
+ "http://dx.doi.org/10.1111/j.1559-1816.1978.tb00790.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1559-1816.1978.tb00790.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1978.tb00790.x",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1111/j.1559-1816.1978.tb00790.x"
+ },
+ "http://dx.doi.org/10.1111/j.1559-1816.1980.tb00715.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1559-1816.1980.tb00715.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1980.tb00715.x",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1111/j.1559-1816.1980.tb00715.x"
+ },
+ "http://dx.doi.org/10.1126/science.185.4157.1124": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1126/science.185.4157.1124",
+  "http": 302,
+  "note": "DOI resolves to https://www.science.org/doi/10.1126/science.185.4157.1124",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1126/science.185.4157.1124"
+ },
+ "http://dx.doi.org/10.1145/1045339.1045340": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1145/1045339.1045340",
+  "http": 302,
+  "note": "DOI resolves to https://dl.acm.org/doi/10.1145/1045339.1045340",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1145/1045339.1045340"
+ },
+ "http://dx.doi.org/10.1177/0146167291175009": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/0146167291175009",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/0146167291175009",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1177/0146167291175009"
+ },
+ "http://dx.doi.org/10.1177/0146167294204001": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/0146167294204001",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/0146167294204001",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1177/0146167294204001"
+ },
+ "http://dx.doi.org/10.1177/107769907905600420": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/107769907905600420",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/107769907905600420",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.1177/107769907905600420"
+ },
+ "http://dx.doi.org/10.2277/0521592712": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.2277/0521592712",
+  "http": 302,
+  "note": "DOI resolves to http://prp.contentdirections.com/mr/cupress.jsp/doi=10.2277/0521592712",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.2277/0521592712"
+ },
+ "http://dx.doi.org/10.2277/0521796792": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.2277/0521796792",
+  "http": 302,
+  "note": "DOI resolves to http://prp.contentdirections.com/mr/cupress.jsp/doi=10.2277/0521796792",
+  "status": "redirected",
+  "title": "",
+  "url": "http://dx.doi.org/10.2277/0521796792"
+ },
+ "http://dx.doi.org/10.2307/1907921": {
+  "checked": "2026-10-04",
+  "final": "https://www.jstor.org/stable/1907921?origin=crossref",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "http://dx.doi.org/10.2307/1907921"
+ },
+ "http://dx.doi.org/10.3768/rtipress.2009.bk.0001.1009": {
+  "checked": "2026-10-04",
+  "final": "https://www.rti.org/rti-press-publication/measuring-nonuse-damages-using-contingent-valuation-experimental-evaluation-accuracy-2nd-ed",
+  "http": 200,
+  "status": "redirected",
+  "title": "Measuring Nonuse Damages Using Contingent Valuation | RTI",
+  "url": "http://dx.doi.org/10.3768/rtipress.2009.bk.0001.1009"
+ },
+ "http://dykestowatchoutfor.com/more-on-consciousness#comment-72828": {
+  "checked": "2026-10-04",
+  "final": "https://dykestowatchoutfor.com/more-on-consciousness/#comment-72828",
+  "http": 200,
+  "status": "ok",
+  "title": "Dykes to Watch Out For » Blog Archive » more on consciousness",
+  "url": "http://dykestowatchoutfor.com/more-on-consciousness#comment-72828"
+ },
  "http://en.wikipedia.org/wiki/A_priori_and_a_posteriori_%28philosophy%29": {
   "checked": "2026-10-04",
   "final": "https://en.wikipedia.org/wiki/A_priori_and_a_posteriori_%28philosophy%29",
@@ -46,6 +654,62 @@
   "status": "ok",
   "title": "A priori and a posteriori - Wikipedia",
   "url": "http://en.wikipedia.org/wiki/A_priori_and_a_posteriori_%28philosophy%29"
+ },
+ "http://en.wikipedia.org/wiki/Allais_paradox": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Allais_paradox",
+  "http": 200,
+  "status": "ok",
+  "title": "Allais paradox - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Allais_paradox"
+ },
+ "http://en.wikipedia.org/wiki/Alu_element": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Alu_element",
+  "http": 200,
+  "status": "ok",
+  "title": "Alu element - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Alu_element"
+ },
+ "http://en.wikipedia.org/wiki/Ambiguity_aversion": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Ambiguity_aversion",
+  "http": 200,
+  "status": "ok",
+  "title": "Ambiguity aversion - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Ambiguity_aversion"
+ },
+ "http://en.wikipedia.org/wiki/Animism": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Animism",
+  "http": 200,
+  "status": "ok",
+  "title": "Animism - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Animism"
+ },
+ "http://en.wikipedia.org/wiki/Archimedes": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Archimedes",
+  "http": 200,
+  "status": "ok",
+  "title": "Archimedes - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Archimedes"
+ },
+ "http://en.wikipedia.org/wiki/Atom": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Atom",
+  "http": 200,
+  "status": "ok",
+  "title": "Atom - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Atom"
+ },
+ "http://en.wikipedia.org/wiki/Availability_heuristic": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Availability_heuristic",
+  "http": 200,
+  "status": "ok",
+  "title": "Availability heuristic - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Availability_heuristic"
  },
  "http://en.wikipedia.org/wiki/Azathoth": {
   "checked": "2026-10-04",
@@ -55,6 +719,54 @@
   "title": "Azathoth - Wikipedia",
   "url": "http://en.wikipedia.org/wiki/Azathoth"
  },
+ "http://en.wikipedia.org/wiki/Band_society": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Band_society",
+  "http": 200,
+  "status": "ok",
+  "title": "Band society - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Band_society"
+ },
+ "http://en.wikipedia.org/wiki/Bias_blind_spot": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Bias_blind_spot",
+  "http": 200,
+  "status": "ok",
+  "title": "Bias blind spot - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Bias_blind_spot"
+ },
+ "http://en.wikipedia.org/wiki/Blood_type_diet": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Blood_type_diet",
+  "http": 200,
+  "status": "ok",
+  "title": "Blood type diet - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Blood_type_diet"
+ },
+ "http://en.wikipedia.org/wiki/Bystander_effect": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Bystander_effect",
+  "http": 200,
+  "status": "ok",
+  "title": "Bystander effect - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Bystander_effect"
+ },
+ "http://en.wikipedia.org/wiki/Caloric_theory": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Caloric_theory",
+  "http": 200,
+  "status": "ok",
+  "title": "Caloric theory - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Caloric_theory"
+ },
+ "http://en.wikipedia.org/wiki/Conjunction_fallacy": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Conjunction_fallacy",
+  "http": 200,
+  "status": "ok",
+  "title": "Conjunction fallacy - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Conjunction_fallacy"
+ },
  "http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life": {
   "checked": "2026-10-04",
   "final": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
@@ -62,6 +774,150 @@
   "status": "ok",
   "title": "Conway's Game of Life - Wikipedia",
   "url": "http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"
+ },
+ "http://en.wikipedia.org/wiki/Covariance": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Covariance",
+  "http": 200,
+  "status": "ok",
+  "title": "Covariance - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Covariance"
+ },
+ "http://en.wikipedia.org/wiki/Denver_International_Airport": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Denver_International_Airport",
+  "http": 200,
+  "status": "ok",
+  "title": "Denver International Airport - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Denver_International_Airport"
+ },
+ "http://en.wikipedia.org/wiki/Dukkha": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Dukkha",
+  "http": 200,
+  "status": "ok",
+  "title": "Duḥkha - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Dukkha"
+ },
+ "http://en.wikipedia.org/wiki/Dunbar%27s_number": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+  "http": 200,
+  "status": "ok",
+  "title": "Dunbar's number - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Dunbar%27s_number"
+ },
+ "http://en.wikipedia.org/wiki/Ego_depletion": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Ego_depletion",
+  "http": 200,
+  "status": "ok",
+  "title": "Ego depletion - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Ego_depletion"
+ },
+ "http://en.wikipedia.org/wiki/Emergence": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Emergence",
+  "http": 200,
+  "status": "ok",
+  "title": "Emergence - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Emergence"
+ },
+ "http://en.wikipedia.org/wiki/Eurofighter": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Eurofighter",
+  "http": 200,
+  "status": "ok",
+  "title": "Eurofighter Typhoon - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Eurofighter"
+ },
+ "http://en.wikipedia.org/wiki/Evolutionary_psychology#Environment_of_evolutionary_adaptedness": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Evolutionary_psychology#Environment_of_evolutionary_adaptedness",
+  "http": 200,
+  "status": "ok",
+  "title": "Evolutionary psychology - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Evolutionary_psychology#Environment_of_evolutionary_adaptedness"
+ },
+ "http://en.wikipedia.org/wiki/False_dilemma": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/False_dilemma",
+  "http": 200,
+  "status": "ok",
+  "title": "False dilemma - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/False_dilemma"
+ },
+ "http://en.wikipedia.org/wiki/File:Mars_Hubble.jpg": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/File:Mars_Hubble.jpg",
+  "http": 200,
+  "status": "ok",
+  "title": "File:Mars Hubble.jpg - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/File:Mars_Hubble.jpg"
+ },
+ "http://en.wikipedia.org/wiki/Fisherian_runaway": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Fisherian_runaway",
+  "http": 200,
+  "status": "ok",
+  "title": "Fisherian runaway - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Fisherian_runaway"
+ },
+ "http://en.wikipedia.org/wiki/Hong%E2%80%93Ou%E2%80%93Mandel_effect": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Hong%E2%80%93Ou%E2%80%93Mandel_effect",
+  "http": 200,
+  "status": "ok",
+  "title": "Hong–Ou–Mandel effect - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Hong%E2%80%93Ou%E2%80%93Mandel_effect"
+ },
+ "http://en.wikipedia.org/wiki/Japanese_blood_type_theory_of_personality": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Japanese_blood_type_theory_of_personality",
+  "http": 200,
+  "status": "ok",
+  "title": "Blood type personality theory - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Japanese_blood_type_theory_of_personality"
+ },
+ "http://en.wikipedia.org/wiki/Just-world_fallacy": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Just-world_fallacy",
+  "http": 200,
+  "status": "ok",
+  "title": "Just-world fallacy - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Just-world_fallacy"
+ },
+ "http://en.wikipedia.org/wiki/Lady_Justice": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Lady_Justice",
+  "http": 200,
+  "status": "ok",
+  "title": "Lady Justice - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Lady_Justice"
+ },
+ "http://en.wikipedia.org/wiki/Lake_Wobegon_effect": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Lake_Wobegon_effect",
+  "http": 200,
+  "status": "ok",
+  "title": "Lake Wobegon - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Lake_Wobegon_effect"
+ },
+ "http://en.wikipedia.org/wiki/List_of_fallacies": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/List_of_fallacies",
+  "http": 200,
+  "status": "ok",
+  "title": "List of fallacies - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/List_of_fallacies"
+ },
+ "http://en.wikipedia.org/wiki/Long-Term_Capital_Management": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+  "http": 200,
+  "status": "ok",
+  "title": "Long-Term Capital Management - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Long-Term_Capital_Management"
  },
  "http://en.wikipedia.org/wiki/Marcus_Einfeld": {
   "checked": "2026-10-04",
@@ -71,6 +927,70 @@
   "title": "Marcus Einfeld - Wikipedia",
   "url": "http://en.wikipedia.org/wiki/Marcus_Einfeld"
  },
+ "http://en.wikipedia.org/wiki/Modern_Orthodox_Judaism": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism",
+  "http": 200,
+  "status": "ok",
+  "title": "Modern Orthodox Judaism - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Modern_Orthodox_Judaism"
+ },
+ "http://en.wikipedia.org/wiki/Moore%27s_paradox": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Moore%27s_paradox",
+  "http": 200,
+  "status": "ok",
+  "title": "Moore's paradox - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Moore%27s_paradox"
+ },
+ "http://en.wikipedia.org/wiki/Neglect_of_probability": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Neglect_of_probability",
+  "http": 200,
+  "status": "ok",
+  "title": "Neglect of probability - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Neglect_of_probability"
+ },
+ "http://en.wikipedia.org/wiki/No_true_Scotsman": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/No_true_Scotsman",
+  "http": 200,
+  "status": "ok",
+  "title": "No true Scotsman - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/No_true_Scotsman"
+ },
+ "http://en.wikipedia.org/wiki/Package-deal_fallacy": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Package-deal_fallacy",
+  "http": 200,
+  "status": "ok",
+  "title": "Package-deal fallacy - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Package-deal_fallacy"
+ },
+ "http://en.wikipedia.org/wiki/Peak-end_rule": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Peak-end_rule",
+  "http": 200,
+  "status": "ok",
+  "title": "Peak–end rule - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Peak-end_rule"
+ },
+ "http://en.wikipedia.org/wiki/Plant_sexuality": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Plant_sexuality",
+  "http": 200,
+  "status": "ok",
+  "title": "Plant reproductive morphology - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Plant_sexuality"
+ },
+ "http://en.wikipedia.org/wiki/Polywell": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Polywell",
+  "http": 200,
+  "status": "ok",
+  "title": "Polywell - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Polywell"
+ },
  "http://en.wikipedia.org/wiki/Price_equation": {
   "checked": "2026-10-04",
   "final": "https://en.wikipedia.org/wiki/Price_equation",
@@ -78,6 +998,135 @@
   "status": "ok",
   "title": "Price equation - Wikipedia",
   "url": "http://en.wikipedia.org/wiki/Price_equation"
+ },
+ "http://en.wikipedia.org/wiki/Prisoner%27s_dilemma": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Prisoner%27s_dilemma",
+  "http": 200,
+  "status": "ok",
+  "title": "Prisoner's dilemma - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Prisoner%27s_dilemma"
+ },
+ "http://en.wikipedia.org/wiki/Quine_(computing)": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Quine_(computing)",
+  "http": 200,
+  "status": "ok",
+  "title": "Quine (computing) - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Quine_(computing)"
+ },
+ "http://en.wikipedia.org/wiki/SF_Hydro": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/SF_Hydro",
+  "http": 200,
+  "status": "ok",
+  "title": "SF Hydro - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/SF_Hydro"
+ },
+ "http://en.wikipedia.org/wiki/Scarcity_(social_psychology)": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)",
+  "http": 200,
+  "status": "ok",
+  "title": "Scarcity (social psychology) - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Scarcity_(social_psychology)"
+ },
+ "http://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg",
+  "http": 200,
+  "status": "ok",
+  "title": "Seven Bridges of Königsberg - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg"
+ },
+ "http://en.wikipedia.org/wiki/Sunk_cost": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Sunk_cost",
+  "http": 200,
+  "status": "ok",
+  "title": "Sunk cost - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Sunk_cost"
+ },
+ "http://en.wikipedia.org/wiki/Sydney_opera_house": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Sydney_opera_house",
+  "http": 200,
+  "status": "ok",
+  "title": "Sydney Opera House - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Sydney_opera_house"
+ },
+ "http://en.wikipedia.org/wiki/Theory_of_heat": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Theory_of_heat",
+  "http": 200,
+  "status": "ok",
+  "title": "History of thermodynamics - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Theory_of_heat"
+ },
+ "http://en.wikipedia.org/wiki/Tikhonov_regularization#Bayesian_interpretation": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Tikhonov_regularization#Bayesian_interpretation",
+  "http": 200,
+  "status": "ok",
+  "title": "Ridge regression - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Tikhonov_regularization#Bayesian_interpretation"
+ },
+ "http://en.wikipedia.org/wiki/Transposon": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Transposon",
+  "http": 200,
+  "status": "ok",
+  "title": "Transposable element - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Transposon"
+ },
+ "http://en.wikipedia.org/wiki/Ultimatum_game": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Ultimatum_game",
+  "http": 200,
+  "status": "ok",
+  "title": "Ultimatum game - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Ultimatum_game"
+ },
+ "http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem",
+  "http": 200,
+  "status": "ok",
+  "title": "Von Neumann–Morgenstern utility theorem - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem"
+ },
+ "http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view",
+  "http": 200,
+  "status": "ok",
+  "title": "Wikipedia:Neutral point of view - Wikipedia",
+  "url": "http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view"
+ },
+ "http://en.wikiquote.org/wiki/John_McCarthy": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikiquote.org/wiki/John_McCarthy",
+  "http": 200,
+  "status": "ok",
+  "title": "John McCarthy (computer scientist) - Wikiquote",
+  "url": "http://en.wikiquote.org/wiki/John_McCarthy"
+ },
+ "http://en.wikisource.org/wiki/Lamia": {
+  "checked": "2026-10-04",
+  "final": "https://en.wikisource.org/wiki/Lamia",
+  "http": 200,
+  "status": "ok",
+  "title": "Lamia - Wikisource, the free online library",
+  "url": "http://en.wikisource.org/wiki/Lamia"
+ },
+ "http://entertainment.slashdot.org/story/07/03/26/197253/a-million-dollar-laptop-created": {
+  "checked": "2026-10-04",
+  "final": "http://entertainment.slashdot.org/story/07/03/26/197253/a-million-dollar-laptop-created",
+  "http": 403,
+  "note": "https://entertainment.slashdot.org/story/07/03/26/197253/a-million-dollar-laptop-created: HTTP 403 (bot protection); http://entertainment.slashdot.org/story/07/03/26/197253/a-million-dollar-laptop-created: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://entertainment.slashdot.org/story/07/03/26/197253/a-million-dollar-laptop-created"
  },
  "http://extropians.weidai.com/extropians.1Q99/0380.html": {
   "checked": "2026-10-04",
@@ -121,6 +1170,64 @@
   "title": "",
   "url": "http://forums.keenspot.com/viewtopic.php?p=1099960#p1099960"
  },
+ "http://godescalc.wordpress.com/2012/06/24/overlooked-elephant/": {
+  "checked": "2026-10-04",
+  "final": "http://godescalc.wordpress.com/2012/06/24/overlooked-elephant/",
+  "http": 403,
+  "note": "https://godescalc.wordpress.com/2012/06/24/overlooked-elephant/: HTTP 403 (bot protection); http://godescalc.wordpress.com/2012/06/24/overlooked-elephant/: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://godescalc.wordpress.com/2012/06/24/overlooked-elephant/"
+ },
+ "http://gutenberg.net.au/ebooks03/0300011h.html#part42": {
+  "checked": "2026-10-04",
+  "final": "https://gutenberg.net.au/ebooks03/0300011h.html#part42",
+  "http": 200,
+  "status": "ok",
+  "title": "Fifty Orwell Essays",
+  "url": "http://gutenberg.net.au/ebooks03/0300011h.html#part42"
+ },
+ "http://hanson.gmu.edu/mangledworlds.html": {
+  "checked": "2026-10-04",
+  "final": "http://hanson.gmu.edu/mangledworlds.html",
+  "http": 403,
+  "note": "https://hanson.gmu.edu/mangledworlds.html: HTTP 403 (bot protection); http://hanson.gmu.edu/mangledworlds.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://hanson.gmu.edu/mangledworlds.html"
+ },
+ "http://hpmor.com/": {
+  "checked": "2026-10-04",
+  "final": "https://hpmor.com/",
+  "http": 200,
+  "status": "ok",
+  "title": "Harry Potter and the Methods of Rationality | Petunia married a professor, and Harry grew up reading science and science",
+  "url": "http://hpmor.com/"
+ },
+ "http://intelligence.org/2007/09/30/three-major-singularity-schools/": {
+  "checked": "2026-10-04",
+  "final": "https://intelligence.org/2007/09/30/three-major-singularity-schools/",
+  "http": 200,
+  "status": "ok",
+  "title": "Three Major Singularity Schools - Machine Intelligence Research Institute",
+  "url": "http://intelligence.org/2007/09/30/three-major-singularity-schools/"
+ },
+ "http://intelligence.org/files/AIPosNegFactor.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://intelligence.org/files/AIPosNegFactor.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://intelligence.org/files/AIPosNegFactor.pdf"
+ },
+ "http://intelligence.org/files/CognitiveBiases.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://intelligence.org/files/CognitiveBiases.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://intelligence.org/files/CognitiveBiases.pdf"
+ },
  "http://intelligence.org/files/TDT.pdf": {
   "checked": "2026-10-04",
   "final": "https://intelligence.org/files/TDT.pdf",
@@ -145,6 +1252,14 @@
   "status": "unchecked",
   "title": "",
   "url": "http://intelligence.org/files/TowardIdealizedDecisionTheory.pdf"
+ },
+ "http://interstice.com/%7Esimon/AfterLife/": {
+  "checked": "2026-10-04",
+  "final": "https://interstice.com/~simon/AfterLife/",
+  "http": 200,
+  "status": "redirected",
+  "title": "After Life",
+  "url": "http://interstice.com/%7Esimon/AfterLife/"
  },
  "http://interstice.com/~simon/AfterLife/": {
   "checked": "2026-10-04",
@@ -173,6 +1288,14 @@
   "title": "Individual differences in reasoning: Implications for the rationality debate? | Behavioral and Brain Sciences | Cambridg",
   "url": "http://journals.cambridge.org/abstract_S0140525X00003435"
  },
+ "http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-5241/ledwig.pdf?sequence=1": {
+  "checked": "2026-10-04",
+  "final": "http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-5241/ledwig.pdf?sequence=1",
+  "note": "https://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-5241/ledwig.pdf?sequence=1: ProxyError; http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-5241/ledwig.pdf?sequence=1: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-opus-5241/ledwig.pdf?sequence=1"
+ },
  "http://lesswrong.com/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/",
@@ -180,6 +1303,14 @@
   "status": "ok",
   "title": "LessWrong",
   "url": "http://lesswrong.com/"
+ },
+ "http://lesswrong.com/lw/1d/simultaneously_right_and_wrong/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/P3uavjFmZD5RopJKk/simultaneously-right-and-wrong",
+  "http": 200,
+  "status": "redirected",
+  "title": "Simultaneously Right and Wrong",
+  "url": "http://lesswrong.com/lw/1d/simultaneously_right_and_wrong/"
  },
  "http://lesswrong.com/lw/1f/moores_paradox/#u3": {
   "checked": "2026-10-04",
@@ -189,6 +1320,69 @@
   "status": "redirected",
   "title": "Moore's Paradox",
   "url": "http://lesswrong.com/lw/1f/moores_paradox/#u3"
+ },
+ "http://lesswrong.com/lw/1gc/frequentist_statistics_are_frequently_subjective/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/9qCN6tRBtksSyXfHu/frequentist-statistics-are-frequently-subjective",
+  "http": 200,
+  "status": "redirected",
+  "title": "Frequentist Statistics are Frequently Subjective",
+  "url": "http://lesswrong.com/lw/1gc/frequentist_statistics_are_frequently_subjective/"
+ },
+ "http://lesswrong.com/lw/2k/the_least_convenient_possible_world/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/neQ7eXuaXpiYw7SBy/the-least-convenient-possible-world",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Least Convenient Possible World",
+  "url": "http://lesswrong.com/lw/2k/the_least_convenient_possible_world/"
+ },
+ "http://lesswrong.com/lw/2o/soulless_morality/1q1#comments": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20161020050358/http://lesswrong.com/lw/2o/soulless_morality/1q1",
+  "http": 404,
+  "note": "https://lesswrong.com/lw/2o/soulless_morality/1q1/comments: HTTP 404",
+  "snapshot": "20161020050358",
+  "status": "archived",
+  "title": "",
+  "url": "http://lesswrong.com/lw/2o/soulless_morality/1q1#comments"
+ },
+ "http://lesswrong.com/lw/2s/3_levels_of_rationality_verification/#1xv": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/5K7CMa6dEL7TN7sae/3-levels-of-rationality-verification?commentId=62uiPzXThv8BZLrut#1xv",
+  "http": 200,
+  "note": "checked as https://lesswrong.com/lw/2s/3_levels_of_rationality_verification/1xv",
+  "status": "redirected",
+  "title": "3 Levels of Rationality Verification",
+  "url": "http://lesswrong.com/lw/2s/3_levels_of_rationality_verification/#1xv"
+ },
+ "http://lesswrong.com/lw/2s/3_levels_of_rationality_verification/1ym": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/5K7CMa6dEL7TN7sae/3-levels-of-rationality-verification?commentId=EaNn9mK5s8CESpTuJ",
+  "http": 200,
+  "status": "redirected",
+  "title": "3 Levels of Rationality Verification",
+  "url": "http://lesswrong.com/lw/2s/3_levels_of_rationality_verification/1ym"
+ },
+ "http://lesswrong.com/lw/2v/the_tragedy_of_the_anticommons/242#comments": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150223034921/http://lesswrong.com:80/lw/2v/the_tragedy_of_the_anticommons/242",
+  "http": 404,
+  "note": "https://lesswrong.com/lw/2v/the_tragedy_of_the_anticommons/242/comments: HTTP 404",
+  "snapshot": "20150223034921",
+  "status": "archived",
+  "title": "",
+  "url": "http://lesswrong.com/lw/2v/the_tragedy_of_the_anticommons/242#comments"
+ },
+ "http://lesswrong.com/lw/4i/bhtv_yudkowsky_adam_frank_on_religious_experience/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/xDroHJ3AzWwJ45ufJ/bhtv-yudkowsky-and-adam-frank-on-religious-experience",
+  "http": 200,
+  "status": "redirected",
+  "title": "BHTV: Yudkowsky & Adam Frank on \"religious experience\"",
+  "url": "http://lesswrong.com/lw/4i/bhtv_yudkowsky_adam_frank_on_religious_experience/"
  },
  "http://lesswrong.com/lw/52/why_i_fail_to_act_rationally/#3tm": {
   "checked": "2026-10-04",
@@ -207,6 +1401,30 @@
   "title": "The Power of Agency",
   "url": "http://lesswrong.com/lw/5i8/the_power_of_agency/"
  },
+ "http://lesswrong.com/lw/7i/rationality_is_systematized_winning/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/4ARtkT3EYox3THYjF/rationality-is-systematized-winning",
+  "http": 200,
+  "status": "redirected",
+  "title": "Rationality is Systematized Winning",
+  "url": "http://lesswrong.com/lw/7i/rationality_is_systematized_winning/"
+ },
+ "http://lesswrong.com/lw/9/the_most_important_thing_you_learned/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/bsdxuNdSGbfEKZREP/the-most-important-thing-you-learned",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Most Important Thing You Learned",
+  "url": "http://lesswrong.com/lw/9/the_most_important_thing_you_learned/"
+ },
+ "http://lesswrong.com/lw/9c/mandatory_secret_identities/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/gBewgmzcEiks2XdoQ/mandatory-secret-identities",
+  "http": 200,
+  "status": "redirected",
+  "title": "Mandatory Secret Identities",
+  "url": "http://lesswrong.com/lw/9c/mandatory_secret_identities/"
+ },
  "http://lesswrong.com/lw/9o/stuck_in_the_middle_with_bruce/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/FZaDFYbnRoHmde7F6/stuck-in-the-middle-with-bruce",
@@ -214,6 +1432,14 @@
   "status": "redirected",
   "title": "\"Stuck In The Middle With Bruce\"",
   "url": "http://lesswrong.com/lw/9o/stuck_in_the_middle_with_bruce/"
+ },
+ "http://lesswrong.com/lw/a6/the_unfinished_mystery_of_the_shangrila_diet/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/BD4oExxQguTgpESdm/the-unfinished-mystery-of-the-shangri-la-diet",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Unfinished Mystery of the Shangri-La Diet",
+  "url": "http://lesswrong.com/lw/a6/the_unfinished_mystery_of_the_shangrila_diet/"
  },
  "http://lesswrong.com/lw/f43/proofs_implications_and_models/": {
   "checked": "2026-10-04",
@@ -223,6 +1449,54 @@
   "title": "Proofs, Implications, and Models",
   "url": "http://lesswrong.com/lw/f43/proofs_implications_and_models/"
  },
+ "http://lesswrong.com/lw/gn/the_martial_art_of_rationality/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/teaxCFgtmCQ3E9fy8/the-martial-art-of-rationality",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Martial Art of Rationality",
+  "url": "http://lesswrong.com/lw/gn/the_martial_art_of_rationality/"
+ },
+ "http://lesswrong.com/lw/gr/the_modesty_argument/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/NKECtGX4RZPd7SqYp/the-modesty-argument",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Modesty Argument",
+  "url": "http://lesswrong.com/lw/gr/the_modesty_argument/"
+ },
+ "http://lesswrong.com/lw/h0/burchs_law/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/6dSitnwYPg8i8NHn3/burch-s-law",
+  "http": 200,
+  "status": "redirected",
+  "title": "Burch's Law",
+  "url": "http://lesswrong.com/lw/h0/burchs_law/"
+ },
+ "http://lesswrong.com/lw/h2/blue_or_green_on_regulation/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/uaPc4NHi5jGXGQKFS/blue-or-green-on-regulation",
+  "http": 200,
+  "status": "redirected",
+  "title": "Blue or Green on Regulation?",
+  "url": "http://lesswrong.com/lw/h2/blue_or_green_on_regulation/"
+ },
+ "http://lesswrong.com/lw/h5/archimedess_chronophone/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/cKrgy7hLdszkse2pq/archimedes-s-chronophone",
+  "http": 200,
+  "status": "redirected",
+  "title": "Archimedes's Chronophone",
+  "url": "http://lesswrong.com/lw/h5/archimedess_chronophone/"
+ },
+ "http://lesswrong.com/lw/h6/chronophone_motivations/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/7khK4DShZBR8gfyHv/chronophone-motivations",
+  "http": 200,
+  "status": "redirected",
+  "title": "Chronophone Motivations",
+  "url": "http://lesswrong.com/lw/h6/chronophone_motivations/"
+ },
  "http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/dza": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/AdYdLP2sRqPMoe8fb/knowing-about-biases-can-hurt-people?commentId=Z9LacBsgsH7cPAnhu",
@@ -231,6 +1505,86 @@
   "title": "Knowing About Biases Can Hurt People",
   "url": "http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/dza"
  },
+ "http://lesswrong.com/lw/hf/debiasing_as_nonselfdestruction/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/XZWMeeqKmfMSPTLha/debiasing-as-non-self-destruction",
+  "http": 200,
+  "status": "redirected",
+  "title": "Debiasing as Non-Self-Destruction",
+  "url": "http://lesswrong.com/lw/hf/debiasing_as_nonselfdestruction/"
+ },
+ "http://lesswrong.com/lw/hg/inductive_bias/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias",
+  "http": 200,
+  "status": "redirected",
+  "title": "\"Inductive Bias\"",
+  "url": "http://lesswrong.com/lw/hg/inductive_bias/"
+ },
+ "http://lesswrong.com/lw/hk/priors_as_mathematical_objects/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/jzf4Rcienrm6btRyt/priors-as-mathematical-objects",
+  "http": 200,
+  "status": "redirected",
+  "title": "Priors as Mathematical Objects",
+  "url": "http://lesswrong.com/lw/hk/priors_as_mathematical_objects/"
+ },
+ "http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/e1u": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hope?commentId=g5jFX4e8LvcFiEPTm",
+  "http": 200,
+  "status": "redirected",
+  "title": "Lotteries: A Waste of Hope",
+  "url": "http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/e1u"
+ },
+ "http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/e20": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hope?commentId=ALEZptd2zFT3bYcoS",
+  "http": 200,
+  "status": "redirected",
+  "title": "Lotteries: A Waste of Hope",
+  "url": "http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/e20"
+ },
+ "http://lesswrong.com/lw/i2/two_more_things_to_unlearn_from_school/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school",
+  "http": 200,
+  "status": "redirected",
+  "title": "Two More Things to Unlearn from School",
+  "url": "http://lesswrong.com/lw/i2/two_more_things_to_unlearn_from_school/"
+ },
+ "http://lesswrong.com/lw/i6/professing_and_cheering/egb": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/RmCjazjupRGcHSm5N/professing-and-cheering?commentId=xXzMzN5Dz94kKAQAC",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/i6/professing_and_cheering/egb"
+ },
+ "http://lesswrong.com/lw/ig/i_defy_the_data/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/vrHRcEDMjZcx5Yfru/i-defy-the-data",
+  "http": 200,
+  "status": "redirected",
+  "title": "I Defy the Data!",
+  "url": "http://lesswrong.com/lw/ig/i_defy_the_data/"
+ },
+ "http://lesswrong.com/lw/il/hindsight_bias/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/fkM9XsNvXdYH6PPAx/hindsight-bias",
+  "http": 200,
+  "status": "redirected",
+  "title": "Hindsight bias",
+  "url": "http://lesswrong.com/lw/il/hindsight_bias/"
+ },
+ "http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/XKcawbsB6Tj5e2QRK/is-molecular-nanotechnology-scientific",
+  "http": 200,
+  "status": "redirected",
+  "title": "Is Molecular Nanotechnology \"Scientific\"?",
+  "url": "http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/"
+ },
  "http://lesswrong.com/lw/j0/making_history_available/ewg": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/TLKPj4GDXetZuPDH5/making-history-available?commentId=yWtaX2A8vuAaT9mLA",
@@ -238,6 +1592,94 @@
   "status": "redirected",
   "title": "Making History Available",
   "url": "http://lesswrong.com/lw/j0/making_history_available/ewg"
+ },
+ "http://lesswrong.com/lw/j4/absurdity_heuristic_absurdity_bias/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/P792Z4QA9dzcLdKkE/absurdity-heuristic-absurdity-bias",
+  "http": 200,
+  "status": "redirected",
+  "title": "Absurdity Heuristic, Absurdity Bias",
+  "url": "http://lesswrong.com/lw/j4/absurdity_heuristic_absurdity_bias/"
+ },
+ "http://lesswrong.com/lw/j6/why_is_the_future_so_absurd/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/Ga2HSwf9iQe64JwAa/why-is-the-future-so-absurd",
+  "http": 200,
+  "status": "redirected",
+  "title": "Why is the Future So Absurd?",
+  "url": "http://lesswrong.com/lw/j6/why_is_the_future_so_absurd/"
+ },
+ "http://lesswrong.com/lw/j7/anchoring_and_adjustment/eza": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/bMkCEZoBNhgRBtzoj/anchoring-and-adjustment?commentId=cAhBMDY2Mk9g5333a",
+  "http": 200,
+  "status": "redirected",
+  "title": "Anchoring and Adjustment",
+  "url": "http://lesswrong.com/lw/j7/anchoring_and_adjustment/eza"
+ },
+ "http://lesswrong.com/lw/ja/we_dont_really_want_your_participation/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/RiWPdNaoL8fq7phbY/we-don-t-really-want-your-participation",
+  "http": 200,
+  "status": "redirected",
+  "title": "We Don't Really Want Your Participation",
+  "url": "http://lesswrong.com/lw/ja/we_dont_really_want_your_participation/"
+ },
+ "http://lesswrong.com/lw/jb/applause_lights/f1t": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights?commentId=xeXHrshE76y2CwdJS",
+  "http": 200,
+  "status": "redirected",
+  "title": "Applause Lights",
+  "url": "http://lesswrong.com/lw/jb/applause_lights/f1t"
+ },
+ "http://lesswrong.com/lw/ji/conjunction_fallacy/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/QAK43nNCTQQycAcYe/conjunction-fallacy",
+  "http": 200,
+  "status": "redirected",
+  "title": "Conjunction Fallacy",
+  "url": "http://lesswrong.com/lw/ji/conjunction_fallacy/"
+ },
+ "http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/cXzTpSiCrNGzeoRAz/conjunction-controversy-or-how-they-nail-it-down",
+  "http": 200,
+  "status": "redirected",
+  "title": "Conjunction Controversy (Or, How They Nail It Down)",
+  "url": "http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/"
+ },
+ "http://lesswrong.com/lw/jl/what_is_evidence/f7h": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/6s3xABaXKPdFwA3FS/what-is-evidence?commentId=ubFQTM2SK3MtWNWdy",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/jl/what_is_evidence/f7h"
+ },
+ "http://lesswrong.com/lw/kb/cant_say_no_spending/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/LxcJHS2Lt22mHQ4Hm/can-t-say-no-spending",
+  "http": 200,
+  "status": "redirected",
+  "title": "\"Can't Say No\" Spending",
+  "url": "http://lesswrong.com/lw/kb/cant_say_no_spending/"
+ },
+ "http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/a5JAiTdytou3Jg749/pascal-s-mugging-tiny-probabilities-of-vast-utilities",
+  "http": 200,
+  "status": "redirected",
+  "title": "Pascal's Mugging: Tiny Probabilities of Vast Utilities",
+  "url": "http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/"
+ },
+ "http://lesswrong.com/lw/kf/selfanchoring/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/sWtvoBsknYvS6QPTb/self-anchoring",
+  "http": 200,
+  "status": "redirected",
+  "title": "Self-Anchoring",
+  "url": "http://lesswrong.com/lw/kf/selfanchoring/"
  },
  "http://lesswrong.com/lw/ki/double_illusion_of_transparency/": {
   "checked": "2026-10-04",
@@ -263,6 +1705,22 @@
   "title": "Protein Reinforcement and DNA Consequentialism",
   "url": "http://lesswrong.com/lw/l2/protein_reinforcement_and_dna_consequentialism/"
  },
+ "http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/KE8wPzGiX5QPotyS8/conjuring-an-evolution-to-serve-you",
+  "http": 200,
+  "status": "redirected",
+  "title": "Conjuring An Evolution To Serve You",
+  "url": "http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/"
+ },
+ "http://lesswrong.com/lw/lf/purpose_and_pragmatism/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/AZfBrZfBu8Aa2FK9D/purpose-and-pragmatism",
+  "http": 200,
+  "status": "redirected",
+  "title": "Purpose and Pragmatism",
+  "url": "http://lesswrong.com/lw/lf/purpose_and_pragmatism/"
+ },
  "http://lesswrong.com/lw/lm/affective_death_spirals/gp5": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/XrzQW69HpidzvBxGr/affective-death-spirals?commentId=entyDfAzEPoTXDkhu",
@@ -271,6 +1729,70 @@
   "title": "Affective Death Spirals",
   "url": "http://lesswrong.com/lw/lm/affective_death_spirals/gp5"
  },
+ "http://lesswrong.com/lw/lp/fake_fake_utility_functions/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/D6rsNhHM4pBCpDzSb/fake-fake-utility-functions",
+  "http": 200,
+  "status": "redirected",
+  "title": "Fake Fake Utility Functions",
+  "url": "http://lesswrong.com/lw/lp/fake_fake_utility_functions/"
+ },
+ "http://lesswrong.com/lw/m2/the_litany_against_gurus/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/t6Fe2PsEwb3HhcBEr/the-litany-against-gurus",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Litany Against Gurus",
+  "url": "http://lesswrong.com/lw/m2/the_litany_against_gurus/"
+ },
+ "http://lesswrong.com/lw/m7/zen_and_the_art_of_rationality/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/HLERouG7QBt7jzLt4/zen-and-the-art-of-rationality",
+  "http": 200,
+  "status": "redirected",
+  "title": "Zen and the Art of Rationality",
+  "url": "http://lesswrong.com/lw/m7/zen_and_the_art_of_rationality/"
+ },
+ "http://lesswrong.com/lw/m8/the_amazing_virgin_pregnancy/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/FkwKGQFS5XL9mQSQb/the-amazing-virgin-pregnancy",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Amazing Virgin Pregnancy",
+  "url": "http://lesswrong.com/lw/m8/the_amazing_virgin_pregnancy/"
+ },
+ "http://lesswrong.com/lw/mg/the_twoparty_swindle/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/qAJgWCWJJkke4mE8x/the-two-party-swindle",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Two-Party Swindle",
+  "url": "http://lesswrong.com/lw/mg/the_twoparty_swindle/"
+ },
+ "http://lesswrong.com/lw/mk/a_failed_justso_story/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/kX6C2qdngKp4AdEAk/a-failed-just-so-story",
+  "http": 200,
+  "status": "redirected",
+  "title": "A Failed Just-So Story",
+  "url": "http://lesswrong.com/lw/mk/a_failed_justso_story/"
+ },
+ "http://lesswrong.com/lw/mm/the_fallacy_of_gray/hho": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray?commentId=KivJL8n3DcsCxGwki",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/mm/the_fallacy_of_gray/hho"
+ },
+ "http://lesswrong.com/lw/mr/expecting_beauty/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/uichBYWKcGAqRZZdP/expecting-beauty",
+  "http": 200,
+  "status": "redirected",
+  "title": "Expecting Beauty",
+  "url": "http://lesswrong.com/lw/mr/expecting_beauty/"
+ },
  "http://lesswrong.com/lw/mt/beautiful_probability/hnz": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/bkSkRwo9SRYxJMiSY/beautiful-probability?commentId=MXfWCChPMQi5vya4d",
@@ -278,6 +1800,38 @@
   "status": "redirected",
   "title": "Beautiful Probability",
   "url": "http://lesswrong.com/lw/mt/beautiful_probability/hnz"
+ },
+ "http://lesswrong.com/lw/my/the_allais_paradox/hr3": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/zJZvoiwydJ5zvzTHK/the-allais-paradox?commentId=BAhM7JNYbeL5yqbdZ",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Allais Paradox",
+  "url": "http://lesswrong.com/lw/my/the_allais_paradox/hr3"
+ },
+ "http://lesswrong.com/lw/n1/allais_malaise/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/knpAQ4F3gmguxy39z/allais-malaise",
+  "http": 200,
+  "status": "redirected",
+  "title": "Allais Malaise",
+  "url": "http://lesswrong.com/lw/n1/allais_malaise/"
+ },
+ "http://lesswrong.com/lw/na/trust_in_bayes/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/BL9DuE2iTCkrnuYzx/trust-in-bayes",
+  "http": 200,
+  "status": "redirected",
+  "title": "Trust in Bayes",
+  "url": "http://lesswrong.com/lw/na/trust_in_bayes/"
+ },
+ "http://lesswrong.com/lw/ni/buy_now_or_forever_hold_your_peace/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/QDHcpmTXMqPrrsddr/buy-now-or-forever-hold-your-peace",
+  "http": 200,
+  "status": "redirected",
+  "title": "Buy Now Or Forever Hold Your Peace",
+  "url": "http://lesswrong.com/lw/ni/buy_now_or_forever_hold_your_peace/"
  },
  "http://lesswrong.com/lw/nw/fallacies_of_compression/ia9": {
   "checked": "2026-10-04",
@@ -303,6 +1857,62 @@
   "title": "Zombies! Zombies?",
   "url": "http://lesswrong.com/lw/p7/zombies_zombies/j7g"
  },
+ "http://lesswrong.com/lw/pk/feynman_paths/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/oiu7YhzrDTvCxMhdS/feynman-paths",
+  "http": 200,
+  "status": "redirected",
+  "title": "Feynman Paths",
+  "url": "http://lesswrong.com/lw/pk/feynman_paths/"
+ },
+ "http://lesswrong.com/lw/pm/identity_isnt_in_specific_atoms/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/RLScTpwc5W2gGGrL9/identity-isn-t-in-specific-atoms",
+  "http": 200,
+  "status": "redirected",
+  "title": "Identity Isn't In Specific Atoms",
+  "url": "http://lesswrong.com/lw/pm/identity_isnt_in_specific_atoms/"
+ },
+ "http://lesswrong.com/lw/pp/decoherence/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/JrhoMTgMrMRJJiS48/decoherence",
+  "http": 200,
+  "status": "redirected",
+  "title": "Decoherence",
+  "url": "http://lesswrong.com/lw/pp/decoherence/"
+ },
+ "http://lesswrong.com/lw/pq/the_socalled_heisenberg_uncertainty_principle/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/eWuuznxeebcjWpdnH/the-so-called-heisenberg-uncertainty-principle",
+  "http": 200,
+  "status": "redirected",
+  "title": "The So-Called Heisenberg Uncertainty Principle",
+  "url": "http://lesswrong.com/lw/pq/the_socalled_heisenberg_uncertainty_principle/"
+ },
+ "http://lesswrong.com/lw/ps/where_physics_meets_experience/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/WajiC3YWeJutyAXTn/where-physics-meets-experience",
+  "http": 200,
+  "status": "redirected",
+  "title": "Where Physics Meets Experience",
+  "url": "http://lesswrong.com/lw/ps/where_physics_meets_experience/"
+ },
+ "http://lesswrong.com/lw/pu/on_being_decoherent/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/pRrksC5Y6TbyvKDJE/on-being-decoherent",
+  "http": 200,
+  "status": "redirected",
+  "title": "On Being Decoherent",
+  "url": "http://lesswrong.com/lw/pu/on_being_decoherent/"
+ },
+ "http://lesswrong.com/lw/pw/decoherence_is_pointless/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/aWFwfk3MBEyR4Ne8C/decoherence-is-pointless",
+  "http": 200,
+  "status": "redirected",
+  "title": "Decoherence is Pointless",
+  "url": "http://lesswrong.com/lw/pw/decoherence_is_pointless/"
+ },
  "http://lesswrong.com/lw/py/the_born_probabilities/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/3ZKvf9u2XEWddGZmS/the-born-probabilities",
@@ -310,6 +1920,22 @@
   "status": "redirected",
   "title": "The Born Probabilities",
   "url": "http://lesswrong.com/lw/py/the_born_probabilities/"
+ },
+ "http://lesswrong.com/lw/q1/bells_theorem_no_epr_reality/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/AnHJX42C6r6deohTG/bell-s-theorem-no-epr-reality",
+  "http": 200,
+  "status": "redirected",
+  "title": "Bell's Theorem: No EPR \"Reality\"",
+  "url": "http://lesswrong.com/lw/q1/bells_theorem_no_epr_reality/"
+ },
+ "http://lesswrong.com/lw/q2/spooky_action_at_a_distance_the_nocommunication/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/DY9h6zxq6EMHrkkxE/spooky-action-at-a-distance-the-no-communication-theorem",
+  "http": 200,
+  "status": "redirected",
+  "title": "Spooky Action at a Distance: The No-Communication Theorem",
+  "url": "http://lesswrong.com/lw/q2/spooky_action_at_a_distance_the_nocommunication/"
  },
  "http://lesswrong.com/lw/q4/decoherence_is_falsifiable_and_testable/jtw": {
   "checked": "2026-10-04",
@@ -367,6 +1993,38 @@
   "title": "Mach's Principle: Anti-Epiphenomenal Physics",
   "url": "http://lesswrong.com/lw/qm/machs_principle_antiepiphenomenal_physics/"
  },
+ "http://lesswrong.com/lw/qp/timeless_physics/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/rrW7yf42vQYDf8AcH/timeless-physics",
+  "http": 200,
+  "status": "redirected",
+  "title": "Timeless Physics",
+  "url": "http://lesswrong.com/lw/qp/timeless_physics/"
+ },
+ "http://lesswrong.com/lw/qr/timeless_causality/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/KipiHsTA3pw4joQkG/timeless-causality",
+  "http": 200,
+  "status": "redirected",
+  "title": "Timeless Causality",
+  "url": "http://lesswrong.com/lw/qr/timeless_causality/"
+ },
+ "http://lesswrong.com/lw/qu/a_premature_word_on_ai/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/iD5baT42zYAkWJPMB/a-premature-word-on-ai",
+  "http": 200,
+  "status": "redirected",
+  "title": "A Premature Word on AI",
+  "url": "http://lesswrong.com/lw/qu/a_premature_word_on_ai/"
+ },
+ "http://lesswrong.com/lw/qx/timeless_identity/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/924arDrTu3QRHFA5r/timeless-identity",
+  "http": 200,
+  "status": "redirected",
+  "title": "Timeless Identity",
+  "url": "http://lesswrong.com/lw/qx/timeless_identity/"
+ },
  "http://lesswrong.com/lw/r/no_really_ive_deceived_myself/#gk": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/rZX4WuufAPbN6wQTv/no-really-i-ve-deceived-myself?commentId=9ShudmvmEfYwqyeBt#gk",
@@ -376,6 +2034,54 @@
   "title": "No, Really, I've Deceived Myself",
   "url": "http://lesswrong.com/lw/r/no_really_ive_deceived_myself/#gk"
  },
+ "http://lesswrong.com/lw/r5/the_quantum_physics_sequence/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/r5/the_quantum_physics_sequence/"
+ },
+ "http://lesswrong.com/lw/r8/and_the_winner_is_manyworlds/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/9cgBF6BQ2TRB3Hy4E/and-the-winner-is-many-worlds",
+  "http": 200,
+  "status": "redirected",
+  "title": "And the Winner is... Many-Worlds!",
+  "url": "http://lesswrong.com/lw/r8/and_the_winner_is_manyworlds/"
+ },
+ "http://lesswrong.com/lw/ra/causality_and_moral_responsibility/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/FqJGfSrXphrcwpiZe/causality-and-moral-responsibility",
+  "http": 200,
+  "status": "redirected",
+  "title": "Causality and Moral Responsibility",
+  "url": "http://lesswrong.com/lw/ra/causality_and_moral_responsibility/"
+ },
+ "http://lesswrong.com/lw/rb/possibility_and_couldness/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/3buXtNiSK8gcRLMSG/possibility-and-could-ness",
+  "http": 200,
+  "status": "redirected",
+  "title": "Possibility and Could-ness",
+  "url": "http://lesswrong.com/lw/rb/possibility_and_couldness/"
+ },
+ "http://lesswrong.com/lw/rc/the_ultimate_source/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/EsMhFZuycZorZNRF5/the-ultimate-source",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Ultimate Source",
+  "url": "http://lesswrong.com/lw/rc/the_ultimate_source/"
+ },
+ "http://lesswrong.com/lw/rd/passing_the_recursive_buck/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/rw3oKLjG85BdKNXS2/passing-the-recursive-buck",
+  "http": 200,
+  "status": "redirected",
+  "title": "Passing the Recursive Buck",
+  "url": "http://lesswrong.com/lw/rd/passing_the_recursive_buck/"
+ },
  "http://lesswrong.com/lw/re/grasping_slippery_things/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/HnS6c5Xm9p9sbm4a8/grasping-slippery-things",
@@ -383,6 +2089,22 @@
   "status": "redirected",
   "title": "Grasping Slippery Things",
   "url": "http://lesswrong.com/lw/re/grasping_slippery_things/"
+ },
+ "http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/6ByPxcGDhmx74gPSm/surface-analogies-and-deep-causes",
+  "http": 200,
+  "status": "redirected",
+  "title": "Surface Analogies and Deep Causes",
+  "url": "http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/"
+ },
+ "http://lesswrong.com/lw/rl/the_psychological_unity_of_humankind/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/Cyj6wQLW6SeF6aGLy/the-psychological-unity-of-humankind",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Psychological Unity of Humankind",
+  "url": "http://lesswrong.com/lw/rl/the_psychological_unity_of_humankind/"
  },
  "http://lesswrong.com/lw/rr/the_moral_void/": {
   "checked": "2026-10-04",
@@ -392,6 +2114,22 @@
   "title": "The Moral Void",
   "url": "http://lesswrong.com/lw/rr/the_moral_void/"
  },
+ "http://lesswrong.com/lw/ru/the_bedrock_of_fairness/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/iAxkfiyG8WizPSPbq/the-bedrock-of-fairness",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Bedrock of Fairness",
+  "url": "http://lesswrong.com/lw/ru/the_bedrock_of_fairness/"
+ },
+ "http://lesswrong.com/lw/ry/is_morality_given/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/iQNKfYb7aRYopojTX/is-morality-given",
+  "http": 200,
+  "status": "redirected",
+  "title": "Is Morality Given?",
+  "url": "http://lesswrong.com/lw/ry/is_morality_given/"
+ },
  "http://lesswrong.com/lw/s3/the_genetic_fallacy/lls": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/KZLa74SzyKhSJ3M55/the-genetic-fallacy?commentId=arzu8aX3bf4PvkvMK",
@@ -399,6 +2137,62 @@
   "status": "redirected",
   "title": "The Genetic Fallacy",
   "url": "http://lesswrong.com/lw/s3/the_genetic_fallacy/lls"
+ },
+ "http://lesswrong.com/lw/s5/rebelling_within_nature/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/YhNGY6ypoNbLJvDBu/rebelling-within-nature",
+  "http": 200,
+  "status": "redirected",
+  "title": "Rebelling Within Nature",
+  "url": "http://lesswrong.com/lw/s5/rebelling_within_nature/"
+ },
+ "http://lesswrong.com/lw/s6/probability_is_subjectively_objective/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/XhaKvQyHzeXdNnFKy/probability-is-subjectively-objective",
+  "http": 200,
+  "status": "redirected",
+  "title": "Probability is Subjectively Objective",
+  "url": "http://lesswrong.com/lw/s6/probability_is_subjectively_objective/"
+ },
+ "http://lesswrong.com/lw/sc/existential_angst_factory/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factory",
+  "http": 200,
+  "status": "redirected",
+  "title": "Existential Angst Factory",
+  "url": "http://lesswrong.com/lw/sc/existential_angst_factory/"
+ },
+ "http://lesswrong.com/lw/se/should_we_ban_physics/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/rnk9gmWSrcqNfg7p8/should-we-ban-physics",
+  "http": 200,
+  "status": "redirected",
+  "title": "Should We Ban Physics?",
+  "url": "http://lesswrong.com/lw/se/should_we_ban_physics/"
+ },
+ "http://lesswrong.com/lw/si/math_is_subjunctively_objective/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/WAQ3qMD4vdXheQmui/math-is-subjunctively-objective",
+  "http": 200,
+  "status": "redirected",
+  "title": "Math is Subjunctively Objective",
+  "url": "http://lesswrong.com/lw/si/math_is_subjunctively_objective/"
+ },
+ "http://lesswrong.com/lw/sj/does_your_morality_care_what_you_think/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/GAR8gT3d9uCtr4kv8/does-your-morality-care-what-you-think",
+  "http": 200,
+  "status": "redirected",
+  "title": "Does Your Morality Care What You Think?",
+  "url": "http://lesswrong.com/lw/sj/does_your_morality_care_what_you_think/"
+ },
+ "http://lesswrong.com/lw/sm/the_meaning_of_right/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/fG3g3764tSubr6xvs/the-meaning-of-right",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Meaning of Right",
+  "url": "http://lesswrong.com/lw/sm/the_meaning_of_right/"
  },
  "http://lesswrong.com/lw/sm/the_meaning_of_right/toz": {
   "checked": "2026-10-04",
@@ -408,6 +2202,46 @@
   "title": "The Meaning of Right",
   "url": "http://lesswrong.com/lw/sm/the_meaning_of_right/toz"
  },
+ "http://lesswrong.com/lw/sn/interpersonal_morality/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/7HDtecu4qW9PCsSR6/interpersonal-morality",
+  "http": 200,
+  "status": "redirected",
+  "title": "Interpersonal Morality",
+  "url": "http://lesswrong.com/lw/sn/interpersonal_morality/"
+ },
+ "http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/9fpWoXpNv83BAHJdc/the-comedy-of-behaviorism",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Comedy of Behaviorism",
+  "url": "http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/"
+ },
+ "http://lesswrong.com/lw/sx/inseparably_right_or_joy_in_the_merely_good/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/JynJ6xfnpq9oN3zpb/inseparably-right-or-joy-in-the-merely-good",
+  "http": 200,
+  "status": "redirected",
+  "title": "Inseparably Right; or, Joy in the Merely Good",
+  "url": "http://lesswrong.com/lw/sx/inseparably_right_or_joy_in_the_merely_good/"
+ },
+ "http://lesswrong.com/lw/t0/abstracted_idealized_dynamics/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/9KacKm5yBv27rxWnJ/abstracted-idealized-dynamics",
+  "http": 200,
+  "status": "redirected",
+  "title": "Abstracted Idealized Dynamics",
+  "url": "http://lesswrong.com/lw/t0/abstracted_idealized_dynamics/"
+ },
+ "http://lesswrong.com/lw/ta/invisible_frameworks/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/sCs48JtMnQwQsZwyN/invisible-frameworks",
+  "http": 200,
+  "status": "redirected",
+  "title": "Invisible Frameworks",
+  "url": "http://lesswrong.com/lw/ta/invisible_frameworks/"
+ },
  "http://lesswrong.com/lw/tc/unnatural_categories/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/XeHYXXTGRuDrhk5XL/unnatural-categories",
@@ -415,6 +2249,38 @@
   "status": "redirected",
   "title": "Unnatural Categories",
   "url": "http://lesswrong.com/lw/tc/unnatural_categories/"
+ },
+ "http://lesswrong.com/lw/te/three_fallacies_of_teleology/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/2HxAkCG7NWTrrn5R3/three-fallacies-of-teleology",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/te/three_fallacies_of_teleology/"
+ },
+ "http://lesswrong.com/lw/tg/against_modal_logics/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/vzLrQaGPa9DNCpuZz/against-modal-logics",
+  "http": 200,
+  "status": "redirected",
+  "title": "Against Modal Logics",
+  "url": "http://lesswrong.com/lw/tg/against_modal_logics/"
+ },
+ "http://lesswrong.com/lw/tj/dreams_of_friendliness/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/wKnwcjJGriTS9QxxL/dreams-of-friendliness",
+  "http": 200,
+  "status": "redirected",
+  "title": "Dreams of Friendliness",
+  "url": "http://lesswrong.com/lw/tj/dreams_of_friendliness/"
+ },
+ "http://lesswrong.com/lw/tt/points_of_departure/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/zrGzan92SxP27LWP9/points-of-departure",
+  "http": 200,
+  "status": "redirected",
+  "title": "Points of Departure",
+  "url": "http://lesswrong.com/lw/tt/points_of_departure/"
  },
  "http://lesswrong.com/lw/tv/excluding_the_supernatural/n6f": {
   "checked": "2026-10-04",
@@ -424,6 +2290,62 @@
   "title": "Excluding the Supernatural",
   "url": "http://lesswrong.com/lw/tv/excluding_the_supernatural/n6f"
  },
+ "http://lesswrong.com/lw/tx/optimization/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/D7EcMhL26zFNbJ3ED/optimization",
+  "http": 200,
+  "status": "redirected",
+  "title": "Optimization",
+  "url": "http://lesswrong.com/lw/tx/optimization/"
+ },
+ "http://lesswrong.com/lw/u/the_ethic_of_handwashing_and_community_epistemic/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/ZP2om2oWHPhvWP2Q3/the-ethic-of-hand-washing-and-community-epistemic-practice",
+  "http": 200,
+  "status": "redirected",
+  "title": "The ethic of hand-washing and community epistemic practice",
+  "url": "http://lesswrong.com/lw/u/the_ethic_of_handwashing_and_community_epistemic/"
+ },
+ "http://lesswrong.com/lw/uc/aboveaverage_ai_scientists/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/9HGR5qatMGoz4GhKj/above-average-ai-scientists",
+  "http": 200,
+  "status": "redirected",
+  "title": "Above-Average AI Scientists",
+  "url": "http://lesswrong.com/lw/uc/aboveaverage_ai_scientists/"
+ },
+ "http://lesswrong.com/lw/uu/why_does_power_corrupt/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/v8rghtzWCziYuMdJ5/why-does-power-corrupt",
+  "http": 200,
+  "status": "redirected",
+  "title": "Why Does Power Corrupt?",
+  "url": "http://lesswrong.com/lw/uu/why_does_power_corrupt/"
+ },
+ "http://lesswrong.com/lw/uy/dark_side_epistemology/4xbv": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/XTWkjCJScy2GFAgDt/dark-side-epistemology?commentId=wErC5Xsau3mxybFcq",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://lesswrong.com/lw/uy/dark_side_epistemology/4xbv"
+ },
+ "http://lesswrong.com/lw/uz/protected_from_myself/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/yz2btSaCLHmLWgWD5/protected-from-myself",
+  "http": 200,
+  "status": "redirected",
+  "title": "Protected From Myself",
+  "url": "http://lesswrong.com/lw/uz/protected_from_myself/"
+ },
+ "http://lesswrong.com/lw/v7/expected_creative_surprises/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/rEDpaTTEzhPLz4fHh/expected-creative-surprises",
+  "http": 200,
+  "status": "redirected",
+  "title": "Expected Creative Surprises",
+  "url": "http://lesswrong.com/lw/v7/expected_creative_surprises/"
+ },
  "http://lesswrong.com/lw/vc/economic_definition_of_intelligence/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/uPCehCa7Ecidfn2Xe/economic-definition-of-intelligence",
@@ -431,6 +2353,62 @@
   "status": "redirected",
   "title": "Economic Definition of Intelligence?",
   "url": "http://lesswrong.com/lw/vc/economic_definition_of_intelligence/"
+ },
+ "http://lesswrong.com/lw/vs/selling_nonapples/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/2mLZiWxWKZyaRgcn7/selling-nonapples",
+  "http": 200,
+  "status": "redirected",
+  "title": "Selling Nonapples",
+  "url": "http://lesswrong.com/lw/vs/selling_nonapples/"
+ },
+ "http://lesswrong.com/lw/wq/you_only_live_twice/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/yKXKcyoBzWtECzXrE/you-only-live-twice",
+  "http": 200,
+  "status": "redirected",
+  "title": "You Only Live Twice",
+  "url": "http://lesswrong.com/lw/wq/you_only_live_twice/"
+ },
+ "http://lesswrong.com/lw/wv/prolegomena_to_a_theory_of_fun/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/pK4HTxuv6mftHXWC3/prolegomena-to-a-theory-of-fun",
+  "http": 200,
+  "status": "redirected",
+  "title": "Prolegomena to a Theory of Fun",
+  "url": "http://lesswrong.com/lw/wv/prolegomena_to_a_theory_of_fun/"
+ },
+ "http://lesswrong.com/lw/wy/sensual_experience/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/eLHCWi8sotQT6CmTX/sensual-experience",
+  "http": 200,
+  "status": "redirected",
+  "title": "Sensual Experience",
+  "url": "http://lesswrong.com/lw/wy/sensual_experience/"
+ },
+ "http://lesswrong.com/lw/x9/dunbars_function/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/W5PhyEQqEWTcpRpqn/dunbar-s-function",
+  "http": 200,
+  "status": "redirected",
+  "title": "Dunbar's Function",
+  "url": "http://lesswrong.com/lw/x9/dunbars_function/"
+ },
+ "http://lesswrong.com/lw/xc/the_uses_of_fun_theory/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/4o3zwgofFPLutkqvd/the-uses-of-fun-theory",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Uses of Fun (Theory)",
+  "url": "http://lesswrong.com/lw/xc/the_uses_of_fun_theory/"
+ },
+ "http://lesswrong.com/lw/xk/continuous_improvement/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/QfpHRAMRM2HjteKFK/continuous-improvement",
+  "http": 200,
+  "status": "redirected",
+  "title": "Continuous Improvement",
+  "url": "http://lesswrong.com/lw/xk/continuous_improvement/"
  },
  "http://lesswrong.com/lw/xr/in_praise_of_boredom/": {
   "checked": "2026-10-04",
@@ -440,6 +2418,14 @@
   "title": "In Praise of Boredom",
   "url": "http://lesswrong.com/lw/xr/in_praise_of_boredom/"
  },
+ "http://lesswrong.com/lw/xw/higher_purpose/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/5Pjq3mxuiXu2Ys3gM/higher-purpose",
+  "http": 200,
+  "status": "redirected",
+  "title": "Higher Purpose",
+  "url": "http://lesswrong.com/lw/xw/higher_purpose/"
+ },
  "http://lesswrong.com/lw/xy/the_fun_theory_sequence/": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence",
@@ -447,6 +2433,94 @@
   "status": "redirected",
   "title": "The Fun Theory Sequence",
   "url": "http://lesswrong.com/lw/xy/the_fun_theory_sequence/"
+ },
+ "http://lesswrong.com/lw/y5/the_babyeating_aliens_18/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1-8",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Baby-Eating Aliens (1/8)",
+  "url": "http://lesswrong.com/lw/y5/the_babyeating_aliens_18/"
+ },
+ "http://lesswrong.com/lw/y7/the_super_happy_people_38/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/qCsxiojX7BSLuuBgQ/the-super-happy-people-3-8",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Super Happy People (3/8)",
+  "url": "http://lesswrong.com/lw/y7/the_super_happy_people_38/"
+ },
+ "http://lesswrong.com/lw/y8/interlude_with_the_confessor_48/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/bojLBvsYck95gbKNM/interlude-with-the-confessor-4-8",
+  "http": 200,
+  "status": "redirected",
+  "title": "Interlude with the Confessor (4/8)",
+  "url": "http://lesswrong.com/lw/y8/interlude_with_the_confessor_48/"
+ },
+ "http://lesswrong.com/lw/yh/cynicism_in_evpsych_and_econ/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/KC5qGJiWSxt9zpyDy/cynicism-in-ev-psych-and-econ",
+  "http": 200,
+  "status": "redirected",
+  "title": "Cynicism in Ev-Psych (and Econ?)",
+  "url": "http://lesswrong.com/lw/yh/cynicism_in_evpsych_and_econ/"
+ },
+ "http://lesswrong.com/lw/yi/the_evolutionarycognitive_boundary/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/o8Bh82hKGpRNA2q36/the-evolutionary-cognitive-boundary",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Evolutionary-Cognitive Boundary",
+  "url": "http://lesswrong.com/lw/yi/the_evolutionarycognitive_boundary/"
+ },
+ "http://lesswrong.com/lw/ym/cynical_about_cynicism/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/R2crzhnqrytPycc6C/cynical-about-cynicism",
+  "http": 200,
+  "status": "redirected",
+  "title": "Cynical About Cynicism",
+  "url": "http://lesswrong.com/lw/ym/cynical_about_cynicism/"
+ },
+ "http://lesswrong.com/lw/yo/against_maturity/": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/posts/rM7hcz67N7WtwGGjq/against-maturity",
+  "http": 200,
+  "status": "redirected",
+  "title": "Against Maturity",
+  "url": "http://lesswrong.com/lw/yo/against_maturity/"
+ },
+ "http://machall.com/view.php?date=2003-04-21": {
+  "checked": "2026-10-04",
+  "final": "https://machall.com/view.php?date=2003-04-21",
+  "http": 200,
+  "status": "ok",
+  "title": "Mac Hall - Comic -",
+  "url": "http://machall.com/view.php?date=2003-04-21"
+ },
+ "http://marginalrevolution.com/marginalrevolution/2005/05/why_dont_people.html": {
+  "checked": "2026-10-04",
+  "final": "https://marginalrevolution.com/marginalrevolution/2005/05/why_dont_people.html",
+  "http": 200,
+  "status": "ok",
+  "title": "Why don't people have more sex? - Marginal REVOLUTION",
+  "url": "http://marginalrevolution.com/marginalrevolution/2005/05/why_dont_people.html"
+ },
+ "http://marginalrevolution.com/marginalrevolution/2007/08/how-important-i.html": {
+  "checked": "2026-10-04",
+  "final": "https://marginalrevolution.com/marginalrevolution/2007/08/how-important-i.html",
+  "http": 200,
+  "status": "ok",
+  "title": "How important is overcoming bias? - Marginal REVOLUTION",
+  "url": "http://marginalrevolution.com/marginalrevolution/2007/08/how-important-i.html"
+ },
+ "http://marginalrevolution.com/marginalrevolution/2007/12/how-my-views-di.html": {
+  "checked": "2026-10-04",
+  "final": "https://marginalrevolution.com/marginalrevolution/2007/12/how-my-views-di.html",
+  "http": 200,
+  "status": "ok",
+  "title": "Can theory override intuition? - Marginal REVOLUTION",
+  "url": "http://marginalrevolution.com/marginalrevolution/2007/12/how-my-views-di.html"
  },
  "http://math.ucr.edu/home/baez/crackpot.html": {
   "checked": "2026-10-04",
@@ -465,6 +2539,14 @@
   "title": "",
   "url": "http://media.sethroberts.net/about/whatmakesfoodfattening.pdf"
  },
+ "http://migs.concordia.ca/memoirs/kron/chpt_8.html": {
+  "checked": "2026-10-04",
+  "final": "http://migs.concordia.ca/memoirs/kron/chpt_8.html",
+  "note": "https://migs.concordia.ca/memoirs/kron/chpt_8.html: ProxyError; http://migs.concordia.ca/memoirs/kron/chpt_8.html: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://migs.concordia.ca/memoirs/kron/chpt_8.html"
+ },
  "http://mind.sourceforge.net/diagrams.html": {
   "checked": "2026-10-04",
   "final": "http://mind.sourceforge.net/diagrams.html",
@@ -474,6 +2556,15 @@
   "title": "",
   "url": "http://mind.sourceforge.net/diagrams.html"
  },
+ "http://news.bbc.co.uk/2/hi/technology/4137782.stm": {
+  "checked": "2026-10-04",
+  "final": "http://news.bbc.co.uk/2/hi/technology/4137782.stm",
+  "http": 403,
+  "note": "https://news.bbc.co.uk/2/hi/technology/4137782.stm: HTTP 403 (bot protection); http://news.bbc.co.uk/2/hi/technology/4137782.stm: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://news.bbc.co.uk/2/hi/technology/4137782.stm"
+ },
  "http://news.bbc.co.uk/2/hi/uk_news/magazine/7967982.stm": {
   "checked": "2026-10-04",
   "final": "http://news.bbc.co.uk/2/hi/uk_news/magazine/7967982.stm",
@@ -482,6 +2573,45 @@
   "status": "unchecked",
   "title": "",
   "url": "http://news.bbc.co.uk/2/hi/uk_news/magazine/7967982.stm"
+ },
+ "http://news.xinhuanet.com/english/2005-11/01/content_3714003.htm": {
+  "checked": "2026-10-04",
+  "final": "http://news.xinhuanet.com/english/2005-11/01/content_3714003.htm",
+  "http": 403,
+  "note": "https://news.xinhuanet.com/english/2005-11/01/content_3714003.htm: ReadTimeout; http://news.xinhuanet.com/english/2005-11/01/content_3714003.htm: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://news.xinhuanet.com/english/2005-11/01/content_3714003.htm"
+ },
+ "http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x/abstract": {
+  "checked": "2026-10-04",
+  "final": "http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x/abstract",
+  "http": 403,
+  "note": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x/abstract: HTTP 403 (bot protection); http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x/abstract: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x/abstract"
+ },
+ "http://ozyandmillie.org/2003/03/24/ozy-and-millie-1134/": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://ozyandmillie.org/2003/03/24/ozy-and-millie-1134/",
+  "http": 404,
+  "note": "https://ozyandmillie.org/2003/03/24/ozy-and-millie-1134/: HTTP 404; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "404 Not Found",
+  "url": "http://ozyandmillie.org/2003/03/24/ozy-and-millie-1134/"
+ },
+ "http://ozyandmillie.org/2006/11/16/ozy-and-millie-1770/": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20141123175934/http://ozyandmillie.org:80/2006/11/16/ozy-and-millie-1770/",
+  "http": 404,
+  "note": "https://ozyandmillie.org/2006/11/16/ozy-and-millie-1770/: HTTP 404",
+  "snapshot": "20141123175934",
+  "status": "archived",
+  "title": "",
+  "url": "http://ozyandmillie.org/2006/11/16/ozy-and-millie-1770/"
  },
  "http://people.virginia.edu/~tdw/nisbett&wilson.pdf": {
   "checked": "2026-10-04",
@@ -499,6 +2629,38 @@
   "status": "ok",
   "title": "Everett's Relative-State Formulation of Quantum Mechanics (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)",
   "url": "http://plato.stanford.edu/archives/fall2008/entries/qm-everett/"
+ },
+ "http://plato.stanford.edu/archives/fall2008/entries/qm-manyworlds/": {
+  "checked": "2026-10-04",
+  "final": "https://plato.stanford.edu/archives/fall2008/entries/qm-manyworlds/",
+  "http": 200,
+  "status": "ok",
+  "title": "Many-Worlds Interpretation of Quantum Mechanics (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)",
+  "url": "http://plato.stanford.edu/archives/fall2008/entries/qm-manyworlds/"
+ },
+ "http://plato.stanford.edu/archives/fall2013/entries/epistemology-bayesian/": {
+  "checked": "2026-10-04",
+  "final": "https://plato.stanford.edu/archives/fall2013/entries/epistemology-bayesian/",
+  "http": 200,
+  "status": "ok",
+  "title": "Bayesian Epistemology (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)",
+  "url": "http://plato.stanford.edu/archives/fall2013/entries/epistemology-bayesian/"
+ },
+ "http://plato.stanford.edu/archives/fall2013/entries/qt-measurement/": {
+  "checked": "2026-10-04",
+  "final": "https://plato.stanford.edu/archives/fall2013/entries/qt-measurement/",
+  "http": 200,
+  "status": "ok",
+  "title": "Measurement in Quantum Theory (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)",
+  "url": "http://plato.stanford.edu/archives/fall2013/entries/qt-measurement/"
+ },
+ "http://plato.stanford.edu/archives/sum2012/entries/epistemology-naturalized/": {
+  "checked": "2026-10-04",
+  "final": "https://plato.stanford.edu/archives/sum2012/entries/epistemology-naturalized/",
+  "http": 200,
+  "status": "ok",
+  "title": "Naturalized Epistemology (Stanford Encyclopedia of Philosophy/Summer 2012 Edition)",
+  "url": "http://plato.stanford.edu/archives/sum2012/entries/epistemology-naturalized/"
  },
  "http://plato.stanford.edu/archives/win2002/entries/popper/": {
   "checked": "2026-10-04",
@@ -525,6 +2687,15 @@
   "title": "",
   "url": "http://postbiota.org/pipermail/tt/2007-December/001947.html"
  },
+ "http://postbiota.org/pipermail/tt/2008-May/002997.html": {
+  "checked": "2026-10-04",
+  "final": "http://postbiota.org/pipermail/tt/2008-May/002997.html",
+  "http": 403,
+  "note": "https://postbiota.org/pipermail/tt/2008-May/002997.html: ConnectionError; http://postbiota.org/pipermail/tt/2008-May/002997.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://postbiota.org/pipermail/tt/2008-May/002997.html"
+ },
  "http://psych.princeton.edu/psychology/research/pronin/pubs/2008%20Self%20and%20Other.pdf": {
   "checked": "2026-10-04",
   "dead": true,
@@ -535,6 +2706,30 @@
   "status": "archived",
   "title": "",
   "url": "http://psych.princeton.edu/psychology/research/pronin/pubs/2008%20Self%20and%20Other.pdf"
+ },
+ "http://psychclassics.yorku.ca/Sherif/": {
+  "checked": "2026-10-04",
+  "final": "https://psychclassics.yorku.ca/Sherif/",
+  "http": 200,
+  "status": "ok",
+  "title": "Classics in the History of Psychology -- Sherif et al. (1954/1961) Index",
+  "url": "http://psychclassics.yorku.ca/Sherif/"
+ },
+ "http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-3514.65.2.221": {
+  "checked": "2026-10-04",
+  "final": "https://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-3514.65.2.221",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0022-3514.65.2.221"
+ },
+ "http://rationality.org/": {
+  "checked": "2026-10-04",
+  "final": "https://rationality.org/",
+  "http": 200,
+  "status": "ok",
+  "title": "Home | Center for Applied Rationality",
+  "url": "http://rationality.org/"
  },
  "http://richardcarrier.blogspot.com/2007/01/defining-supernatural.html": {
   "checked": "2026-10-04",
@@ -552,6 +2747,16 @@
   "title": "Why I Am Not Rene Descartes | Slate Star Codex",
   "url": "http://slatestarcodex.com/2014/11/27/why-i-am-not-rene-descartes/"
  },
+ "http://space.mit.edu/home/tegmark/crazy.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://space.mit.edu/home/tegmark/crazy.html",
+  "http": 404,
+  "note": "https://space.mit.edu/home/tegmark/crazy.html: HTTP 404; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "Page not found - MIT Kavli Institute",
+  "url": "http://space.mit.edu/home/tegmark/crazy.html"
+ },
  "http://ssc.wisc.edu/~jpiliavi/965/hwang.pdf": {
   "checked": "2026-10-04",
   "final": "https://users.ssc.wisc.edu/~japiliav/965/hwang.pdf",
@@ -559,6 +2764,67 @@
   "status": "redirected",
   "title": "",
   "url": "http://ssc.wisc.edu/~jpiliavi/965/hwang.pdf"
+ },
+ "http://takaos.wordpress.com/2005/03/30/working-very-hard/": {
+  "checked": "2026-10-04",
+  "final": "http://takaos.wordpress.com/2005/03/30/working-very-hard/",
+  "http": 403,
+  "note": "https://takaos.wordpress.com/2005/03/30/working-very-hard/: HTTP 403 (bot protection); http://takaos.wordpress.com/2005/03/30/working-very-hard/: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://takaos.wordpress.com/2005/03/30/working-very-hard/"
+ },
+ "http://thedailywtf.com/Articles/No,_We_Need_a_Neural_Network.aspx": {
+  "checked": "2026-10-04",
+  "final": "https://thedailywtf.com/articles/No%2c_We_Need_a_Neural_Network",
+  "http": 200,
+  "status": "redirected",
+  "title": "No, We Need a Neural Network - The Daily WTF",
+  "url": "http://thedailywtf.com/Articles/No,_We_Need_a_Neural_Network.aspx"
+ },
+ "http://tvtropes.org/pmwiki/pmwiki.php/Main/CreepyCoolCrosses": {
+  "checked": "2026-10-04",
+  "final": "http://tvtropes.org/pmwiki/pmwiki.php/Main/CreepyCoolCrosses",
+  "http": 403,
+  "note": "https://tvtropes.org/pmwiki/pmwiki.php/Main/CreepyCoolCrosses: HTTP 403 (bot protection); http://tvtropes.org/pmwiki/pmwiki.php/Main/CreepyCoolCrosses: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://tvtropes.org/pmwiki/pmwiki.php/Main/CreepyCoolCrosses"
+ },
+ "http://tvtropes.org/pmwiki/pmwiki.php/Main/JesusTaboo": {
+  "checked": "2026-10-04",
+  "final": "http://tvtropes.org/pmwiki/pmwiki.php/Main/JesusTaboo",
+  "http": 403,
+  "note": "https://tvtropes.org/pmwiki/pmwiki.php/Main/JesusTaboo: HTTP 403 (bot protection); http://tvtropes.org/pmwiki/pmwiki.php/Main/JesusTaboo: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://tvtropes.org/pmwiki/pmwiki.php/Main/JesusTaboo"
+ },
+ "http://tvtropes.org/pmwiki/pmwiki.php/Main/KilledOffForReal": {
+  "checked": "2026-10-04",
+  "final": "http://tvtropes.org/pmwiki/pmwiki.php/Main/KilledOffForReal",
+  "http": 403,
+  "note": "https://tvtropes.org/pmwiki/pmwiki.php/Main/KilledOffForReal: HTTP 403 (bot protection); http://tvtropes.org/pmwiki/pmwiki.php/Main/KilledOffForReal: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://tvtropes.org/pmwiki/pmwiki.php/Main/KilledOffForReal"
+ },
+ "http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass": {
+  "checked": "2026-10-04",
+  "final": "http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass",
+  "http": 403,
+  "note": "https://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass: HTTP 403 (bot protection); http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass"
+ },
+ "http://users.ecs.soton.ac.uk/harnad/Papers/Harnad/harnad90.sgproblem.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.southampton.ac.uk/~harnad/Papers/Harnad/harnad90.sgproblem.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Symbol Grounding Problem",
+  "url": "http://users.ecs.soton.ac.uk/harnad/Papers/Harnad/harnad90.sgproblem.html"
  },
  "http://web.archive.org/web/20060424082937/http://www.nvon.nl/scheik/best/diversen/scijokes/scijokes.txt": {
   "checked": "2026-10-04",
@@ -581,6 +2847,43 @@
   "status": "archived",
   "url": "http://web.archive.org/web/20080214014017/http://www.ranprieur.com/me/100things.html"
  },
+ "http://web.archive.org/web/20080703182200/http://very.net/~nikolai/nasty/games.html": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20080703182200/http://very.net/~nikolai/nasty/games.html",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "http://web.archive.org/web/20080703182200/http://very.net/~nikolai/nasty/games.html"
+ },
+ "http://web.archive.org/web/20100312042939/http://www.nccbuscc.org/nab/bible/1kings/1kings18.htm": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20100312042939/http://www.nccbuscc.org/nab/bible/1kings/1kings18.htm",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "http://web.archive.org/web/20100312042939/http://www.nccbuscc.org/nab/bible/1kings/1kings18.htm"
+ },
+ "http://web.archive.org/web/20130328012735/http://commonsenseatheism.com/wp-content/uploads/2011/09/Fetherstonhaugh-et-al-Insensitivity-to-the-value-of-human-life-A-study-of-psychophysical-numbing.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20130328012735/http://commonsenseatheism.com/wp-content/uploads/2011/09/Fetherstonhaugh-et-al-Insensitivity-to-the-value-of-human-life-A-study-of-psychophysical-numbing.pdf",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "http://web.archive.org/web/20130328012735/http://commonsenseatheism.com/wp-content/uploads/2011/09/Fetherstonhaugh-et-al-Insensitivity-to-the-value-of-human-life-A-study-of-psychophysical-numbing.pdf"
+ },
+ "http://web.maths.unsw.edu.au/~jim/wrongthoughts.html": {
+  "checked": "2026-10-04",
+  "final": "https://web.maths.unsw.edu.au/~jim/wrongthoughts.html",
+  "http": 200,
+  "status": "ok",
+  "title": "Stove, What Is Wrong With Our Thoughts",
+  "url": "http://web.maths.unsw.edu.au/~jim/wrongthoughts.html"
+ },
+ "http://web.mit.edu/ariely/www/MIT/Papers/duration1.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://web.mit.edu/ariely/www/MIT/Papers/duration1.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://web.mit.edu/ariely/www/MIT/Papers/duration1.pdf"
+ },
  "http://wiki.lesswrong.com/wiki/AIXI": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/w/aixi",
@@ -589,6 +2892,63 @@
   "title": "AIXI",
   "url": "http://wiki.lesswrong.com/wiki/AIXI"
  },
+ "http://wiki.lesswrong.com/wiki/Amount_of_evidence": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/amount-of-evidence",
+  "http": 200,
+  "status": "redirected",
+  "title": "Amount of Evidence",
+  "url": "http://wiki.lesswrong.com/wiki/Amount_of_evidence"
+ },
+ "http://wiki.lesswrong.com/wiki/Anti-epistemology": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/anti-epistemology",
+  "http": 200,
+  "status": "redirected",
+  "title": "Anti-Epistemology",
+  "url": "http://wiki.lesswrong.com/wiki/Anti-epistemology"
+ },
+ "http://wiki.lesswrong.com/wiki/Burdensome_details": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/burdensome-details",
+  "http": 200,
+  "status": "redirected",
+  "title": "Burdensome Details",
+  "url": "http://wiki.lesswrong.com/wiki/Burdensome_details"
+ },
+ "http://wiki.lesswrong.com/wiki/Free_will": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/free-will",
+  "http": 200,
+  "status": "redirected",
+  "title": "Free Will",
+  "url": "http://wiki.lesswrong.com/wiki/Free_will"
+ },
+ "http://wiki.lesswrong.com/wiki/Locate_the_hypothesis": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/locate-the-hypothesis",
+  "http": 200,
+  "status": "redirected",
+  "title": "Locate The Hypothesis",
+  "url": "http://wiki.lesswrong.com/wiki/Locate_the_hypothesis"
+ },
+ "http://wiki.lesswrong.com/wiki/Occam%27s_razor": {
+  "checked": "2026-10-04",
+  "final": "http://wiki.lesswrong.com/wiki/Occam%27s_razor",
+  "http": 403,
+  "note": "https://wiki.lesswrong.com/wiki/Occam%27s_razor: HTTP 403 (bot protection); http://wiki.lesswrong.com/wiki/Occam%27s_razor: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://wiki.lesswrong.com/wiki/Occam%27s_razor"
+ },
+ "http://wiki.lesswrong.com/wiki/Privileging_the_hypothesis": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/privileging-the-hypothesis",
+  "http": 200,
+  "status": "redirected",
+  "title": "Privileging The Hypothesis",
+  "url": "http://wiki.lesswrong.com/wiki/Privileging_the_hypothesis"
+ },
  "http://wiki.lesswrong.com/wiki/RAZ_Glossary": {
   "checked": "2026-10-04",
   "final": "https://www.lesswrong.com/w/r-a-z-glossary",
@@ -596,6 +2956,23 @@
   "status": "redirected",
   "title": "",
   "url": "http://wiki.lesswrong.com/wiki/RAZ_Glossary"
+ },
+ "http://wiki.lesswrong.com/wiki/Rational_evidence": {
+  "checked": "2026-10-04",
+  "final": "https://www.lesswrong.com/w/rational-evidence",
+  "http": 200,
+  "status": "redirected",
+  "title": "Rational Evidence",
+  "url": "http://wiki.lesswrong.com/wiki/Rational_evidence"
+ },
+ "http://www-abc.mpib-berlin.mpg.de/users/r20/finucane00_the_affect_heuristic.pdf": {
+  "checked": "2026-10-04",
+  "final": "http://www-abc.mpib-berlin.mpg.de/users/r20/finucane00_the_affect_heuristic.pdf",
+  "http": 403,
+  "note": "https://www-abc.mpib-berlin.mpg.de/users/r20/finucane00_the_affect_heuristic.pdf: ConnectionError; http://www-abc.mpib-berlin.mpg.de/users/r20/finucane00_the_affect_heuristic.pdf: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www-abc.mpib-berlin.mpg.de/users/r20/finucane00_the_affect_heuristic.pdf"
  },
  "http://www-formal.stanford.edu/jmc/sayings.html": {
   "checked": "2026-10-04",
@@ -613,6 +2990,134 @@
   "title": "The Unlikeliest Cult in History",
   "url": "http://www.2think.org/02_2_she.shtml"
  },
+ "http://www.3ammagazine.com/litarchives/2003/jan/interview_catherine_camus.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.3ammagazine.com/litarchives/2003/jan/interview_catherine_camus.html",
+  "http": 200,
+  "status": "ok",
+  "title": "3am Interview: TRUTH IS FICTION: SMOKING WITH CAMUS",
+  "url": "http://www.3ammagazine.com/litarchives/2003/jan/interview_catherine_camus.html"
+ },
+ "http://www.aft.org/pdfs/americaneducator/summer2007/Crit_Thinking.pdf": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20140917050043/https://www.aft.org/pdfs/americaneducator/summer2007/Crit_Thinking.pdf",
+  "http": 404,
+  "note": "https://www.aft.org/pdfs/americaneducator/summer2007/Crit_Thinking.pdf: HTTP 404",
+  "snapshot": "20140917050043",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.aft.org/pdfs/americaneducator/summer2007/Crit_Thinking.pdf"
+ },
+ "http://www.alcor.org/": {
+  "checked": "2026-10-04",
+  "final": "https://www.alcor.org/",
+  "http": 200,
+  "status": "ok",
+  "title": "Homepage - Alcor",
+  "url": "http://www.alcor.org/"
+ },
+ "http://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=dp_ob_title_bk": {
+  "checked": "2026-10-04",
+  "final": "https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=dp_ob_title_bk",
+  "http": 200,
+  "status": "ok",
+  "title": "Amazon.com",
+  "url": "http://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=dp_ob_title_bk"
+ },
+ "http://www.amazon.com/Probabilistic-Reasoning-Intelligent-Systems-Plausible/dp/1558604790/": {
+  "checked": "2026-10-04",
+  "final": "https://www.amazon.com/Probabilistic-Reasoning-Intelligent-Systems-Plausible/dp/1558604790/",
+  "http": 200,
+  "status": "ok",
+  "title": "Amazon.com",
+  "url": "http://www.amazon.com/Probabilistic-Reasoning-Intelligent-Systems-Plausible/dp/1558604790/"
+ },
+ "http://www.amazon.com/Second-Stage-Lensmen-Lensman-Book/dp/1882968131": {
+  "checked": "2026-10-04",
+  "final": "https://www.amazon.com/Second-Stage-Lensmen-Lensman-Book/dp/1882968131",
+  "http": 200,
+  "status": "ok",
+  "title": "Amazon.com",
+  "url": "http://www.amazon.com/Second-Stage-Lensmen-Lensman-Book/dp/1882968131"
+ },
+ "http://www.amazon.com/Why-Smart-People-Can-Stupid/dp/0300090331": {
+  "checked": "2026-10-04",
+  "final": "https://www.amazon.com/Why-Smart-People-Can-Stupid/dp/0300090331",
+  "http": 200,
+  "status": "ok",
+  "title": "Amazon.com",
+  "url": "http://www.amazon.com/Why-Smart-People-Can-Stupid/dp/0300090331"
+ },
+ "http://www.amirrorclear.net/academic/index.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.amirrorclear.net/academic/index.html",
+  "http": 403,
+  "note": "https://www.amirrorclear.net/academic/index.html: HTTP 403 (bot protection); http://www.amirrorclear.net/academic/index.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.amirrorclear.net/academic/index.html"
+ },
+ "http://www.anthropic-principle.com/?q=anthropic_principle/primer": {
+  "checked": "2026-10-04",
+  "final": "https://anthropic-principle.com/anthropic-principle/primer/",
+  "http": 200,
+  "status": "redirected",
+  "title": "A Primer on the Anthropic Principle | The Anthropic Principle",
+  "url": "http://www.anthropic-principle.com/?q=anthropic_principle/primer"
+ },
+ "http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf": {
+  "checked": "2026-10-04",
+  "final": "http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf",
+  "note": "https://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf: ProxyError; http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf"
+ },
+ "http://www.av8n.com/physics/phase-space-thin-lens.htm": {
+  "checked": "2026-10-04",
+  "final": "https://www.av8n.com/physics/phase-space-thin-lens.htm",
+  "http": 200,
+  "status": "ok",
+  "title": "Phase Space of a Thin Lens",
+  "url": "http://www.av8n.com/physics/phase-space-thin-lens.htm"
+ },
+ "http://www.bartleby.com/73/1211.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.bartleby.com/lit-hub/respectfully-quoted/john-fitzgerald-kennedy-191763-35/",
+  "http": 200,
+  "status": "redirected",
+  "title": "John Fitzgerald Kennedy (1917–63) - Collection at Bartleby.com",
+  "url": "http://www.bartleby.com/73/1211.html"
+ },
+ "http://www.bit-tech.net/news/gaming/2007/09/18/chinese_man_days_after_3-day_gaming_session/1": {
+  "checked": "2026-10-04",
+  "final": "https://www.bit-tech.net/news/gaming/chinese_man_days_after_3-day_gaming_session/1/",
+  "http": 200,
+  "status": "redirected",
+  "title": "Chinese man dies after 3-day gaming session | bit-tech.net",
+  "url": "http://www.bit-tech.net/news/gaming/2007/09/18/chinese_man_days_after_3-day_gaming_session/1"
+ },
+ "http://www.catb.org/jargon/html/G/Godwins-Law.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.catb.org/jargon/html/G/Godwins-Law.html",
+  "http": 403,
+  "note": "https://www.catb.org/jargon/html/G/Godwins-Law.html: SSLError; http://www.catb.org/jargon/html/G/Godwins-Law.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.catb.org/jargon/html/G/Godwins-Law.html"
+ },
+ "http://www.cep.ucsb.edu/papers/pfc92.pdf": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20160204061529/http://www.cep.ucsb.edu/papers/pfc92.pdf",
+  "http": 404,
+  "note": "https://www.cep.ucsb.edu/papers/pfc92.pdf: HTTP 404",
+  "snapshot": "20160204061529",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.cep.ucsb.edu/papers/pfc92.pdf"
+ },
  "http://www.colorado.edu/physics/2000/bec/evap_cool.html": {
   "checked": "2026-10-04",
   "dead": true,
@@ -622,6 +3127,16 @@
   "status": "unchecked",
   "title": "Page Not Found | Physics | University of Colorado Boulder",
   "url": "http://www.colorado.edu/physics/2000/bec/evap_cool.html"
+ },
+ "http://www.cs.auckland.ac.nz/~andwhay/postlist.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.cs.auckland.ac.nz/~andwhay/postlist.html",
+  "http": 404,
+  "note": "https://www.cs.auckland.ac.nz/~andwhay/postlist.html: HTTP 404; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "Page Not Found",
+  "url": "http://www.cs.auckland.ac.nz/~andwhay/postlist.html"
  },
  "http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf": {
   "checked": "2026-10-04",
@@ -639,6 +3154,34 @@
   "title": "What the Tortoise Said to Achilles",
   "url": "http://www.ditext.com/carroll/tortoise.html"
  },
+ "http://www.econ.ucdavis.edu/faculty/nehring/teaching/econ106/readings/Extensional%20Versus%20Intuitive.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://faculty.econ.ucdavis.edu/faculty/nehring/teaching/econ106/readings/Extensional%20Versus%20Intuitive.pdf",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "http://www.econ.ucdavis.edu/faculty/nehring/teaching/econ106/readings/Extensional%20Versus%20Intuitive.pdf"
+ },
+ "http://www.economist.com/blogs/freeexchange/2007/04/the_future_of_fantasy": {
+  "checked": "2026-10-04",
+  "final": "http://www.economist.com/blogs/freeexchange/2007/04/the_future_of_fantasy",
+  "http": 403,
+  "note": "https://www.economist.com/blogs/freeexchange/2007/04/the_future_of_fantasy: HTTP 403 (bot protection); http://www.economist.com/blogs/freeexchange/2007/04/the_future_of_fantasy: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.economist.com/blogs/freeexchange/2007/04/the_future_of_fantasy"
+ },
+ "http://www.excelsior.edu/exams/choose-your-exam": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150307203604/http://www.excelsior.edu:80/exams/choose-your-exam",
+  "http": 200,
+  "note": "redirected to an unrelated page: https://www.excelsior.edu/start-with-more-credit/transfer-more-credits/",
+  "snapshot": "20150307203604",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.excelsior.edu/exams/choose-your-exam"
+ },
  "http://www.expatsingapore.com/forum/index.php?topic=16763.msg126809": {
   "checked": "2026-10-04",
   "dead": true,
@@ -650,6 +3193,22 @@
   "title": "",
   "url": "http://www.expatsingapore.com/forum/index.php?topic=16763.msg126809"
  },
+ "http://www.fallacyfiles.org/genefall.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.fallacyfiles.org/genefall.html",
+  "http": 200,
+  "status": "ok",
+  "title": "Logical Fallacy: Genetic Fallacy",
+  "url": "http://www.fallacyfiles.org/genefall.html"
+ },
+ "http://www.fdareview.org/harm.shtml": {
+  "checked": "2026-10-04",
+  "final": "https://www.fdareview.org/harm.shtml",
+  "http": 202,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.fdareview.org/harm.shtml"
+ },
  "http://www.feynmanlectures.caltech.edu/I_03.html": {
   "checked": "2026-10-04",
   "final": "http://www.feynmanlectures.caltech.edu/I_03.html",
@@ -658,6 +3217,50 @@
   "status": "unchecked",
   "title": "",
   "url": "http://www.feynmanlectures.caltech.edu/I_03.html"
+ },
+ "http://www.foreignpolicy.com/articles/2007/03/12/numbed_by_numbers": {
+  "checked": "2026-10-04",
+  "final": "https://foreignpolicy.com/2007/03/13/numbed-by-numbers/",
+  "http": 200,
+  "status": "redirected",
+  "title": "Numbed by Numbers – Foreign Policy",
+  "url": "http://www.foreignpolicy.com/articles/2007/03/12/numbed_by_numbers"
+ },
+ "http://www.foresight.org/guidelines/current.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150215075212/http://www.foresight.org:80/guidelines/current.html",
+  "http": 404,
+  "note": "https://www.foresight.org/guidelines/current.html: HTTP 404",
+  "snapshot": "20150215075212",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.foresight.org/guidelines/current.html"
+ },
+ "http://www.gelfmagazine.com/archives/an_interview_with_ral.php": {
+  "checked": "2026-10-04",
+  "final": "http://www.gelfmagazine.com/archives/an_interview_with_ral.php",
+  "http": 403,
+  "note": "https://www.gelfmagazine.com/archives/an_interview_with_ral.php: ConnectionError; http://www.gelfmagazine.com/archives/an_interview_with_ral.php: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.gelfmagazine.com/archives/an_interview_with_ral.php"
+ },
+ "http://www.givewell.org/international/top-charities/AMF#Whatdoyougetforyourdollar": {
+  "checked": "2026-10-04",
+  "final": "https://www.givewell.org/charities/amf#Whatdoyougetforyourdollar",
+  "http": 200,
+  "status": "redirected",
+  "title": "Against Malaria Foundation | GiveWell",
+  "url": "http://www.givewell.org/international/top-charities/AMF#Whatdoyougetforyourdollar"
+ },
+ "http://www.global-catastrophic-risks.com/": {
+  "checked": "2026-10-04",
+  "final": "https://global-catastrophic-risks.com/",
+  "http": 200,
+  "status": "ok",
+  "title": "Global Catastrophic Risks",
+  "url": "http://www.global-catastrophic-risks.com/"
  },
  "http://www.global-catastrophic-risks.com/abstracts/ab_hillerbrand_ord_sandberg.html": {
   "checked": "2026-10-04",
@@ -670,12 +3273,47 @@
  "http://www.gnxp.com/MT2/archives/003540.html": {
   "checked": "2026-10-04",
   "dead": true,
-  "final": "http://www.gnxp.com/MT2/archives/003540.html",
+  "final": "https://web.archive.org/web/20150320225957/http://www.gnxp.com/MT2/archives/003540.html",
   "http": 526,
-  "note": "https://www.gnxp.com/MT2/archives/003540.html: HTTP 526; dead, no snapshot found yet",
-  "status": "unchecked",
-  "title": "gnxp.com | 526: Invalid SSL certificate",
+  "note": "https://www.gnxp.com/MT2/archives/003540.html: HTTP 526",
+  "snapshot": "20150320225957",
+  "status": "archived",
+  "title": "",
   "url": "http://www.gnxp.com/MT2/archives/003540.html"
+ },
+ "http://www.godlessgeeks.com/LINKS/Dragon.htm": {
+  "checked": "2026-10-04",
+  "final": "http://www.godlessgeeks.com/LINKS/Dragon.htm",
+  "http": 403,
+  "note": "https://www.godlessgeeks.com/LINKS/Dragon.htm: HTTP 403 (bot protection); http://www.godlessgeeks.com/LINKS/Dragon.htm: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.godlessgeeks.com/LINKS/Dragon.htm"
+ },
+ "http://www.gokanji.com/cgi-bin/j-e/inline/dosearch?sDict=on&H=PS&L=J&T=issho+kenmei&WC=none&FG=r&BG=b&S=26&I=on": {
+  "checked": "2026-10-04",
+  "final": "https://www.gokanji.com/cgi-bin/j-e/inline/dosearch?sDict=on&H=PS&L=J&T=issho+kenmei&WC=none&FG=r&BG=b&S=26&I=on",
+  "http": 200,
+  "status": "ok",
+  "title": "Results - Jeffrey's J/E Dictionary",
+  "url": "http://www.gokanji.com/cgi-bin/j-e/inline/dosearch?sDict=on&H=PS&L=J&T=issho+kenmei&WC=none&FG=r&BG=b&S=26&I=on"
+ },
+ "http://www.google.com/search?hl=en&safe=off&q=G+*+1+gram+%2F+%2810+meters%29%5E2&btnG=Search": {
+  "checked": "2026-10-04",
+  "final": "https://www.google.com/search?hl=en&safe=off&q=G+*+1+gram+%2F+%2810+meters%29%5E2&btnG=Search",
+  "http": 200,
+  "status": "ok",
+  "title": "Google Search",
+  "url": "http://www.google.com/search?hl=en&safe=off&q=G+*+1+gram+%2F+%2810+meters%29%5E2&btnG=Search"
+ },
+ "http://www.has.vcu.edu/wrs/profiles/UnariusAcademyOfScience.htm": {
+  "checked": "2026-10-04",
+  "final": "http://www.has.vcu.edu/wrs/profiles/UnariusAcademyOfScience.htm",
+  "http": 403,
+  "note": "https://www.has.vcu.edu/wrs/profiles/UnariusAcademyOfScience.htm: SSLError; http://www.has.vcu.edu/wrs/profiles/UnariusAcademyOfScience.htm: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.has.vcu.edu/wrs/profiles/UnariusAcademyOfScience.htm"
  },
  "http://www.hedweb.com/": {
   "checked": "2026-10-04",
@@ -701,6 +3339,14 @@
   "title": "Homepage of Marcus Hutter",
   "url": "http://www.hutter1.net/ai/"
  },
+ "http://www.iep.utm.edu/apriori": {
+  "checked": "2026-10-04",
+  "final": "https://iep.utm.edu/apriori/",
+  "http": 200,
+  "status": "ok",
+  "title": "A Priori and A Posteriori | Internet Encyclopedia of Philosophy",
+  "url": "http://www.iep.utm.edu/apriori"
+ },
  "http://www.imagination-engines.com/ie.htm": {
   "checked": "2026-10-04",
   "dead": true,
@@ -711,6 +3357,24 @@
   "status": "archived",
   "title": "",
   "url": "http://www.imagination-engines.com/ie.htm"
+ },
+ "http://www.imdb.com/title/tt0116629/": {
+  "checked": "2026-10-04",
+  "final": "https://www.imdb.com/title/tt0116629/",
+  "http": 202,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.imdb.com/title/tt0116629/"
+ },
+ "http://www.indiana.edu/~kruschke/articles/Kruschke2010TiCS.pdf": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.indiana.edu/~kruschke/articles/Kruschke2010TiCS.pdf",
+  "http": 200,
+  "note": "redirected to the home page; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "Indiana University Bloomington | Academics, research, and impact",
+  "url": "http://www.indiana.edu/~kruschke/articles/Kruschke2010TiCS.pdf"
  },
  "http://www.inference.phy.cam.ac.uk/mackay/itila/book.html": {
   "checked": "2026-10-04",
@@ -762,6 +3426,33 @@
   "title": "Client Challenge",
   "url": "http://www.jstor.org/stable/3151931"
  },
+ "http://www.k-1.com/Orwell/site/work/essays/fun.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.k-1.com/Orwell/site/work/essays/fun.html",
+  "http": 200,
+  "status": "ok",
+  "title": "Work : Essays : Why Socialists Don't believe in Fun // George Orwell // www.k-1.com/Orwell",
+  "url": "http://www.k-1.com/Orwell/site/work/essays/fun.html"
+ },
+ "http://www.mail-archive.com/agi@v2.listbox.com/": {
+  "checked": "2026-10-04",
+  "final": "https://www.mail-archive.com/agi@v2.listbox.com/",
+  "http": 200,
+  "status": "ok",
+  "title": "agi",
+  "url": "http://www.mail-archive.com/agi@v2.listbox.com/"
+ },
+ "http://www.math.utah.edu/~pa/math/polya.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150306203341/http://www.math.utah.edu:80/~pa/math/polya.html",
+  "http": 404,
+  "note": "https://www.math.utah.edu/~pa/math/polya.html: HTTP 404",
+  "snapshot": "20150306203341",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.math.utah.edu/~pa/math/polya.html"
+ },
  "http://www.mathpages.com/rr/rrtoc.htm": {
   "checked": "2026-10-04",
   "final": "https://www.mathpages.com/rr/rrtoc.htm",
@@ -769,6 +3460,50 @@
   "status": "ok",
   "title": "",
   "url": "http://www.mathpages.com/rr/rrtoc.htm"
+ },
+ "http://www.metafilter.com/79752/More-Right-was-too-political#2477702": {
+  "checked": "2026-10-04",
+  "final": "http://www.metafilter.com/79752/More-Right-was-too-political#2477702",
+  "http": 403,
+  "note": "https://www.metafilter.com/79752/More-Right-was-too-political#2477702: HTTP 403 (bot protection); http://www.metafilter.com/79752/More-Right-was-too-political#2477702: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.metafilter.com/79752/More-Right-was-too-political#2477702"
+ },
+ "http://www.newscientist.com/article/mg19826551.700": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20141123115056/http://www.newscientist.com/article/mg19826551.700",
+  "http": 406,
+  "note": "https://www.newscientist.com/article/mg19826551.700: HTTP 406",
+  "snapshot": "20141123115056",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.newscientist.com/article/mg19826551.700"
+ },
+ "http://www.nickbostrom.com/ethics/artificial-intelligence.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://nickbostrom.com/ethics/artificial-intelligence.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.nickbostrom.com/ethics/artificial-intelligence.pdf"
+ },
+ "http://www.nickbostrom.com/ethics/human-enhancement-ethics.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://nickbostrom.com/ethics/human-enhancement-ethics.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.nickbostrom.com/ethics/human-enhancement-ethics.pdf"
+ },
+ "http://www.nickbostrom.com/existential/risks.html": {
+  "checked": "2026-10-04",
+  "final": "https://nickbostrom.com/papers/existential-risks/",
+  "http": 200,
+  "status": "redirected",
+  "title": "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards",
+  "url": "http://www.nickbostrom.com/existential/risks.html"
  },
  "http://www.nickbostrom.com/papers/history.pdf": {
   "checked": "2026-10-04",
@@ -778,6 +3513,54 @@
   "title": "A History of Transhumanist Thought",
   "url": "http://www.nickbostrom.com/papers/history.pdf"
  },
+ "http://www.nizkor.org/features/fallacies/appeal-to-consequences.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.nizkor.org/features/fallacies/appeal-to-consequences.html",
+  "http": 202,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.nizkor.org/features/fallacies/appeal-to-consequences.html"
+ },
+ "http://www.nizkor.org/features/fallacies/genetic-fallacy.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.nizkor.org/features/fallacies/genetic-fallacy.html",
+  "http": 202,
+  "status": "ok",
+  "title": "",
+  "url": "http://www.nizkor.org/features/fallacies/genetic-fallacy.html"
+ },
+ "http://www.nothingisreal.com/mentifex_faq.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.nothingisreal.com/mentifex_faq.html",
+  "http": 200,
+  "status": "ok",
+  "title": "The Arthur T. Murray/Mentifex FAQ",
+  "url": "http://www.nothingisreal.com/mentifex_faq.html"
+ },
+ "http://www.nothingisreal.com/mentifex_faq.html#x1-190002.3.1": {
+  "checked": "2026-10-04",
+  "final": "https://www.nothingisreal.com/mentifex_faq.html#x1-190002.3.1",
+  "http": 200,
+  "status": "ok",
+  "title": "The Arthur T. Murray/Mentifex FAQ",
+  "url": "http://www.nothingisreal.com/mentifex_faq.html#x1-190002.3.1"
+ },
+ "http://www.overcomingbias.com/2006/12/agreeing_to_agr.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/agreeing_to_agrhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Agreeing to Agree - by Hal Finney - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2006/12/agreeing_to_agr.html"
+ },
+ "http://www.overcomingbias.com/2006/12/biases_of_scien.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/biases_of_scienhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Biases of Science Fiction - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2006/12/biases_of_scien.html"
+ },
  "http://www.overcomingbias.com/2006/12/you_are_never_e.html": {
   "checked": "2026-10-04",
   "final": "https://www.overcomingbias.com/p/you_are_never_ehtml",
@@ -785,6 +3568,30 @@
   "status": "redirected",
   "title": "You Are Never Entitled to Your Opinion - by Robin Hanson",
   "url": "http://www.overcomingbias.com/2006/12/you_are_never_e.html"
+ },
+ "http://www.overcomingbias.com/2007/01/conspicuous_con.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/conspicuous_conhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Conspicuous Consumption of Info - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/01/conspicuous_con.html"
+ },
+ "http://www.overcomingbias.com/2007/01/we_cant_foresee.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/we_cant_foreseehtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "We Can’t Foresee To Disagree - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/01/we_cant_foresee.html"
+ },
+ "http://www.overcomingbias.com/2007/02/what_evidence_i.html?cid=61577404#comment-518293876": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/what_evidence_ihtml#comment-518293876",
+  "http": 200,
+  "status": "redirected",
+  "title": "What Evidence in Silence or Confusion? - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/02/what_evidence_i.html?cid=61577404#comment-518293876"
  },
  "http://www.overcomingbias.com/2007/03/on_majoritarian.html": {
   "checked": "2026-10-04",
@@ -794,6 +3601,62 @@
   "title": "Philosophical Majoritarianism - by Hal Finney",
   "url": "http://www.overcomingbias.com/2007/03/on_majoritarian.html"
  },
+ "http://www.overcomingbias.com/2007/03/paternalism_is_.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/paternalism_is_html",
+  "http": 200,
+  "status": "redirected",
+  "title": "Paternalism Is About Bias - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/03/paternalism_is_.html"
+ },
+ "http://www.overcomingbias.com/2007/04/expert_at_versu.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/expert_at_versuhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Expert At Versus Expert On - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/04/expert_at_versu.html"
+ },
+ "http://www.overcomingbias.com/2007/05/policy_tugowar.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/policy_tugowarhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Policy Tug-O-War - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/05/policy_tugowar.html"
+ },
+ "http://www.overcomingbias.com/2007/05/rand_health_ins.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/rand_health_inshtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "RAND Health Insurance Experiment - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/05/rand_health_ins.html"
+ },
+ "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/1_2_3_infinityhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "1, 2, 3, Infinity - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html"
+ },
+ "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html#comment-518292560": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/1_2_3_infinityhtml#comment-518292560",
+  "http": 200,
+  "status": "redirected",
+  "title": "1, 2, 3, Infinity - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html#comment-518292560"
+ },
+ "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html#comment-518292606": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/1_2_3_infinityhtml#comment-518292606",
+  "http": 200,
+  "status": "redirected",
+  "title": "1, 2, 3, Infinity - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/06/1_2_3_infinity.html#comment-518292606"
+ },
  "http://www.overcomingbias.com/2007/06/against_free_th.html": {
   "checked": "2026-10-04",
   "final": "https://www.overcomingbias.com/p/against_free_thhtml",
@@ -801,6 +3664,143 @@
   "status": "redirected",
   "title": "Against Free Thinkers - by Robin Hanson - Overcoming Bias",
   "url": "http://www.overcomingbias.com/2007/06/against_free_th.html"
+ },
+ "http://www.overcomingbias.com/2007/07/tell-your-anti-.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150507135317/http://www.overcomingbias.com/2007/07/tell-your-anti-.html",
+  "http": 404,
+  "note": "https://www.overcomingbias.com/2007/07/tell-your-anti-.html: HTTP 404",
+  "snapshot": "20150507135317",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.overcomingbias.com/2007/07/tell-your-anti-.html"
+ },
+ "http://www.overcomingbias.com/2007/08/truth-bias.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/truth-biashtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Truth Bias - by Peter McCluskey - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/08/truth-bias.html"
+ },
+ "http://www.overcomingbias.com/2007/09/false-findings-.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150226152848/http://www.overcomingbias.com/2007/09/false-findings-.html",
+  "http": 404,
+  "note": "https://www.overcomingbias.com/2007/09/false-findings-.html: HTTP 404",
+  "snapshot": "20150226152848",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.overcomingbias.com/2007/09/false-findings-.html"
+ },
+ "http://www.overcomingbias.com/2007/10/what-evidence-i.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/what-evidence-ihtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "What Evidence Intuition? - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/10/what-evidence-i.html"
+ },
+ "http://www.overcomingbias.com/2007/11/merry-hallowmas.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/merry-hallowmashtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Merry Hallowthankmas Eve - by Robin Hanson",
+  "url": "http://www.overcomingbias.com/2007/11/merry-hallowmas.html"
+ },
+ "http://www.overcomingbias.com/2007/12/economist-judgm.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/economist-judgmhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Economist Judgment - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2007/12/economist-judgm.html"
+ },
+ "http://www.overcomingbias.com/2008/02/my-favorite-lia.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/my-favorite-liahtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "My Favorite Liar - by Kai Chang - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2008/02/my-favorite-lia.html"
+ },
+ "http://www.overcomingbias.com/2008/08/morality-as-fix.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.overcomingbias.com/2008/08/morality-as-fix.html",
+  "http": 403,
+  "note": "https://www.overcomingbias.com/2008/08/morality-as-fix.html: HTTP 403 (bot protection); http://www.overcomingbias.com/2008/08/morality-as-fix.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.overcomingbias.com/2008/08/morality-as-fix.html"
+ },
+ "http://www.overcomingbias.com/2008/09/deafening-silen.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/deafening-silenhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Deafening Silence - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2008/09/deafening-silen.html"
+ },
+ "http://www.overcomingbias.com/2008/09/deafening-silen.html#comment-518221902": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/deafening-silenhtml#comment-518221902",
+  "http": 200,
+  "status": "redirected",
+  "title": "Deafening Silence - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2008/09/deafening-silen.html#comment-518221902"
+ },
+ "http://www.overcomingbias.com/2008/12/voting-kills.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/voting-killshtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Voting Kills - by Philip Goetz - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2008/12/voting-kills.html"
+ },
+ "http://www.overcomingbias.com/2009/02/against-propaganda-.html": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.overcomingbias.com/2009/02/against-propaganda-.html",
+  "http": 404,
+  "note": "https://www.overcomingbias.com/2009/02/against-propaganda-.html: HTTP 404; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "Overcoming Bias | Robin Hanson | Substack",
+  "url": "http://www.overcomingbias.com/2009/02/against-propaganda-.html"
+ },
+ "http://www.overcomingbias.com/2009/02/the-cost-of-talking-values.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/the-cost-of-talking-valueshtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Beware Value Talk - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2009/02/the-cost-of-talking-values.html"
+ },
+ "http://www.overcomingbias.com/2009/03/as-ye-judge-those-who-fund-thee-ye-shall-be-judged.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/as-ye-judge-those-who-fund-thee-ye-shall-be-judgedhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "As ye judge those who fund thee, ye shall be judged",
+  "url": "http://www.overcomingbias.com/2009/03/as-ye-judge-those-who-fund-thee-ye-shall-be-judged.html"
+ },
+ "http://www.overcomingbias.com/2009/03/loving-cranks-to-death.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/loving-cranks-to-deathhtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Loving Cranks to Death - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2009/03/loving-cranks-to-death.html"
+ },
+ "http://www.overcomingbias.com/2009/04/choke-to-submit.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.overcomingbias.com/p/choke-to-submithtml",
+  "http": 200,
+  "status": "redirected",
+  "title": "Choke To Submit? - by Robin Hanson - Overcoming Bias",
+  "url": "http://www.overcomingbias.com/2009/04/choke-to-submit.html"
  },
  "http://www.paulgraham.com/hamming.html": {
   "checked": "2026-10-04",
@@ -818,6 +3818,52 @@
   "title": "Philosophy, et cetera: Arguing with Eliezer: Part II",
   "url": "http://www.philosophyetc.net/2008/03/arguing-with-eliezer-part-ii.html"
  },
+ "http://www.plosmedicine.org/perlserv/?request=get-document&%3bdoi=10.1371/journal.pmed.0020124&%3bct=1": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.plosmedicine.org/perlserv/?request=get-document&%3bdoi=10.1371/journal.pmed.0020124&%3bct=1",
+  "http": 200,
+  "note": "redirected to an unrelated page: https://journals.plos.org/plosmedicine/; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "PLOS Medicine",
+  "url": "http://www.plosmedicine.org/perlserv/?request=get-document&%3bdoi=10.1371/journal.pmed.0020124&%3bct=1"
+ },
+ "http://www.pnas.org/content/73/12/4604.full.pdf": {
+  "checked": "2026-10-04",
+  "final": "http://www.pnas.org/content/73/12/4604.full.pdf",
+  "http": 403,
+  "note": "https://www.pnas.org/content/73/12/4604.full.pdf: HTTP 403 (bot protection); http://www.pnas.org/content/73/12/4604.full.pdf: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.pnas.org/content/73/12/4604.full.pdf"
+ },
+ "http://www.poemhunter.com/poem/a-poem-sacred-to-the-memory-of-sir-isaac-newton/": {
+  "checked": "2026-10-04",
+  "final": "https://www.poemhunter.com/poem/a-poem-sacred-to-the-memory-of-sir-isaac-newton/",
+  "http": 200,
+  "status": "ok",
+  "title": "A Poem Sacred To The Memory Of Sir Isaac Newton - A Poem Sacred To The Memory Of Sir Isaac Newton Poem by James Thomson",
+  "url": "http://www.poemhunter.com/poem/a-poem-sacred-to-the-memory-of-sir-isaac-newton/"
+ },
+ "http://www.prem-rawat-talk.org/forum/uploads/CultCharacteristics.htm": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150306054633/http://www.prem-rawat-talk.org:80/forum/uploads/CultCharacteristics.htm",
+  "http": 404,
+  "note": "https://www.prem-rawat-talk.org/forum/uploads/CultCharacteristics.htm: HTTP 404",
+  "snapshot": "20150306054633",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.prem-rawat-talk.org/forum/uploads/CultCharacteristics.htm"
+ },
+ "http://www.printthis.clickability.com/pt/cpt?action=cpt&title=The+Power+%28and+Peril%29+of+Praising+Your+Kids+--+New+York+Magazine&expire=&urlID=21157633&fb=Y&url=http%3A%2F%2Fnymag.com%2Fnews%2Ffeatures%2F27840%2F&partnerID=73272": {
+  "checked": "2026-10-04",
+  "final": "http://www.printthis.clickability.com/pt/cpt?action=cpt&title=The+Power+%28and+Peril%29+of+Praising+Your+Kids+--+New+York+Magazine&expire=&urlID=21157633&fb=Y&url=http%3A%2F%2Fnymag.com%2Fnews%2Ffeatures%2F27840%2F&partnerID=73272",
+  "note": "https://www.printthis.clickability.com/pt/cpt?action=cpt&title=The+Power+%28and+Peril%29+of+Praising+Your+Kids+--+New+York+Magazine&expire=&urlID=21157633&fb=Y&url=http%3A%2F%2Fnymag.com%2Fnews%2Ffeatures%2F27840%2F&partnerID=73272: ProxyError; http://www.printthis.clickability.com/pt/cpt?action=cpt&title=The+Power+%28and+Peril%29+of+Praising+Your+Kids+--+New+York+Magazine&expire=&urlID=21157633&fb=Y&url=http%3A%2F%2Fnymag.com%2Fnews%2Ffeatures%2F27840%2F&partnerID=73272: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.printthis.clickability.com/pt/cpt?action=cpt&title=The+Power+%28and+Peril%29+of+Praising+Your+Kids+--+New+York+Magazine&expire=&urlID=21157633&fb=Y&url=http%3A%2F%2Fnymag.com%2Fnews%2Ffeatures%2F27840%2F&partnerID=73272"
+ },
  "http://www.radford.edu/~jaspelme/443/spring-2007/Articles/Jones_n_Harris_1967.pdf": {
   "checked": "2026-10-04",
   "final": "http://www.radford.edu/~jaspelme/443/spring-2007/Articles/Jones_n_Harris_1967.pdf",
@@ -826,6 +3872,56 @@
   "status": "unchecked",
   "title": "",
   "url": "http://www.radford.edu/~jaspelme/443/spring-2007/Articles/Jones_n_Harris_1967.pdf"
+ },
+ "http://www.reuters.com/article/2009/03/25/us-crash-idUSTRE52N63B20090325": {
+  "checked": "2026-10-04",
+  "final": "http://www.reuters.com/article/2009/03/25/us-crash-idUSTRE52N63B20090325",
+  "http": 403,
+  "note": "https://www.reuters.com/article/2009/03/25/us-crash-idUSTRE52N63B20090325: HTTP 401 (bot protection); http://www.reuters.com/article/2009/03/25/us-crash-idUSTRE52N63B20090325: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.reuters.com/article/2009/03/25/us-crash-idUSTRE52N63B20090325"
+ },
+ "http://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png": {
+  "checked": "2026-10-04",
+  "final": "http://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png",
+  "http": 403,
+  "note": "https://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png: SSLError; http://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png"
+ },
+ "http://www.robertboynton.com/articleDisplay.php?article_id=1535": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20141230225045/http://www.robertboynton.com/articleDisplay.php?article_id=1535",
+  "http": 404,
+  "note": "https://www.robertboynton.com/articleDisplay.php?article_id=1535: HTTP 404",
+  "snapshot": "20141230225045",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.robertboynton.com/articleDisplay.php?article_id=1535"
+ },
+ "http://www.samharris.org/blog/item/the-pleasures-of-drowning": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150219204719/http://www.samharris.org:80/blog/item/the-pleasures-of-drowning",
+  "http": 404,
+  "note": "https://www.samharris.org/blog/item/the-pleasures-of-drowning: HTTP 404",
+  "snapshot": "20150219204719",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.samharris.org/blog/item/the-pleasures-of-drowning"
+ },
+ "http://www.samharris.org/site/full_text/debate-with-andrew-sullivan-part-two": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.samharris.org/site/full_text/debate-with-andrew-sullivan-part-two",
+  "http": 404,
+  "note": "https://www.samharris.org/site/full_text/debate-with-andrew-sullivan-part-two: HTTP 404; dead, no snapshot found yet",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.samharris.org/site/full_text/debate-with-andrew-sullivan-part-two"
  },
  "http://www.scottaaronson.com/blog/?p=326": {
   "checked": "2026-10-04",
@@ -864,6 +3960,41 @@
   "title": "",
   "url": "http://www.siggraph.org/publications/newsletter/issues/v35/v35n1.pdf"
  },
+ "http://www.simulation-argument.com/simulation.html": {
+  "checked": "2026-10-04",
+  "final": "https://simulation-argument.com/simulation/",
+  "http": 200,
+  "status": "redirected",
+  "title": "Are You Living in a Simulation?",
+  "url": "http://www.simulation-argument.com/simulation.html"
+ },
+ "http://www.sirlin.net/articles/playing-to-win-part-1.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.sirlin.net/articles/playing-to-win-part-1.html",
+  "http": 403,
+  "note": "https://www.sirlin.net/articles/playing-to-win-part-1.html: HTTP 403 (bot protection); http://www.sirlin.net/articles/playing-to-win-part-1.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.sirlin.net/articles/playing-to-win-part-1.html"
+ },
+ "http://www.skepticfiles.org/atheist/genesisd.htm": {
+  "checked": "2026-10-04",
+  "final": "http://www.skepticfiles.org/atheist/genesisd.htm",
+  "http": 403,
+  "note": "https://www.skepticfiles.org/atheist/genesisd.htm: HTTP 429 (bot protection); http://www.skepticfiles.org/atheist/genesisd.htm: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.skepticfiles.org/atheist/genesisd.htm"
+ },
+ "http://www.sl4.org/archive/0606/15138.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.sl4.org/archive/0606/15138.html",
+  "http": 403,
+  "note": "https://www.sl4.org/archive/0606/15138.html: SSLError; http://www.sl4.org/archive/0606/15138.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.sl4.org/archive/0606/15138.html"
+ },
  "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside%5C_the%5C_boxes.single.html": {
   "checked": "2026-10-04",
   "final": "https://slate.com/culture/2002/02/robert-nozick-and-newcomb-s-problem.html",
@@ -872,6 +4003,30 @@
   "status": "redirected",
   "title": "Robert Nozick and \"Newcomb's Problem.\"",
   "url": "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside%5C_the%5C_boxes.single.html"
+ },
+ "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.html": {
+  "checked": "2026-10-04",
+  "final": "https://slate.com/culture/2002/02/robert-nozick-and-newcomb-s-problem.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "Robert Nozick and \"Newcomb's Problem.\"",
+  "url": "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.html"
+ },
+ "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.single.html": {
+  "checked": "2026-10-04",
+  "final": "https://slate.com/culture/2002/02/robert-nozick-and-newcomb-s-problem.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "Robert Nozick and \"Newcomb's Problem.\"",
+  "url": "http://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.single.html"
+ },
+ "http://www.smbc-comics.com/index.php?db=comics&id=1038": {
+  "checked": "2026-10-04",
+  "final": "https://www.smbc-comics.com/index.php?db=comics&id=1038",
+  "http": 200,
+  "status": "ok",
+  "title": "Saturday Morning Breakfast Cereal - A",
+  "url": "http://www.smbc-comics.com/index.php?db=comics&id=1038"
  },
  "http://www.spaceandgames.com/?p=27": {
   "checked": "2026-10-04",
@@ -882,6 +4037,46 @@
   "title": "",
   "url": "http://www.spaceandgames.com/?p=27"
  },
+ "http://www.spectacle.org/1095/stop1.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.spectacle.org/1095/stop1.html",
+  "http": 200,
+  "status": "ok",
+  "title": "God as a Semantical Signpost",
+  "url": "http://www.spectacle.org/1095/stop1.html"
+ },
+ "http://www.spectacle.org/yearzero/godvgod.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.spectacle.org/yearzero/godvgod.html",
+  "http": 200,
+  "status": "ok",
+  "title": "God vs. God",
+  "url": "http://www.spectacle.org/yearzero/godvgod.html"
+ },
+ "http://www.spiegel.de/international/spiegel/spiegel-interview-with-african-economics-expert-for-god-s-sake-please-stop-the-aid-a-363663.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.spiegel.de/international/spiegel/spiegel-interview-with-african-economics-expert-for-god-s-sake-please-stop-the-aid-a-363663.html",
+  "http": 200,
+  "status": "ok",
+  "title": "SPIEGEL Interview with African Economics Expert: \"For God's Sake, Please Stop the Aid!\" - DER SPIEGEL",
+  "url": "http://www.spiegel.de/international/spiegel/spiegel-interview-with-african-economics-expert-for-god-s-sake-please-stop-the-aid-a-363663.html"
+ },
+ "http://www.ssec.wisc.edu/%7Ebillh/g/AIRisk_Reply.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.ssec.wisc.edu/~billh/g/AIRisk_Reply.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "Reply to AIRisk",
+  "url": "http://www.ssec.wisc.edu/%7Ebillh/g/AIRisk_Reply.html"
+ },
+ "http://www.ssec.wisc.edu/%7Ebillh/visfiles.html": {
+  "checked": "2026-10-04",
+  "final": "https://www.ssec.wisc.edu/~billh/visfiles.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "What Does a Vis Guy Know About Intelligent Machines",
+  "url": "http://www.ssec.wisc.edu/%7Ebillh/visfiles.html"
+ },
  "http://www.ssec.wisc.edu/~billh/g/AIRisk_Reply.html": {
   "checked": "2026-10-04",
   "final": "https://www.ssec.wisc.edu/~billh/g/AIRisk_Reply.html",
@@ -889,6 +4084,17 @@
   "status": "ok",
   "title": "Reply to AIRisk",
   "url": "http://www.ssec.wisc.edu/~billh/g/AIRisk_Reply.html"
+ },
+ "http://www.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%207/Ozdenoren_Paper.pdf": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20120831220011/http://www.stanford.edu:80/group/SITE/archive/SITE_2006/Web%20Session%207/Ozdenoren_Paper.pdf",
+  "http": 404,
+  "note": "https://www.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%207/Ozdenoren_Paper.pdf: HTTP 404",
+  "snapshot": "20120831220011",
+  "status": "archived",
+  "title": "",
+  "url": "http://www.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%207/Ozdenoren_Paper.pdf"
  },
  "http://www.talkorigins.org/origins/faqs-qa.html": {
   "checked": "2026-10-04",
@@ -901,11 +4107,12 @@
  "http://www.textbookleague.org/103feyn.htm": {
   "checked": "2026-10-04",
   "dead": true,
-  "final": "http://www.textbookleague.org/103feyn.htm",
+  "final": "https://web.archive.org/web/20150310071541/http://www.textbookleague.org:80/103feyn.htm",
   "http": 200,
-  "note": "redirected to the home page; dead, no snapshot found yet",
-  "status": "unchecked",
-  "title": "Textbookleague - Situs Slot Online Terbaru",
+  "note": "redirected to the home page",
+  "snapshot": "20150310071541",
+  "status": "archived",
+  "title": "",
   "url": "http://www.textbookleague.org/103feyn.htm"
  },
  "http://www.theregister.co.uk/2007/12/04/wikipedia_secret_mailing/": {
@@ -924,6 +4131,23 @@
   "title": "Wikipedia black helicopters circle Utah's Traverse Mountain",
   "url": "http://www.theregister.co.uk/2007/12/06/wikipedia_and_overstock/"
  },
+ "http://www.tiem.utk.edu/%7Egavrila/583/583.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.tiem.utk.edu/%7Egavrila/583/583.html",
+  "http": 403,
+  "note": "https://www.tiem.utk.edu/%7Egavrila/583/583.html: ConnectionError; http://www.tiem.utk.edu/%7Egavrila/583/583.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.tiem.utk.edu/%7Egavrila/583/583.html"
+ },
+ "http://www.wjh.harvard.edu/%7Edtg/Gilbert%20et%20al%20%28UNBELIEVING%29.pdf": {
+  "checked": "2026-10-04",
+  "final": "http://www.wjh.harvard.edu/%7Edtg/Gilbert%20et%20al%20%28UNBELIEVING%29.pdf",
+  "note": "https://www.wjh.harvard.edu/%7Edtg/Gilbert%20et%20al%20%28UNBELIEVING%29.pdf: ProxyError; http://www.wjh.harvard.edu/%7Edtg/Gilbert%20et%20al%20%28UNBELIEVING%29.pdf: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.wjh.harvard.edu/%7Edtg/Gilbert%20et%20al%20%28UNBELIEVING%29.pdf"
+ },
  "http://www.wjh.harvard.edu/~dtg/Gilbert%20&%20Malone%20(CORRESPONDENCE%20BIAS).pdf": {
   "checked": "2026-10-04",
   "final": "http://www.wjh.harvard.edu/~dtg/Gilbert%20&%20Malone%20(CORRESPONDENCE%20BIAS).pdf",
@@ -931,6 +4155,58 @@
   "status": "unchecked",
   "title": "",
   "url": "http://www.wjh.harvard.edu/~dtg/Gilbert%20&%20Malone%20(CORRESPONDENCE%20BIAS).pdf"
+ },
+ "http://www.wjh.harvard.edu/~dtg/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf": {
+  "checked": "2026-10-04",
+  "final": "http://www.wjh.harvard.edu/~dtg/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf",
+  "note": "https://www.wjh.harvard.edu/~dtg/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf: ProxyError; http://www.wjh.harvard.edu/~dtg/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf: ConnectionError",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.wjh.harvard.edu/~dtg/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf"
+ },
+ "http://www.worldchanging.com/archives/008009.html": {
+  "checked": "2026-10-04",
+  "final": "http://www.worldchanging.com/archives/008009.html",
+  "http": 403,
+  "note": "https://www.worldchanging.com/archives/008009.html: ConnectionError; http://www.worldchanging.com/archives/008009.html: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.worldchanging.com/archives/008009.html"
+ },
+ "http://www.youtube.com/watch?v=LQqq3e03EBQ": {
+  "checked": "2026-10-04",
+  "final": "http://www.youtube.com/watch?v=LQqq3e03EBQ",
+  "http": 403,
+  "note": "https://www.youtube.com/watch?v=LQqq3e03EBQ: HTTP 429 (bot protection); http://www.youtube.com/watch?v=LQqq3e03EBQ: HTTP 403 (bot protection)",
+  "status": "unchecked",
+  "title": "",
+  "url": "http://www.youtube.com/watch?v=LQqq3e03EBQ"
+ },
+ "http://www.youtube.com/watch?v=ORqc1x3_Evg&feature=related": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=ORqc1x3_Evg&feature=related",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "redirected",
+  "title": "Nuclear Chain Reaction with Balls :: Physikshow Uni Bonn",
+  "url": "http://www.youtube.com/watch?v=ORqc1x3_Evg&feature=related"
+ },
+ "http://www.youtube.com/watch?v=X66jntR0MVE": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=X66jntR0MVE",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "redirected",
+  "title": "I Was Going to Toshi Station to Pick Up Some Power Converters",
+  "url": "http://www.youtube.com/watch?v=X66jntR0MVE"
+ },
+ "http://www.youtube.com/watch?v=f99PcP0aFNE": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "http://www.youtube.com/watch?v=f99PcP0aFNE",
+  "note": "video no longer available; dead, no snapshot found yet",
+  "status": "unchecked",
+  "url": "http://www.youtube.com/watch?v=f99PcP0aFNE"
  },
  "http://www.youtube.com/watch?v=iYhCn0jf46U": {
   "checked": "2026-10-04",
@@ -940,6 +4216,24 @@
   "status": "unchecked",
   "title": "",
   "url": "http://www.youtube.com/watch?v=iYhCn0jf46U"
+ },
+ "http://www.youtube.com/watch?v=tRVUOGUmxJI": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=tRVUOGUmxJI",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "redirected",
+  "title": "Lex Luthor - WRONG!",
+  "url": "http://www.youtube.com/watch?v=tRVUOGUmxJI"
+ },
+ "http://www.youtube.com/watch?v=tZZv5Z2Iz_s": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=tZZv5Z2Iz_s",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "redirected",
+  "title": "Form Voltron",
+  "url": "http://www.youtube.com/watch?v=tZZv5Z2Iz_s"
  },
  "http://www.yudkowsky.net": {
   "checked": "2026-10-04",
@@ -960,12 +4254,29 @@
  "http://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf": {
   "checked": "2026-10-04",
   "dead": true,
-  "final": "http://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf",
+  "final": "https://web.archive.org/web/20160702122139/http://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf",
   "http": 404,
-  "note": "https://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf: HTTP 404; dead, no snapshot found yet",
-  "status": "unchecked",
-  "title": "404 Not Found",
+  "note": "https://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf: HTTP 404",
+  "snapshot": "20160702122139",
+  "status": "archived",
+  "title": "",
   "url": "http://www2.psych.ubc.ca/~schaller/Psyc590Readings/Hastorf1954.pdf"
+ },
+ "http://xkcd.com/397/": {
+  "checked": "2026-10-04",
+  "final": "https://xkcd.com/397/",
+  "http": 200,
+  "status": "ok",
+  "title": "xkcd: Unscientific",
+  "url": "http://xkcd.com/397/"
+ },
+ "http://xkcd.com/447/": {
+  "checked": "2026-10-04",
+  "final": "https://xkcd.com/447/",
+  "http": 200,
+  "status": "ok",
+  "title": "xkcd: Too Old For This Shit",
+  "url": "http://xkcd.com/447/"
  },
  "http://yosemite.epa.gov/ee/epa/eerm.nsf/vwAN/EE-0280B-04.pdf": {
   "checked": "2026-10-04",
@@ -976,6 +4287,22 @@
   "status": "unchecked",
   "title": "Environmental Protection Agency",
   "url": "http://yosemite.epa.gov/ee/epa/eerm.nsf/vwAN/EE-0280B-04.pdf"
+ },
+ "http://yudkowsky.net/other/fiction": {
+  "checked": "2026-10-04",
+  "final": "https://www.yudkowsky.net/other/fiction",
+  "http": 200,
+  "status": "ok",
+  "title": "Fiction – Eliezer S. Yudkowsky",
+  "url": "http://yudkowsky.net/other/fiction"
+ },
+ "http://yudkowsky.net/other/fiction/npc": {
+  "checked": "2026-10-04",
+  "final": "https://www.yudkowsky.net/other/fiction/npc",
+  "http": 200,
+  "status": "ok",
+  "title": "“Non-Player Character” – Eliezer S. Yudkowsky",
+  "url": "http://yudkowsky.net/other/fiction/npc"
  },
  "http://yudkowsky.net/other/yehuda/": {
   "checked": "2026-10-04",
@@ -993,6 +4320,30 @@
   "title": "An Intuitive Explanation of Bayes’ Theorem – Eliezer S. Yudkowsky",
   "url": "http://yudkowsky.net/rational/bayes"
  },
+ "http://yudkowsky.net/singularity/aibox": {
+  "checked": "2026-10-04",
+  "final": "https://www.yudkowsky.net/singularity/aibox",
+  "http": 200,
+  "status": "ok",
+  "title": "The AI-Box Experiment: – Eliezer S. Yudkowsky",
+  "url": "http://yudkowsky.net/singularity/aibox"
+ },
+ "http://yudkowsky.net/singularity/aibox/": {
+  "checked": "2026-10-04",
+  "final": "https://www.yudkowsky.net/singularity/aibox",
+  "http": 200,
+  "status": "ok",
+  "title": "The AI-Box Experiment: – Eliezer S. Yudkowsky",
+  "url": "http://yudkowsky.net/singularity/aibox/"
+ },
+ "http://yudkowsky.net/singularity/simplified": {
+  "checked": "2026-10-04",
+  "final": "https://www.yudkowsky.net/singularity/simplified",
+  "http": 200,
+  "status": "ok",
+  "title": "Transhumanism as Simplified Humanism – Eliezer S. Yudkowsky",
+  "url": "http://yudkowsky.net/singularity/simplified"
+ },
  "http://zapatopi.net/kelvin/quotes/": {
   "checked": "2026-10-04",
   "final": "https://zapatopi.net/kelvin/quotes/",
@@ -1009,6 +4360,14 @@
   "title": "[1710.05060] Functional Decision Theory: A New Theory of Instrumental Rationality",
   "url": "https://arxiv.org/abs/1710.05060"
  },
+ "https://bioethicsarchive.georgetown.edu/pcbe/background/sandelpaper.html": {
+  "checked": "2026-10-04",
+  "final": "https://sitearchives.georgetown.edu:443/kie-pcbe/background/sandelpaper.html",
+  "http": 200,
+  "status": "redirected",
+  "title": "The President's Council on Bioethics: What's Wrong With Enhancement?",
+  "url": "https://bioethicsarchive.georgetown.edu/pcbe/background/sandelpaper.html"
+ },
  "https://blogs.scientificamerican.com/observations/five-sigmawhats-that/": {
   "checked": "2026-10-04",
   "final": "https://www.scientificamerican.com/blog/observations/five-sigmawhats-that/",
@@ -1016,6 +4375,434 @@
   "status": "redirected",
   "title": "5 Sigma What's That? | Scientific American",
   "url": "https://blogs.scientificamerican.com/observations/five-sigmawhats-that/"
+ },
+ "https://doi.org/10.1002/bdm.434": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1002/bdm.434",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1002/bdm.434",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1002/bdm.434"
+ },
+ "https://doi.org/10.1006/cogp.1994.1006": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0010028584710061",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1006/cogp.1994.1006"
+ },
+ "https://doi.org/10.1006/jeem.1995.1011": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S009506968571011X",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1006/jeem.1995.1011"
+ },
+ "https://doi.org/10.1006/jmla.1995.1005": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749596X85710054",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1006/jmla.1995.1005"
+ },
+ "https://doi.org/10.1006/obhd.1996.0077": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749597896900771",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1006/obhd.1996.0077"
+ },
+ "https://doi.org/10.1006/obhd.2000.2914": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0749597800929145",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1006/obhd.2000.2914"
+ },
+ "https://doi.org/10.1007/978-3-540-68677-4": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1007/978-3-540-68677-4",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.1007/978-3-540-68677-4"
+ },
+ "https://doi.org/10.1007/BF01065315": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1007/BF01065315",
+  "http": 302,
+  "note": "DOI resolves to http://link.springer.com/10.1007/BF01065315",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1007/BF01065315"
+ },
+ "https://doi.org/10.1007/b138233": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1007/b138233",
+  "http": 302,
+  "note": "DOI resolves to http://link.springer.com/10.1007/b138233",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1007/b138233"
+ },
+ "https://doi.org/10.1016/0010-0285(86)90001-0": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/0010028586900010",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1016/0010-0285(86)90001-0"
+ },
+ "https://doi.org/10.1016/0010-0285(92)90013-R": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/001002859290013R",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1016/0010-0285(92)90013-R"
+ },
+ "https://doi.org/10.1016/0022-1031(76)90073-1": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/0022103176900731",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1016/0022-1031(76)90073-1"
+ },
+ "https://doi.org/10.1016/S0065-2458(08)60418-0": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S0065245808604180",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1016/S0065-2458(08)60418-0"
+ },
+ "https://doi.org/10.1016/S1053-5357(02)00174-9": {
+  "checked": "2026-10-04",
+  "final": "https://linkinghub.elsevier.com/retrieve/pii/S1053535702001749",
+  "http": 200,
+  "status": "redirected",
+  "title": "Redirecting",
+  "url": "https://doi.org/10.1016/S1053-5357(02)00174-9"
+ },
+ "https://doi.org/10.1017/CBO9780511498497": {
+  "checked": "2026-10-04",
+  "final": "https://www.cambridge.org/core/books/foundations-of-causal-decision-theory/068BC033D4D8245FCF607904CC4DB730",
+  "http": 200,
+  "status": "redirected",
+  "title": "The Foundations of Causal Decision Theory",
+  "url": "https://doi.org/10.1017/CBO9780511498497"
+ },
+ "https://doi.org/10.1017/S0305004100011750": {
+  "checked": "2026-10-04",
+  "final": "https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/mathematical-theory-of-natural-and-artificial-selection/5ACBCBD66F8F2DFFD760B6626941FF6B",
+  "http": 200,
+  "status": "redirected",
+  "title": "A mathematical theory of Natural and Artificial Selection | Mathematical Proceedings of the Cambridge Philosophical Soci",
+  "url": "https://doi.org/10.1017/S0305004100011750"
+ },
+ "https://doi.org/10.1023/A:1007710408413": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007710408413",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.1023/A:1007710408413"
+ },
+ "https://doi.org/10.1023/A:1007744326393": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007744326393",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.1023/A:1007744326393"
+ },
+ "https://doi.org/10.1023/A:1007835629236": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007835629236",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.1023/A:1007835629236"
+ },
+ "https://doi.org/10.1023/A:1007876907268": {
+  "checked": "2026-10-04",
+  "final": "https://link.springer.com/10.1023/A:1007876907268",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.1023/A:1007876907268"
+ },
+ "https://doi.org/10.1037/0022-3514.37.8.1387": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.37.8.1387",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0022-3514.37.8.1387"
+ },
+ "https://doi.org/10.1037/0022-3514.59.4.601": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.59.4.601",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0022-3514.59.4.601"
+ },
+ "https://doi.org/10.1037/0022-3514.65.2.221": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.65.2.221",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0022-3514.65.2.221"
+ },
+ "https://doi.org/10.1037/0022-3514.66.5.819": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.66.5.819",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0022-3514.66.5.819"
+ },
+ "https://doi.org/10.1037/0022-3514.67.3.366": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0022-3514.67.3.366",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0022-3514.67.3.366"
+ },
+ "https://doi.org/10.1037/0033-2909.110.1.109": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-2909.110.1.109",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0033-2909.110.1.109"
+ },
+ "https://doi.org/10.1037/0033-295X.108.4.814": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-295X.108.4.814",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0033-295X.108.4.814"
+ },
+ "https://doi.org/10.1037/0033-295X.90.4.293": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0033-295X.90.4.293",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0033-295X.90.4.293"
+ },
+ "https://doi.org/10.1037/0278-7393.4.6.551": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/0278-7393.4.6.551",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/0278-7393.4.6.551"
+ },
+ "https://doi.org/10.1037/1076-898X.2.2.107": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/1076-898X.2.2.107",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/1076-898X.2.2.107"
+ },
+ "https://doi.org/10.1037/1076-898X.6.3.171": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/1076-898X.6.3.171",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/1076-898X.6.3.171"
+ },
+ "https://doi.org/10.1037/h0023123": {
+  "checked": "2026-10-04",
+  "final": "https://doi.apa.org/doi/10.1037/h0023123",
+  "http": 200,
+  "status": "redirected",
+  "title": "",
+  "url": "https://doi.org/10.1037/h0023123"
+ },
+ "https://doi.org/10.1073/pnas.73.12.4604": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1073/pnas.73.12.4604",
+  "http": 302,
+  "note": "DOI resolves to https://pnas.org/doi/full/10.1073/pnas.73.12.4604",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1073/pnas.73.12.4604"
+ },
+ "https://doi.org/10.1080/14792779343000112": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/14792779343000112",
+  "http": 302,
+  "note": "DOI resolves to http://www.tandfonline.com/doi/abs/10.1080/14792779343000112",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1080/14792779343000112"
+ },
+ "https://doi.org/10.1080/14792779943000044": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/14792779943000044",
+  "http": 302,
+  "note": "DOI resolves to http://www.tandfonline.com/doi/abs/10.1080/14792779943000044",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1080/14792779943000044"
+ },
+ "https://doi.org/10.1080/17470216008416717": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1080/17470216008416717",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1080/17470216008416717",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1080/17470216008416717"
+ },
+ "https://doi.org/10.1108/S0573-8555(1993)0000220007": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1108/S0573-8555(1993)0000220007",
+  "http": 302,
+  "note": "DOI resolves to https://www.emerald.com/books/book/12915/chapter/83289595/ISSUES-IN-THE-CONTINGENT-VALUATION-OF",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1108/S0573-8555(1993)0000220007"
+ },
+ "https://doi.org/10.1111/1467-9280.00372": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/1467-9280.00372",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1111/1467-9280.00372",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1111/1467-9280.00372"
+ },
+ "https://doi.org/10.1111/1467-9280.00439": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/1467-9280.00439",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1111/1467-9280.00439",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1111/1467-9280.00439"
+ },
+ "https://doi.org/10.1111/j.1540-5907.2006.00214.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1540-5907.2006.00214.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00214.x",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1111/j.1540-5907.2006.00214.x"
+ },
+ "https://doi.org/10.1111/j.1559-1816.1978.tb00790.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1559-1816.1978.tb00790.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1978.tb00790.x",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1111/j.1559-1816.1978.tb00790.x"
+ },
+ "https://doi.org/10.1111/j.1559-1816.1980.tb00715.x": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1111/j.1559-1816.1980.tb00715.x",
+  "http": 302,
+  "note": "DOI resolves to https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1980.tb00715.x",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1111/j.1559-1816.1980.tb00715.x"
+ },
+ "https://doi.org/10.1126/science.185.4157.1124": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1126/science.185.4157.1124",
+  "http": 302,
+  "note": "DOI resolves to https://www.science.org/doi/10.1126/science.185.4157.1124",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1126/science.185.4157.1124"
+ },
+ "https://doi.org/10.1145/1045339.1045340": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1145/1045339.1045340",
+  "http": 302,
+  "note": "DOI resolves to https://dl.acm.org/doi/10.1145/1045339.1045340",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1145/1045339.1045340"
+ },
+ "https://doi.org/10.1177/0146167291175009": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/0146167291175009",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/0146167291175009",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1177/0146167291175009"
+ },
+ "https://doi.org/10.1177/0146167294204001": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/0146167294204001",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/0146167294204001",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1177/0146167294204001"
+ },
+ "https://doi.org/10.1177/107769907905600420": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.1177/107769907905600420",
+  "http": 302,
+  "note": "DOI resolves to https://journals.sagepub.com/doi/10.1177/107769907905600420",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.1177/107769907905600420"
+ },
+ "https://doi.org/10.2277/0521592712": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.2277/0521592712",
+  "http": 302,
+  "note": "DOI resolves to http://prp.contentdirections.com/mr/cupress.jsp/doi=10.2277/0521592712",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.2277/0521592712"
+ },
+ "https://doi.org/10.2277/0521796792": {
+  "checked": "2026-10-04",
+  "final": "https://doi.org/10.2277/0521796792",
+  "http": 302,
+  "note": "DOI resolves to http://prp.contentdirections.com/mr/cupress.jsp/doi=10.2277/0521796792",
+  "status": "ok",
+  "title": "",
+  "url": "https://doi.org/10.2277/0521796792"
+ },
+ "https://doi.org/10.2307/1907921": {
+  "checked": "2026-10-04",
+  "final": "https://www.jstor.org/stable/1907921?origin=crossref",
+  "http": 200,
+  "status": "redirected",
+  "title": "Client Challenge",
+  "url": "https://doi.org/10.2307/1907921"
+ },
+ "https://doi.org/10.3768/rtipress.2009.bk.0001.1009": {
+  "checked": "2026-10-04",
+  "final": "https://www.rti.org/rti-press-publication/measuring-nonuse-damages-using-contingent-valuation-experimental-evaluation-accuracy-2nd-ed",
+  "http": 200,
+  "status": "redirected",
+  "title": "Measuring Nonuse Damages Using Contingent Valuation | RTI",
+  "url": "https://doi.org/10.3768/rtipress.2009.bk.0001.1009"
  },
  "https://en.wikipedia.org/wiki/Albert_Einstein%27s_brain": {
   "checked": "2026-10-04",
@@ -1028,11 +4815,12 @@
  "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series": {
   "checked": "2026-10-04",
   "dead": true,
-  "final": "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series",
+  "final": "https://web.archive.org/web/20150302013222/http://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series",
   "http": 404,
-  "note": "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series: HTTP 404; dead, no snapshot found yet",
-  "status": "unchecked",
-  "title": "List of spacecraft in the Culture series - Wikipedia",
+  "note": "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series: HTTP 404",
+  "snapshot": "20150302013222",
+  "status": "archived",
+  "title": "",
   "url": "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series"
  },
  "https://en.wikipedia.org/wiki/Minimax": {
@@ -1075,6 +4863,58 @@
   "title": "",
   "url": "https://intelligence.org/files/CognitiveBiases.pdf"
  },
+ "https://intelligence.org/files/TDT.pdf": {
+  "checked": "2026-10-04",
+  "final": "https://intelligence.org/files/TDT.pdf",
+  "http": 200,
+  "status": "ok",
+  "title": "",
+  "url": "https://intelligence.org/files/TDT.pdf"
+ },
+ "https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150507153153/https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf",
+  "http": 404,
+  "note": "https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf: HTTP 404",
+  "snapshot": "20150507153153",
+  "status": "archived",
+  "title": "",
+  "url": "https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf"
+ },
+ "https://news.ycombinator.com/item?id=195959": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20150417181350/https://news.ycombinator.com/item?id=195959",
+  "http": 419,
+  "note": "https://news.ycombinator.com/item?id=195959: HTTP 419",
+  "snapshot": "20150417181350",
+  "status": "archived",
+  "title": "",
+  "url": "https://news.ycombinator.com/item?id=195959"
+ },
+ "https://news.ycombinator.com/item?id=489702": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20141123105715/https://news.ycombinator.com/item?id=489702",
+  "http": 419,
+  "note": "https://news.ycombinator.com/item?id=489702: HTTP 419",
+  "snapshot": "20141123105715",
+  "status": "archived",
+  "title": "",
+  "url": "https://news.ycombinator.com/item?id=489702"
+ },
+ "https://news.ycombinator.com/item?id=489863": {
+  "checked": "2026-10-04",
+  "dead": true,
+  "final": "https://web.archive.org/web/20141123105706/https://news.ycombinator.com/item?id=489863",
+  "http": 419,
+  "note": "https://news.ycombinator.com/item?id=489863: HTTP 419",
+  "snapshot": "20141123105706",
+  "status": "archived",
+  "title": "",
+  "url": "https://news.ycombinator.com/item?id=489863"
+ },
  "https://oll.libertyfund.org/titles/2254": {
   "checked": "2026-10-04",
   "final": "https://oll.libertyfund.org/titles/2254",
@@ -1083,6 +4923,56 @@
   "status": "unchecked",
   "title": "",
   "url": "https://oll.libertyfund.org/titles/2254"
+ },
+ "https://web.archive.org/web/20070217180304/http://iamfacingforeclosure.com/": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20070217180304/https://iamfacingforeclosure.com/",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20070217180304/http://iamfacingforeclosure.com/"
+ },
+ "https://web.archive.org/web/20080517120832/http://www.beloit.edu/~pubaff/mindset/2003.php": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20080517120832/https://www.beloit.edu/~pubaff/mindset/2003.php",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20080517120832/http://www.beloit.edu/~pubaff/mindset/2003.php"
+ },
+ "https://web.archive.org/web/20081007125245/http://www.very.net/~nikolai/tb/coroner.html": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20081007125245/https://www.very.net/~nikolai/tb/coroner.html",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20081007125245/http://www.very.net/~nikolai/tb/coroner.html"
+ },
+ "https://web.archive.org/web/20100426003038/http://iamfacingforeclosure.com/oldsite/147/top-5-advice-they-say-i-have-been-ignoring-2.html": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20100426003038/https://iamfacingforeclosure.com/oldsite/147/top-5-advice-they-say-i-have-been-ignoring-2.html",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20100426003038/http://iamfacingforeclosure.com/oldsite/147/top-5-advice-they-say-i-have-been-ignoring-2.html"
+ },
+ "https://web.archive.org/web/20111217210507/http://homeonthestrange.com/phpBB2/viewtopic.php?t=95": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20111217210507/https://homeonthestrange.com/phpBB2/viewtopic.php?t=95",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20111217210507/http://homeonthestrange.com/phpBB2/viewtopic.php?t=95"
+ },
+ "https://web.archive.org/web/20120617135456/http://singinst.org/blog/2007/10/21/should-ethicists-be-inside-or-outside-a-profession/": {
+  "checked": "2026-10-04",
+  "final": "https://web.archive.org/web/20120617135456/https://singinst.org/blog/2007/10/21/should-ethicists-be-inside-or-outside-a-profession/",
+  "note": "already an archive link in the 2015 text",
+  "status": "archived",
+  "url": "https://web.archive.org/web/20120617135456/http://singinst.org/blog/2007/10/21/should-ethicists-be-inside-or-outside-a-profession/"
+ },
+ "https://www.fightaging.org/": {
+  "checked": "2026-10-04",
+  "final": "https://www.fightaging.org/",
+  "http": 200,
+  "status": "ok",
+  "title": "Fight Aging! – The science of rejuvenation biotechnology. Advocacy for longer, healthier lives.",
+  "url": "https://www.fightaging.org/"
  },
  "https://www.lesswrong.com/posts/28bAMAxhoX3bwbAKC/are-your-enemies-innately-evil": {
   "checked": "2026-10-04",
@@ -3853,13 +7743,31 @@
   "title": "",
   "url": "https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation"
  },
+ "https://www.youtube.com/watch?v=Diuv3XZQXyc": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=Diuv3XZQXyc",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "ok",
+  "title": "Peter Singer: The why and how of effective altruism",
+  "url": "https://www.youtube.com/watch?v=Diuv3XZQXyc"
+ },
  "https://www.youtube.com/watch?v=Ect-kgxBb4M": {
   "checked": "2026-10-04",
   "final": "https://www.youtube.com/watch?v=Ect-kgxBb4M",
+  "http": 200,
+  "note": "verified via YouTube oEmbed",
+  "status": "ok",
+  "title": "Sesame Street - One Of These Things - Letters and numbers",
+  "url": "https://www.youtube.com/watch?v=Ect-kgxBb4M"
+ },
+ "https://www.youtube.com/watch?v=LQqq3e03EBQ&feature=kp": {
+  "checked": "2026-10-04",
+  "final": "https://www.youtube.com/watch?v=LQqq3e03EBQ&feature=kp",
   "http": 429,
-  "note": "https://www.youtube.com/watch?v=Ect-kgxBb4M: HTTP 429 (bot protection)",
+  "note": "https://www.youtube.com/watch?v=LQqq3e03EBQ&feature=kp: HTTP 429 (bot protection)",
   "status": "unchecked",
   "title": "",
-  "url": "https://www.youtube.com/watch?v=Ect-kgxBb4M"
+  "url": "https://www.youtube.com/watch?v=LQqq3e03EBQ&feature=kp"
  }
 }

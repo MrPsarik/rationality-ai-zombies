@@ -1,0 +1,39 @@
+{
+ "total": 2589,
+ "placed": 2586,
+ "internal": 1798,
+ "external": 788,
+ "already_in_text": 173,
+ "already_pageref": 64,
+ "notplaced": 3,
+ "skipped": {
+  "toc": 747,
+  "footnote": 630,
+  "origin": 338,
+  "citation": 62,
+  "self": 21
+ },
+ "not_placed": [
+  {
+   "essay": "Rationality",
+   "text": "intelligence.org",
+   "href": "http://intelligence.org",
+   "target_title": null,
+   "reason": "title page of the ebook; this edition has its own license page, which prints the address"
+  },
+  {
+   "essay": "Rationality",
+   "text": "CC BY-NC-SA 3.0",
+   "href": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+   "target_title": null,
+   "reason": "title page of the ebook; this edition has its own license page, which prints the address"
+  },
+  {
+   "essay": "232 Distinct Configurations",
+   "text": "Figure 230.2",
+   "href": "../Text/SEQUENCESch230.html",
+   "target_title": "230 Configurations and Amplitude",
+   "reason": "link to a figure; the figure number is printed in the text"
+  }
+ ]
+}

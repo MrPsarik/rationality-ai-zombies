@@ -66,6 +66,16 @@ def near(text, phrase, surname, dist=400):
     return False
 
 
+def load_bibplace():
+    p = os.path.join(ROOT, 'links', 'placements.json')
+    if not os.path.exists(p):
+        return []
+    return json.load(open(p, encoding='utf-8')).get('bib', [])
+
+
+BIBPLACE = load_bibplace()
+
+
 def main():
     ents = entries()
     texts = {}
@@ -102,12 +112,22 @@ def main():
             for e in mine:
                 tex = e['tex']
                 sites = links_tex.url_sites(tex)
+                # ebook links of this entry (DOIs, ...): short URL after them
+                for p in BIBPLACE:
+                    i = tex.find(p['needle'])
+                    if i >= 0:
+                        pos = i + len(p['needle'])
+                        sites.append({'pos': pos, 'end': pos, 'url': p['url'],
+                                      'text': p['text'], 'kind': 'ext'})
+                sites.sort(key=lambda x: x['pos'])
                 if sites:
                     for st in sites:
-                        st['code'] = reg.new(st['url'], st['url'], 'url', 'bib')
+                        st['code'] = reg.new(st['url'], st['text'], st['kind'], 'bib')
                     for st in reversed(sites):
-                        tex = (tex[:st['pos']] + '\\RAZurl{%s}' % st['code']
-                               + tex[st['end']:])
+                        rep = '\\RAZurl{%s}' % st['code']
+                        if st['kind'] == 'ext':
+                            rep = ', ' + rep
+                        tex = tex[:st['pos']] + rep + tex[st['end']:]
                     tex = '\\RAZqrfoot{%s}{%s}' % (
                         ','.join(st['code'] for st in sites), tex)
                 f.write('\\RAZbibitem{%s}\n\n' % tex)

@@ -156,6 +156,8 @@ def body_replacement(s):
 def footnote_inner(s):
     if s['kind'] == 'url':
         return '\\RAZurl{%s}' % s['code']
+    if s['kind'] == 'exturl':
+        return ' \\RAZurl{%s}' % s['code']
     return ' (\\RAZurl{%s})' % s['code']
 
 

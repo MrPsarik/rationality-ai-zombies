@@ -14,12 +14,13 @@ SYMBOLS = {'ldots': '...', 'dots': '...', 'textgreater': '>', 'textless': '<',
            'texttimes': 'x', 'times': 'x', 'textbar': '|', 'degree': 'deg',
            'supercomma': ',', 'newline': ' ', 'par': ' ', 'bigskip': ' ',
            'textlnot': '~', 'lnot': '~', 'pounds': 'L', 'copyright': '(c)',
-           'textregistered': '(r)', 'texttrademark': '(tm)', 'textpm': '+-'}
+           'textregistered': '(r)', 'uparrow': '\u2191', 'texttrademark': '(tm)', 'textpm': '+-'}
 
 
 def norm_chars(s):
     s = unicodedata.normalize('NFKC', s)
     s = s.replace('\u2026', '...')
+    s = re.sub(r'\.\s\.\s\.', '...', s)
     s = re.sub(r'[\u2018\u2019\u201a\u201b\u2032`]', "'", s)
     s = re.sub(r'[\u201c\u201d\u201e\u201f\u2033]', '"', s)
     s = re.sub(r'[\u2010-\u2015\u2212]', '-', s)
@@ -27,7 +28,8 @@ def norm_chars(s):
     return s
 
 
-def plain_with_map(tex):
+def plain_with_map(tex, skip_notes=False):
+    skip = SKIP_ARG | ({'footnote', 'footnotetext'} if skip_notes else set())
     out, offs = [], []
     i, n = 0, len(tex)
 
@@ -46,7 +48,7 @@ def plain_with_map(tex):
             if m:
                 name = m.group(1)
                 j = i + m.end()
-                if name in SKIP_ARG:
+                if name in skip:
                     # skip optional [..] and one {...} argument (two for figures)
                     nargs = 3 if name == 'myfigure' else 1
                     while j < n and tex[j] in ' [':

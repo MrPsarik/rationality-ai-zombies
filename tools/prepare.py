@@ -209,6 +209,9 @@ def transform(vol, d, label_vol, placements):
         c += 1
         return m.group(0) + '\n\\RAZpartillus{%02d}\n' % c
     src = re.sub(r'\\chapter\{[^}]*\}', chap, src)
+    # the discussion QR of the last essay before a Part / at the end
+    src = src.replace('\\chapter{', '\\RAZflushdiscuss\n\\chapter{')
+    src += '\n\\RAZflushdiscuss\n'
     # 3. old labels: also as zref labels so other volumes can see them
     src = re.sub(r'\\label\{([^}]+)\}', r'\\RAZoldlabel{\1}', src)
     # 4. \pageref -> (vol. X, p. N) scheme
@@ -245,7 +248,17 @@ def apply_placements(vol, src, placements):
         pos = i + len(p['needle'])
         if p['kind'] == 'ext':
             sites.append({'pos': pos, 'end': pos, 'url': p['url'],
-                          'text': p['text'], 'kind': 'ext'})
+                          'text': p['text'],
+                          'kind': 'exturl' if p.get('urltext') else 'ext'})
+        elif p['kind'] == 'run':
+            # a phrase in which every word links to another essay
+            parts = ['\\emph{%s}~(\\RAZpageof{%d}{%s})'
+                     % (links_tex.tex_escape(m['word']),
+                        ESSAYS[m['target']]['vol'], m['target'])
+                     for m in p['members']]
+            inserts.append((pos, '\\footnote{In the ebook every word of this'
+                            ' phrase links to an earlier essay: %s.}'
+                            % '; '.join(parts)))
         else:
             tv = ESSAYS[p['target']]['vol']
             inserts.append((pos, '~\\RAZref{%d}{%s}' % (tv, p['target'])))

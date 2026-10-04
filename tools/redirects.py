@@ -59,7 +59,8 @@ def main():
                      'original URL': l['url'],
                      'final URL': st.get('final', l['url']),
                      'status': st.get('status', 'unchecked'),
-                     'kind': {'url': 'url in text', 'ext': 'ebook link'}[l['kind']]
+                     'kind': {'url': 'url in text', 'ext': 'ebook link',
+                              'exturl': 'ebook link'}[l['kind']]
                      + {'footnote': ' (footnote)', 'body': ' (text)',
                         'bib': ' (bibliography)'}[l['where']]})
     for code, d in disc.items():

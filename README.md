@@ -54,7 +54,12 @@ and `_redirects` / `links.csv` last, from the page numbers in the final
 4. `tools/prepare.py` inserts page references and QR footnotes.
 
 `links/lw_posts.json` maps every essay to its LessWrong page (for the
-discussion QR codes in the margin); `tools/lw_posts.py` refreshes it.
+discussion QR code at the end of every essay); `tools/lw_posts.py`
+refreshes it.
+
+Ebook links that are not placed in the text are listed, with the reason, in
+`links/placements_report.json`.  Phrases in which every word links to a
+different essay get one footnote listing the words and their pages.
 
 The Part divider illustrations are the sequence images of
 lesswrong.com/rationality; they are downloaded at build time

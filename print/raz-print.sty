@@ -32,6 +32,7 @@
 \RequirePackage{calc}
 \RequirePackage{etoolbox}
 \RequirePackage{qrcode}
+\RequirePackage{needspace}
 \RequirePackage{zref-user,zref-abspage,zref-xr}
 \RequirePackage[hidelinks,bookmarksnumbered,unicode,hyperfootnotes=false]{hyperref}
 \RequirePackage{bookmark}
@@ -92,10 +93,10 @@
       \includegraphics[width=\linewidth,height=0.55\textheight,
         keepaspectratio]{build/illus/part#1.jpg}
     \end{center}}{}%
-  \cleardoublepage}
+  \clearpage}
 \renewcommand*{\raggedchapter}{\centering}
 \RedeclareSectionCommand[
-  beforeskip=6\baselineskip, afterskip=2.2\baselineskip,
+  beforeskip=3.5\baselineskip, afterskip=1.8\baselineskip,
   font=\normalfont\LARGE]{section}
 \RedeclareSectionCommand[
   beforeskip=1.5\baselineskip, afterskip=0.6\baselineskip,
@@ -168,13 +169,24 @@
 \newcommand\RAZlinknote[2]{%
   \footnote{\RAZqrfoot{#1}{\RAZshort{#1}\\[0.2ex]{\itshape #2}}}}
 
-% Discussion of an essay on LessWrong: QR code in the outer margin next to
-% the first lines of the essay.  \RAZdiscuss{code}
-\newcommand\RAZdiscuss[1]{%
-  \marginpar{\vspace*{-0.2\baselineskip}\centering
-    \qrcode[height=13mm]{https://\RAZshortbase#1}\par\vspace{0.8mm}%
-    {\fontsize{5.5}{6.5}\selectfont discussion\\\RAZshortbase\\#1\par}}%
-  \zlabel{link:#1}}
+% Discussion of an essay on LessWrong: a QR code at the end of the essay.
+% \RAZdiscuss{code} (after the heading) remembers the code; the block is
+% set by \RAZflushdiscuss when the next essay or Part starts, or at the end.
+\let\RAZpending\relax
+\newcommand\RAZdiscuss[1]{\gdef\RAZpending{#1}}
+\newcommand\RAZflushdiscuss{%
+  \ifx\RAZpending\relax\else
+    % never alone at the top of a page: it keeps the last lines with it
+    \par\nopagebreak\vspace{1.1\baselineskip}\nopagebreak
+    \noindent\hfill
+    \parbox[c]{60mm}{\raggedleft\footnotesize
+      {\itshape Discussion of this essay on LessWrong}\\
+      \RAZshortbase\RAZpending}%
+    \hspace{3mm}%
+    \parbox[c]{13mm}{\qrcode[height=13mm]{https://\RAZshortbase\RAZpending}}%
+    \zlabel{link:\RAZpending}\par
+    \global\let\RAZpending\relax
+  \fi}
 
 % Per-volume bibliography (entries selected by tools/bibliography.py)
 \newcommand\RAZbibliography[1]{%
@@ -193,19 +205,21 @@
 \setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{1}
 % essays start on a fresh page
+% essays run on; a heading needs room for a few lines below it
+\newcommand\RAZessaystart{\RAZflushdiscuss\par\needspace{9\baselineskip}}
 \newcommand{\mysection}[1]{%
-  \clearpage\thispagestyle{plain.scrheadings}%
+  \RAZessaystart
   \stepcounter{mysection}%
   \section{#1}%
   \setcounter{footnote}{0}}
 \newcommand{\mysectionnn}[1]{%
-  \clearpage\thispagestyle{plain.scrheadings}%
+  \RAZessaystart
   \section*{#1}%
   \addcontentsline{toc}{section}{#1}%
   \markright{#1}%
   \setcounter{footnote}{0}}
 \newcommand{\mysectiontwo}[2]{%
-  \clearpage\thispagestyle{plain.scrheadings}%
+  \RAZessaystart
   \section*{\def\newline{\\[1.2ex]\normalsize\itshape}#2}%
   \addcontentsline{toc}{section}{#1}%
   \markright{#1}%
