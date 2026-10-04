@@ -213,6 +213,8 @@ def transform(vol, d, label_vol, placements):
     src = re.sub(r'\\label\{([^}]+)\}', r'\\RAZoldlabel{\1}', src)
     # 4. \pageref -> (vol. X, p. N) scheme
     src = convert_pagerefs(vol, src, label_vol)
+    # 5. allow a line break after an em dash (LuaTeX does not by itself)
+    src = re.sub(r'(?<!-)---(?!-)', lambda m: '---\\hspace{0pt}', src)
     return src
 
 

@@ -4,7 +4,7 @@
 \input{print/paper.tex}
 \documentclass[fontsize=\BodySize pt,twoside,openright,
   headings=small,footnotes=multiple,toc=flat,
-  cleardoublepage=empty]{scrbook}
+  cleardoublepage=empty,numbers=noenddot]{scrbook}
 \usepackage{raz-print}
 \input{build/src/vol\VolNum-meta.tex}
 \linespread{1}
@@ -12,7 +12,7 @@
 \hypersetup{pdftitle={Rationality: From AI to Zombies. \RAZBookTitle},
   pdfauthor={Eliezer Yudkowsky}}
 
-\begin{document}\typeout{RAZGEOM tw=\the\textwidth\space th=\the\textheight}
+\begin{document}
 \frontmatter
 \input{print/titlepages.tex}
 \cleardoublepage
@@ -21,4 +21,7 @@
 \input{build/src/vol\VolNum-body.tex}
 \backmatter
 \input{build/src/vol\VolNum-bib.tex}
+% even page count: the book ends on a verso
+\clearpage
+\ifodd\value{abspage}\thispagestyle{empty}\null\clearpage\fi
 \end{document}

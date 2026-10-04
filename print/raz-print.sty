@@ -114,8 +114,15 @@
 \interfootnotelinepenalty=600
 
 %% ------------------------------------------------------------ figures
-\newcommand{\RAZgraphics}[2][1]{%
-  \includegraphics[width=\linewidth,height=0.6\textheight,keepaspectratio]{#2}}
+\renewcommand*{\captionformat}{\enskip}
+\setkomafont{captionlabel}{\itshape}
+\setkomafont{caption}{\small}
+% Images keep the relative size they had in the original one-column book
+% (book class, 345 pt text width), scaled to this measure and capped.
+\RequirePackage[export]{adjustbox}
+\newcommand{\RAZgraphics}[2][0.25]{%
+  \includegraphics[scale=\fpeval{#1*\linewidth/345pt},
+    max width=\linewidth,max height=0.6\textheight]{#2}}
 
 %% ---------------------------------------------------- cross references
 % Essay labels:  \RAZlabel{essay-id}
@@ -214,10 +221,12 @@
 \newcommand{\footnext}{\addtocounter{footnote}{1}}
 \newcommand{\comment}[1]{}
 \newcommand{\mygraphics}[1]{%
-  \ifinner\RAZgraphics[1]{#1}\else
-  \par{\noindent\centering\RAZgraphics[1]{#1}\par}\fi}
+  \ifvmode\noindent\makebox[\linewidth]{\RAZgraphics{#1}}\else
+  \RAZgraphics{#1}\fi}
 \newcommand{\mygraphicss}[2]{%
-  \includegraphics[scale=#2,width=\linewidth,keepaspectratio]{#1}}
-\newcommand{\whencolumns}[2]{#1}
+  \ifvmode\noindent\makebox[\linewidth]{\RAZgraphics[#2]{#1}}\else
+  \RAZgraphics[#2]{#1}\fi}
+% the narrow-column variants of the 2015 sources fit this measure best
+\newcommand{\whencolumns}[2]{#2}
 
 \endinput
