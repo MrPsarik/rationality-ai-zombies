@@ -137,7 +137,8 @@
   \else
     vol.~\RAZvol{#1}, p.\,\zpageref{v#1-ess:#2}%
   \fi}
-\newcommand\RAZref[2]{\mbox{(\RAZpageof{#1}{#2})}}
+% a break before the reference is allowed but discouraged
+\newcommand\RAZref[2]{\unskip\penalty300\ \mbox{(\RAZpageof{#1}{#2})}}
 % labels of the original sources, visible to the other volumes too
 \newcommand\RAZoldlabel[1]{\label{#1}\zlabel{old:#1}}
 \newcommand\RAZoldpage[2]{%
@@ -160,9 +161,11 @@
   \setlength\RAZqrcol{\RAZqrsize+2.5mm}%
   \begin{minipage}[t]{\linewidth-\RAZqrcol-1.6em}%
     \raggedright #2\strut\end{minipage}\hfill
-  \begin{minipage}[t]{\RAZqrsize}\vspace{-0.9\baselineskip}%
+  % top of the code just above the first baseline: keeps a quiet zone to
+  % the footnote above
+  \begin{minipage}[t]{\RAZqrsize}\vspace{0pt}\vspace{-1.2mm}%
     \forcsvlist{\RAZqrstack}{#1}%
-    \rule{0pt}{1.6mm}\end{minipage}}% quiet zone below the last code
+    \rule{0pt}{2.4mm}\end{minipage}}% quiet zone below the last code
 \newcommand\RAZqrstack[1]{\RAZqr{#1}\zlabel{link:#1}\par\vspace{1.2mm}}
 % New footnote for a link that was a hyperlink in the ebook:
 % \RAZlinknote{code}{title or domain}

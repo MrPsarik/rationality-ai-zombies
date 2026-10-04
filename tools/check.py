@@ -91,16 +91,23 @@ def qrcodes():
                 if idx is None:
                     problems.append('vol%d: page %s not found' % (v, page))
                     continue
-                png = os.path.join(tmp, 'p')
-                subprocess.run(['pdftoppm', '-r', '300', '-gray', '-png',
-                                '-singlefile', '-f', str(idx), '-l', str(idx),
-                                pdf, png], check=True)
-                out = subprocess.run(['zbarimg', '-q', '--raw',
-                                      '-Sdisable', '-Sqrcode.enable',
-                                      png + '.png'],
-                                     capture_output=True, text=True).stdout
                 got = set()
-                for line in out.split():
+                lines = []
+                # zbar occasionally misses a code at one particular scale;
+                # print resolution is far higher, so try a few resolutions
+                for dpi in ('300', '450', '600'):
+                    png = os.path.join(tmp, 'p')
+                    subprocess.run(['pdftoppm', '-r', dpi, '-gray', '-png',
+                                    '-singlefile', '-f', str(idx), '-l', str(idx),
+                                    pdf, png], check=True)
+                    out = subprocess.run(['zbarimg', '-q', '--raw',
+                                          '-Sdisable', '-Sqrcode.enable',
+                                          png + '.png'],
+                                         capture_output=True, text=True).stdout
+                    lines += out.split()
+                    if {l.rsplit('/', 1)[-1] for l in lines} >= codes:
+                        break
+                for line in dict.fromkeys(lines):
                     m = re.fullmatch(r'https://sharov\.me/r/(\d+-c?\d+)', line)
                     if m:
                         got.add(m.group(1))

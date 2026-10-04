@@ -139,7 +139,9 @@ def rewrite(src, sites, reg, where_default='body'):
         head = src[start:bstart]
         edits.append((start, end,
                       '%s\\RAZqrfoot{%s}{%s}}' % (head, codes, body)))
-    for a, b, rep in sorted(edits, key=lambda e: e[0], reverse=True):
+    # back to front; at the same start the longer replacement goes first,
+    # so that an insertion there does not shift it
+    for a, b, rep in sorted(edits, key=lambda e: (e[0], e[1]), reverse=True):
         src = src[:a] + rep + src[b:]
     return src
 

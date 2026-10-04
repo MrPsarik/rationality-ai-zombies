@@ -261,7 +261,7 @@ def apply_placements(vol, src, placements):
                             % '; '.join(parts)))
         else:
             tv = ESSAYS[p['target']]['vol']
-            inserts.append((pos, '~\\RAZref{%d}{%s}' % (tv, p['target'])))
+            inserts.append((pos, '\\RAZref{%d}{%s}' % (tv, p['target'])))
     # internal references first (pure insertions, back to front) so that
     # footnote spans seen by the external-link rewrite are final
     for pos, text in sorted(inserts, reverse=True):

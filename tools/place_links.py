@@ -18,6 +18,7 @@ External links whose URL is already printed in the .tex at that place
 counted as placed ("already in text") and use the existing QR code.
 """
 import json
+from urllib.parse import unquote
 import os
 import re
 import sys
@@ -45,7 +46,7 @@ def enorm(t):
 
 
 def url_key(u):
-    u = links_tex.unescape_url(u).lower()
+    u = unquote(links_tex.unescape_url(u)).lower()
     u = re.sub(r'^https?://(www\.)?', '', u)
     return u.rstrip('/').split('#')[0]
 
