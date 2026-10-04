@@ -210,7 +210,9 @@ def transform(vol, d, label_vol, placements):
         return m.group(0) + '\n\\RAZpartillus{%02d}\n' % c
     src = re.sub(r'\\chapter\{[^}]*\}', chap, src)
     # the discussion QR of the last essay before a Part / at the end
-    src = src.replace('\\chapter{', '\\RAZflushdiscuss\n\\chapter{')
+    # Part dividers open on a right-hand page (blank verso before if needed);
+    # the first essay follows on the next page
+    src = src.replace('\\chapter{', '\\RAZflushdiscuss\n\\cleardoublepage\n\\chapter{')
     src += '\n\\RAZflushdiscuss\n'
     # 3. old labels: also as zref labels so other volumes can see them
     src = re.sub(r'\\label\{([^}]+)\}', r'\\RAZoldlabel{\1}', src)
