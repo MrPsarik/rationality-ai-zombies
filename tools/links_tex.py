@@ -49,6 +49,9 @@ def domain(url):
 def label_for(url):
     """Title of the target (from the link check) or its domain."""
     st = STATUS.get(url) or {}
+    if st.get('status') == 'archived':
+        orig = re.sub(r'^https?://web\.archive\.org/web/\d+/', '', url)
+        return '%s, archived copy' % tex_escape(domain(orig))
     t = (st.get('title') or '').strip()
     if t and len(t) <= 90:
         return '%s \\textbullet\\ %s' % (tex_escape(t), tex_escape(domain(st.get('final') or url)))
@@ -119,6 +122,16 @@ def rewrite(src, sites, reg, where_default='body'):
     for fn, ss in by_fn.items():
         start, bstart, bend, end = fn
         body = src[bstart:bend]
+        rest = re.sub(r'\\comment\{[^}]*\}|\\url\{[^}]*\}|[\s.,;]', '',
+                      body)
+        if not rest and len(ss) == 1 and ss[0]['kind'] == 'url':
+            # footnote that is only a URL: short address + title/domain
+            s = ss[0]
+            edits.append((start, end, '%s\\RAZqrfoot{%s}{\\RAZshort{%s}'
+                          '\\\\[0.2ex]{\\itshape %s}}}' % (
+                              src[start:bstart], s['code'], s['code'],
+                              label_for(s['url']))))
+            continue
         for s in sorted(ss, key=lambda s: s['pos'], reverse=True):
             a, b = s['pos'] - bstart, s['end'] - bstart
             body = body[:a] + footnote_inner(s) + body[b:]

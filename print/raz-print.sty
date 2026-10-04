@@ -160,7 +160,8 @@
   \begin{minipage}[t]{\linewidth-\RAZqrcol-1.6em}%
     \raggedright #2\strut\end{minipage}\hfill
   \begin{minipage}[t]{\RAZqrsize}\vspace{-0.9\baselineskip}%
-    \forcsvlist{\RAZqrstack}{#1}\end{minipage}}
+    \forcsvlist{\RAZqrstack}{#1}%
+    \rule{0pt}{1.6mm}\end{minipage}}% quiet zone below the last code
 \newcommand\RAZqrstack[1]{\RAZqr{#1}\zlabel{link:#1}\par\vspace{1.2mm}}
 % New footnote for a link that was a hyperlink in the ebook:
 % \RAZlinknote{code}{title or domain}

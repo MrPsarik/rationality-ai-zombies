@@ -121,6 +121,12 @@ def main():
                 stats['placed'] += 1
                 stats['external'] += 1
                 continue
+        if t == 'internal' and '\\pageref' in src[tex_e:tex_e + 60]:
+            # the .tex already gives a page reference right here
+            stats['placed_existing_pageref'] += 1
+            stats['placed'] += 1
+            stats['internal'] += 1
+            continue
         needle = make_needle(src, tex_s, tex_e)
         if needle is None or (vol, needle) in used_needles:
             notplaced.append(dict(rec, reason='no unique anchor in the .tex'))
@@ -142,6 +148,7 @@ def main():
     rep = {'total': stats['total'], 'placed': stats['placed'],
            'internal': stats['internal'], 'external': stats['external'],
            'already_in_text': stats['placed_existing_url'],
+           'already_pageref': stats['placed_existing_pageref'],
            'notplaced': stats['notplaced'],
            'skipped': {k[8:]: v for k, v in stats.items() if k.startswith('skipped_')},
            'not_placed': [{k: r.get(k) for k in ('essay', 'text', 'href',
@@ -149,10 +156,12 @@ def main():
                           for r in notplaced]}
     json.dump(rep, open(os.path.join(ROOT, 'links', 'placements_report.json'),
                         'w', encoding='utf-8'), indent=1, ensure_ascii=False)
-    print('EPUB links: %d; placed %d (internal %d, external %d of which %d already'
-          ' in the text as URL); not placed %d; skipped %s'
-          % (rep['total'], rep['placed'], rep['internal'], rep['external'],
-             rep['already_in_text'], rep['notplaced'], rep['skipped']))
+    print('EPUB links: %d; placed %d (internal %d, of which %d already had a'
+          ' page reference; external %d, of which %d already printed as URL);'
+          ' not placed %d; skipped %s'
+          % (rep['total'], rep['placed'], rep['internal'],
+             rep['already_pageref'], rep['external'], rep['already_in_text'],
+             rep['notplaced'], rep['skipped']))
     for r in notplaced:
         print('  NOT PLACED [%s] %r in %r: %s' % (r['type'], r['text'],
                                                    r['essay'], r['reason']))
