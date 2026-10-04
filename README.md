@@ -1,3 +1,67 @@
+# Six-volume print edition (Royal 156 x 234 mm)
+
+A personal, non-commercial print edition in six volumes (the six books of
+the 2015 edition), laid out for printing at Printenbind.nl.  The original
+`.tex` sources are not modified; `tools/prepare.py` derives the volumes from
+them.
+
+    make all              # everything from scratch -> dist/
+    make all PAPER=a5     # the same set as A5
+    make check            # verification (logs, fonts, QR codes, links)
+    make links            # re-extract EPUB links and re-check all URLs
+                          # (network; needs links/rationality.epub)
+
+Output in `dist/`:
+
+* `volN/interior.pdf` - interior, single pages of the trim size, fonts
+  embedded, mirrored margins (inner 25 mm, outer 34 mm on Royal)
+* `volN/cover.pdf` - back + spine + front, 3 mm bleed;
+  `volN/cover-front.pdf`, `volN/cover-back.pdf` - the same with 3 mm bleed
+* `volumes.csv` - page counts and spine widths
+  (spine = sheets x `SHEET_MM`, default 0.1 mm for 80 g/m2:
+  `make covers SHEET_MM=0.11`)
+* `_redirects` - Cloudflare Pages redirects for the short links
+  `sharov.me/r/<volume>-<n>` (external links) and
+  `sharov.me/r/<volume>-c<n>` (discussion of each essay on LessWrong)
+* `links.csv` - code, volume, page, link text, original URL, final URL,
+  status (ok / redirected / archived / unchecked), kind
+
+## Paper size
+
+The paper is a single parameter, `PAPER` (Makefile), resolved in
+`print/paper.tex`, which holds the trim size, margins and type size of each
+supported paper (`royal`, `a5`).  Covers read the same file.
+
+## Build order and cross references
+
+Links between essays are printed as "(p. 123)" within a volume and as
+"(vol. II, p. 123)" across volumes, using zref-xr: every volume imports the
+`.aux` files of the other five.  Because the references go in both
+directions, `tools/build_interiors.sh` compiles vol1..vol6 in passes until
+no `.aux` file changes (usually three passes) and fails if any reference
+remains undefined.  Covers are built afterwards from the final page counts,
+and `_redirects` / `links.csv` last, from the page numbers in the final
+`.aux` files.
+
+## Links
+
+1. `tools/epub_links.py` extracts every hyperlink of the 2015 EPUB.
+2. `tools/place_links.py` finds each link in the `.tex` text by its link
+   text and the text before it, and writes `links/placements.json`.
+3. `tools/check_links.py` checks every URL (redirects followed; dead links
+   replaced by the Wayback Machine snapshot closest to 2015) into
+   `links/url_status.json`.
+4. `tools/prepare.py` inserts page references and QR footnotes.
+
+`links/lw_posts.json` maps every essay to its LessWrong page (for the
+discussion QR codes in the margin); `tools/lw_posts.py` refreshes it.
+
+The Part divider illustrations are the sequence images of
+lesswrong.com/rationality; they are downloaded at build time
+(`tools/illustrations.py`) and are not part of this repository.
+
+---
+
 # rationality-ai-zombies
 
 A tex version of the ebook by Eliezer Yudkowsky: Rationality from AI to Zombies

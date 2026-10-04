@@ -1,0 +1,73 @@
+% Half title, series page, title page and license page of each volume.
+\thispagestyle{empty}
+\vspace*{0.22\textheight}
+\begin{center}
+  {\Large\addfontfeatures{LetterSpace=8}\scshape\MakeLowercase{\RAZBookTitle}}
+\end{center}
+\clearpage
+%% series page (verso)
+\thispagestyle{empty}
+\vspace*{0.22\textheight}
+\begin{center}
+  \small
+  {\addfontfeatures{LetterSpace=6}\scshape rationality: from ai to zombies}\\[1ex]
+  {\itshape in six volumes}\\[3ex]
+  \renewcommand\arraystretch{1.35}%
+  \begin{tabular}{@{}r@{\quad}l@{}}
+    I   & Map and Territory\\
+    II  & How to Actually Change Your Mind\\
+    III & The Machine in the Ghost\\
+    IV  & Mere Reality\\
+    V   & Mere Goodness\\
+    VI  & Becoming Stronger\\
+  \end{tabular}
+\end{center}
+\clearpage
+%% title page (recto)
+\thispagestyle{empty}
+\vspace*{0.12\textheight}
+\begin{center}
+  {\large\addfontfeatures{LetterSpace=8}\scshape eliezer yudkowsky}\\[0.11\textheight]
+  {\fontsize{26}{30}\selectfont Rationality}\\[1.2ex]
+  {\Large\itshape From AI to Zombies}\\[0.08\textheight]
+  {\addfontfeatures{LetterSpace=12}\scshape book \RAZvol{\RAZVolume}}\\[2ex]
+  {\LARGE \RAZBookTitle}\par
+  \vfill
+  {\small\addfontfeatures{LetterSpace=6}\scshape personal print edition}
+\end{center}
+\clearpage
+%% license page (verso)
+\thispagestyle{empty}
+{\footnotesize\raggedright
+\setlength\parskip{1.1ex}
+\vspace*{\fill}
+\textit{Rationality: From AI to Zombies}, Book \RAZvol{\RAZVolume}:
+\textit{\RAZBookTitle}
+
+Written by Eliezer Yudkowsky.\\
+Originally published in 2015 by the Machine Intelligence Research
+Institute (MIRI), Berkeley, California.\\
+The original edition is available from
+\url{https://intelligence.org/rationality-ai-zombies/}.
+
+Released under the Creative Commons Attribution-NonCommercial-ShareAlike
+3.0 Unported license (CC BY-NC-SA 3.0):\\
+\url{https://creativecommons.org/licenses/by-nc-sa/3.0/}
+
+This is a modified, non-commercial personal edition. It differs from the
+original in its new layout and typography, in being split into six
+separately bound volumes, in hyperlinks of the ebook restored as page
+references (``vol.~II, p.~123'') and as footnotes with QR codes and
+short addresses (\RAZshortbase\ldots), and in a new typographic cover.
+Web addresses have been updated where the original pages moved; pages that
+no longer exist point to an archived copy. This edition is not
+associated with or endorsed by MIRI or the author.
+
+Based on the \LaTeX{} edition of the text by Joshua J.~Cogliati and
+contributors, \url{https://github.com/jrincayc/rationality-ai-zombies}.
+
+This edition is released under the same license, CC BY-NC-SA 3.0.
+It may not be sold.
+
+\RAZPaperNote
+\par}

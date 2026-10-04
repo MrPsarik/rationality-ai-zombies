@@ -1,0 +1,24 @@
+% Master file for one volume of the print edition.
+% Built by the Makefile as:
+%   lualatex -jobname=volN "\def\PaperName{royal}\def\VolNum{N}\input{print/volume.tex}"
+\input{print/paper.tex}
+\documentclass[fontsize=\BodySize pt,twoside,openright,
+  headings=small,footnotes=multiple,toc=flat,
+  cleardoublepage=empty]{scrbook}
+\usepackage{raz-print}
+\input{build/src/vol\VolNum-meta.tex}
+\linespread{1}
+\renewcommand\normalsize{\fontsize{\BodySize}{\BodyLead}\selectfont}
+\hypersetup{pdftitle={Rationality: From AI to Zombies. \RAZBookTitle},
+  pdfauthor={Eliezer Yudkowsky}}
+
+\begin{document}\typeout{RAZGEOM tw=\the\textwidth\space th=\the\textheight}
+\frontmatter
+\input{print/titlepages.tex}
+\cleardoublepage
+\tableofcontents
+\mainmatter
+\input{build/src/vol\VolNum-body.tex}
+\backmatter
+\input{build/src/vol\VolNum-bib.tex}
+\end{document}

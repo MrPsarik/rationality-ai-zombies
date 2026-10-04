@@ -1,0 +1,223 @@
+% raz-print.sty -- layout for the six-volume print edition.
+% Loaded by print/volume.tex after print/paper.tex has defined the geometry.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{raz-print}[2026/10/04 RAZ print edition]
+
+%% ---------------------------------------------------------------- geometry
+\RequirePackage[
+  paperwidth=\PaperW, paperheight=\PaperH,
+  inner=\MarginInner, outer=\MarginOuter,
+  top=\MarginTop, bottom=\MarginBottom,
+  headheight=14pt, headsep=5mm, footskip=11mm,
+  marginparwidth=15mm, marginparsep=7mm,
+  twoside]{geometry}
+
+%% ------------------------------------------------------------------- fonts
+\RequirePackage{amsmath}
+\RequirePackage{unicode-math}
+\setmainfont{Libertinus Serif}
+\setsansfont{Libertinus Sans}
+\setmonofont{Libertinus Mono}[Scale=MatchLowercase,WordSpace={1,3,0.5}]
+\setmathfont{Libertinus Math}
+\RequirePackage[protrusion=true,expansion=true,tracking=true]{microtype}
+\RequirePackage[english]{babel}
+\RequirePackage{textcomp}
+
+%% ----------------------------------------------------------- misc support
+\RequirePackage{xcolor}
+\RequirePackage{array}
+\RequirePackage{hhline}
+\RequirePackage{graphicx}
+\RequirePackage{chngcntr}
+\RequirePackage{calc}
+\RequirePackage{etoolbox}
+\RequirePackage{qrcode}
+\RequirePackage{zref-user,zref-abspage,zref-xr}
+\RequirePackage[hidelinks,bookmarksnumbered,unicode,hyperfootnotes=false]{hyperref}
+\RequirePackage{bookmark}
+\urlstyle{same}
+\DeclareMathOperator{\cov}{cov}
+\AtBeginDocument{\renewcommand\Box{\mdlgwhtsquare}}% modal box (amssymb)
+
+\frenchspacing
+\setlength{\emergencystretch}{3em}
+\tolerance=600
+\automatichyphenmode=1  % LuaTeX: also hyphenate words next to dashes
+% identifiers in code may break after an underscore
+\AtBeginDocument{\let\RAZorigtexttt\texttt
+  \renewcommand\texttt[1]{{\def\_{\textunderscore\penalty500\relax}%
+    \RAZorigtexttt{#1}}}}
+\clubpenalty=10000
+\widowpenalty=10000
+\raggedbottom
+
+%% ------------------------------------------------------------ page styles
+\RequirePackage[automark,headsepline=false]{scrlayer-scrpage}
+\clearpairofpagestyles
+\setkomafont{pageheadfoot}{\normalfont\footnotesize}
+\setkomafont{pagenumber}{\normalfont\footnotesize}
+\newcommand\RAZheadfont{\addfontfeatures{LetterSpace=6}\scshape}
+\ohead{\pagemark}
+\lehead{\RAZheadfont\MakeLowercase{\RAZBookTitle}}
+\rohead{\RAZheadfont\MakeLowercase{\rightmark}}
+\renewcommand*{\sectionmarkformat}{}
+\renewcommand*{\chaptermarkformat}{}
+\automark[section]{chapter}
+\pagestyle{scrheadings}
+% chapter-opening and essay-opening pages: folio at the foot only
+\renewcommand*{\chapterpagestyle}{empty}
+\cfoot[\pagemark]{}
+
+%% ----------------------------------------------------------- headings
+% \part is the book title; the volume title page already shows it.
+\renewcommand\part[1]{}
+% "Chapters" are the lettered Parts A, B, ... of the 2015 edition.
+\KOMAoptions{chapterprefix=true}
+\renewcommand*{\chapterformat}{%
+  {\normalfont\large\addfontfeatures{LetterSpace=12}\scshape
+   part \thechapter}}
+\renewcommand*{\chapterlinesformat}[3]{\centering
+  \ifstr{#2}{}{}{#2\par\nobreak\vspace{2.2ex}}#3\par}
+\RedeclareSectionCommand[
+  beforeskip=0.08\textheight, afterskip=0pt,
+  font=\normalfont\Huge]{chapter}
+\renewcommand*{\chapterheadstartvskip}{\vspace*{0.08\textheight}}
+\renewcommand*{\chapterheadendvskip}{\vspace{0.06\textheight}}
+% Part divider: the sequence illustration from lesswrong.com/rationality,
+% if it was downloaded (build/illus/partNN.jpg); then the first essay
+% starts on a recto.
+\newcommand\RAZpartillus[1]{%
+  \IfFileExists{build/illus/part#1.jpg}{%
+    \begin{center}
+      \includegraphics[width=\linewidth,height=0.55\textheight,
+        keepaspectratio]{build/illus/part#1.jpg}
+    \end{center}}{}%
+  \cleardoublepage}
+\renewcommand*{\raggedchapter}{\centering}
+\RedeclareSectionCommand[
+  beforeskip=6\baselineskip, afterskip=2.2\baselineskip,
+  font=\normalfont\LARGE]{section}
+\RedeclareSectionCommand[
+  beforeskip=1.5\baselineskip, afterskip=0.6\baselineskip,
+  font=\normalfont\large\itshape]{subsection}
+\renewcommand*{\raggedsection}{\raggedright}
+\renewcommand*{\sectionformat}{%
+  {\normalfont\Large\addfontfeatures{Numbers=OldStyle}\thesection}\par
+  \vspace{0.6\baselineskip}}
+\renewcommand*{\sectionlinesformat}[4]{%
+  \parbox{\linewidth}{\raggedright #3#4}}
+
+%% ------------------------------------------------------------ footnotes
+\deffootnote[1.6em]{1.6em}{1em}{\makebox[1.6em][l]{\thefootnotemark.}}
+\setlength{\skip\footins}{1.4\baselineskip plus 4pt minus 2pt}
+\setfootnoterule[0.4pt]{0.25\textwidth}
+\interfootnotelinepenalty=600
+
+%% ------------------------------------------------------------ figures
+\newcommand{\RAZgraphics}[2][1]{%
+  \includegraphics[width=\linewidth,height=0.6\textheight,keepaspectratio]{#2}}
+
+%% ---------------------------------------------------- cross references
+% Essay labels:  \RAZlabel{essay-id}
+\newcommand\RAZlabel[1]{\zlabel{ess:#1}\label{ess:#1}}
+% Roman volume numbers
+\newcommand\RAZvol[1]{\ifcase#1\or I\or II\or III\or IV\or V\or VI\fi}
+% (p. N) / (vol. II, p. N)
+\newcommand\RAZpageof[2]{% {vol}{essay-id}
+  \ifnum#1=\RAZVolume
+    p.\,\zpageref{ess:#2}%
+  \else
+    vol.~\RAZvol{#1}, p.\,\zpageref{v#1-ess:#2}%
+  \fi}
+\newcommand\RAZref[2]{\mbox{(\RAZpageof{#1}{#2})}}
+% labels of the original sources, visible to the other volumes too
+\newcommand\RAZoldlabel[1]{\label{#1}\zlabel{old:#1}}
+\newcommand\RAZoldpage[2]{%
+  \ifnum#1=\RAZVolume p.\,\zpageref{old:#2}%
+  \else vol.~\RAZvol{#1}, p.\,\zpageref{v#1-old:#2}\fi}
+\newcommand\RAZPaperNote{Typeset in Libertinus with Lua\LaTeX, \the\year.}
+
+%% ---------------------------------------------------- external links
+% QR codes encode the short URL https://sharov.me/r/<code>.
+\newlength\RAZqrsize \setlength\RAZqrsize{14mm}
+\qrset{height=\RAZqrsize, level=M, tight}
+\newcommand\RAZshortbase{sharov.me/r/}
+\newcommand\RAZshort[1]{\mbox{\RAZshortbase#1}}
+\newcommand\RAZqr[1]{\qrcode{https://\RAZshortbase#1}}
+% \RAZurl{code} : replaces a printed URL inside existing footnote text
+\newcommand\RAZurl[1]{\RAZshort{#1}}
+% Footnote body with QR codes at the right:  \RAZqrfoot{codes}{text}
+\newlength\RAZqrcol
+\newcommand\RAZqrfoot[2]{%
+  \setlength\RAZqrcol{\RAZqrsize+2.5mm}%
+  \begin{minipage}[t]{\linewidth-\RAZqrcol-1.6em}%
+    \raggedright #2\strut\end{minipage}\hfill
+  \begin{minipage}[t]{\RAZqrsize}\vspace{-0.9\baselineskip}%
+    \forcsvlist{\RAZqrstack}{#1}\end{minipage}}
+\newcommand\RAZqrstack[1]{\RAZqr{#1}\zlabel{link:#1}\par\vspace{1.2mm}}
+% New footnote for a link that was a hyperlink in the ebook:
+% \RAZlinknote{code}{title or domain}
+\newcommand\RAZlinknote[2]{%
+  \footnote{\RAZqrfoot{#1}{\RAZshort{#1}\\[0.2ex]{\itshape #2}}}}
+
+% Discussion of an essay on LessWrong: QR code in the outer margin next to
+% the first lines of the essay.  \RAZdiscuss{code}
+\newcommand\RAZdiscuss[1]{%
+  \marginpar{\vspace*{-0.2\baselineskip}\centering
+    \qrcode[height=13mm]{https://\RAZshortbase#1}\par\vspace{0.8mm}%
+    {\fontsize{5.5}{6.5}\selectfont discussion\\\RAZshortbase\\#1\par}}%
+  \zlabel{link:#1}}
+
+% Per-volume bibliography (entries selected by tools/bibliography.py)
+\newcommand\RAZbibliography[1]{%
+  \chapter*{Bibliography}\markboth{Bibliography}{Bibliography}%
+  \addcontentsline{toc}{chapter}{Bibliography}%
+  {\small\raggedright\setlength\parindent{0pt}%
+   \setlength\parskip{0.55\baselineskip}#1\par}}
+\newcommand\RAZbibitem[1]{%
+  {\hangindent=1.5em\hangafter=1 #1\par}}
+
+%% --------------------------------------------- source-compat macros
+\newcounter{mysection}
+\renewcommand\thesection{\arabic{mysection}}
+\renewcommand\thechapter{\Alph{chapter}}
+\counterwithin{figure}{section}
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{1}
+% essays start on a fresh page
+\newcommand{\mysection}[1]{%
+  \clearpage\thispagestyle{plain.scrheadings}%
+  \stepcounter{mysection}%
+  \section{#1}%
+  \setcounter{footnote}{0}}
+\newcommand{\mysectionnn}[1]{%
+  \clearpage\thispagestyle{plain.scrheadings}%
+  \section*{#1}%
+  \addcontentsline{toc}{section}{#1}%
+  \markright{#1}%
+  \setcounter{footnote}{0}}
+\newcommand{\mysectiontwo}[2]{%
+  \clearpage\thispagestyle{plain.scrheadings}%
+  \section*{\def\newline{\\[1.2ex]\normalsize\itshape}#2}%
+  \addcontentsline{toc}{section}{#1}%
+  \markright{#1}%
+  \setcounter{footnote}{0}}
+\newcommand{\myfigure}[2]{%
+  \begin{figure}[htbp]\centering\mygraphics{#1}\caption{}\label{#2}\end{figure}}
+\newcommand{\myfigurec}[3]{%
+  \begin{figure}[htbp]\centering\mygraphics{#1}\caption{#3}\label{#2}\end{figure}}
+\newcommand{\hr}{\begin{center}\rule{0.5\linewidth}{0.4pt}\end{center}}
+\newcommand{\myendsectiontext}{}
+\newcommand{\supercomma}{\textsuperscript{,}}
+\newcommand{\degree}{\textdegree}
+\newcommand{\footback}[1]{\addtocounter{footnote}{-#1}}
+\newcommand{\footnext}{\addtocounter{footnote}{1}}
+\newcommand{\comment}[1]{}
+\newcommand{\mygraphics}[1]{%
+  \ifinner\RAZgraphics[1]{#1}\else
+  \par{\noindent\centering\RAZgraphics[1]{#1}\par}\fi}
+\newcommand{\mygraphicss}[2]{%
+  \includegraphics[scale=#2,width=\linewidth,keepaspectratio]{#1}}
+\newcommand{\whencolumns}[2]{#1}
+
+\endinput

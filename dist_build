@@ -1,9 +1,9 @@
 #!/bin/bash
 
 rm -f version.tex rationality_from_ai_to_zombies_2c.pdf  rationality_from_ai_to_zombies.pdf
-make
+make legacy
 rm rationality_from_ai_to_zombies.pdf
-make
+make legacy
 make rationality_from_ai_to_zombies_2c.pdf
 rm rationality_from_ai_to_zombies_2c.pdf
 make rationality_from_ai_to_zombies_2c.pdf

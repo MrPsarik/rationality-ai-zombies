@@ -1,0 +1,2259 @@
+{
+ "posts": {
+  "preface": {
+   "title": "Preface",
+   "url": "https://www.lesswrong.com/posts/uXn3LyA8eNqpvdoZw/preface",
+   "comments": 20,
+   "author": "Eliezer Yudkowsky"
+  },
+  "biases-an-introduction": {
+   "title": "Biases: An Introduction",
+   "url": "https://www.lesswrong.com/posts/ptxnyfLWqRZ98wnYi/biases-an-introduction",
+   "comments": 17,
+   "author": "Rob Bensinger"
+  },
+  "e1": {
+   "title": "What Do We Mean By \"Rationality\"?",
+   "url": "https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1",
+   "comments": 22,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e2": {
+   "title": "Feeling Rational",
+   "url": "https://www.lesswrong.com/posts/SqF8cHjJv43mvJJzx/feeling-rational",
+   "comments": 89,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e3": {
+   "title": "Why Truth?",
+   "url": "https://www.lesswrong.com/posts/YshRbqZHYFoEMqFAu/why-truth",
+   "comments": 63,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e4": {
+   "title": "What's a Bias?",
+   "url": "https://www.lesswrong.com/posts/jnZbHi873v9vcpGpZ/what-s-a-bias",
+   "comments": 18,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e5": {
+   "title": "Availability",
+   "url": "https://www.lesswrong.com/posts/R8cpqD3NA4rZxRdQ4/availability",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e6": {
+   "title": "Burdensome Details",
+   "url": "https://www.lesswrong.com/posts/Yq6aA4M3JKWaQepPJ/burdensome-details",
+   "comments": 51,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e7": {
+   "title": "Planning Fallacy",
+   "url": "https://www.lesswrong.com/posts/CPm5LTwHrvBJCa9h5/planning-fallacy",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e8": {
+   "title": "Illusion of Transparency:  Why No One Understands You",
+   "url": "https://www.lesswrong.com/posts/sSqoEw9eRP2kPKLCz/illusion-of-transparency-why-no-one-understands-you",
+   "comments": 52,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e9": {
+   "title": "Expecting Short Inferential Distances",
+   "url": "https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances",
+   "comments": 107,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e10": {
+   "title": "The Lens That Sees Its Flaws",
+   "url": "https://www.lesswrong.com/posts/46qnWRSR7L2eyNbMA/the-lens-that-sees-its-flaws",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e11": {
+   "title": "Making Beliefs Pay Rent (in Anticipated Experiences)",
+   "url": "https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences",
+   "comments": 270,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e12": {
+   "title": "A Fable of Science and Politics",
+   "url": "https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics",
+   "comments": 102,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e13": {
+   "title": "Belief in Belief",
+   "url": "https://www.lesswrong.com/posts/CqyJzDZWvGhhFJ7dY/belief-in-belief",
+   "comments": 179,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e14": {
+   "title": "Bayesian Judo",
+   "url": "https://www.lesswrong.com/posts/NKaPFf98Y5otMbsPk/bayesian-judo",
+   "comments": 110,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e15": {
+   "title": "Pretending to be Wise",
+   "url": "https://www.lesswrong.com/posts/jeyvzALDbjdjjv5RW/pretending-to-be-wise",
+   "comments": 78,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e16": {
+   "title": "Religion's Claim to be Non-Disprovable",
+   "url": "https://www.lesswrong.com/posts/fAuWLS7RKWD2npBFR/religion-s-claim-to-be-non-disprovable",
+   "comments": 334,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e17": {
+   "title": "Professing and Cheering",
+   "url": "https://www.lesswrong.com/posts/RmCjazjupRGcHSm5N/professing-and-cheering",
+   "comments": 45,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e18": {
+   "title": "Belief as Attire",
+   "url": "https://www.lesswrong.com/posts/nYkMLFpx77Rz3uo9c/belief-as-attire",
+   "comments": 106,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e19": {
+   "title": "Applause Lights",
+   "url": "https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights",
+   "comments": 100,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e20": {
+   "title": "Focus Your Uncertainty",
+   "url": "https://www.lesswrong.com/posts/GJ4ZQm7crTzTM6xDW/focus-your-uncertainty",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e21": {
+   "title": "What is Evidence?",
+   "url": "https://www.lesswrong.com/posts/6s3xABaXKPdFwA3FS/what-is-evidence",
+   "comments": 63,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e22": {
+   "title": "Scientific Evidence, Legal Evidence, Rational Evidence",
+   "url": "https://www.lesswrong.com/posts/fhojYBGGiYAFcryHZ/scientific-evidence-legal-evidence-rational-evidence",
+   "comments": 19,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e23": {
+   "title": "How Much Evidence Does It Take?",
+   "url": "https://www.lesswrong.com/posts/nj8JKFoLSMEmD3RGp/how-much-evidence-does-it-take",
+   "comments": 34,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e24": {
+   "title": "Einstein's Arrogance",
+   "url": "https://www.lesswrong.com/posts/MwQRucYo6BZZwjKE7/einstein-s-arrogance",
+   "comments": 92,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e25": {
+   "title": "Occam's Razor",
+   "url": "https://www.lesswrong.com/posts/f4txACqDWithRi7hs/occam-s-razor",
+   "comments": 55,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e26": {
+   "title": "Your Strength as a Rationalist",
+   "url": "https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist",
+   "comments": 124,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e27": {
+   "title": "Absence of Evidence Is Evidence of Absence",
+   "url": "https://www.lesswrong.com/posts/mnS2WYLCGJP2kQkRn/absence-of-evidence-is-evidence-of-absence",
+   "comments": 120,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e28": {
+   "title": "Conservation of Expected Evidence",
+   "url": "https://www.lesswrong.com/posts/jiBFC7DcCrZjGmZnJ/conservation-of-expected-evidence",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e29": {
+   "title": "Hindsight Devalues Science",
+   "url": "https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e30": {
+   "title": "Fake Explanations",
+   "url": "https://www.lesswrong.com/posts/fysgqk4CjAwhBgNYT/fake-explanations",
+   "comments": 98,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e31": {
+   "title": "Guessing the Teacher's Password",
+   "url": "https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password",
+   "comments": 101,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e32": {
+   "title": "Science as Attire",
+   "url": "https://www.lesswrong.com/posts/4Bwr6s9dofvqPWakn/science-as-attire",
+   "comments": 89,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e33": {
+   "title": "Fake Causality",
+   "url": "https://www.lesswrong.com/posts/RgkqLqkg8vLhsYpfh/fake-causality",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e34": {
+   "title": "Semantic Stopsigns",
+   "url": "https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns",
+   "comments": 111,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e35": {
+   "title": "Mysterious Answers to Mysterious Questions",
+   "url": "https://www.lesswrong.com/posts/6i3zToomS86oj9bS6/mysterious-answers-to-mysterious-questions",
+   "comments": 161,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e36": {
+   "title": "The Futility of Emergence",
+   "url": "https://www.lesswrong.com/posts/8QzZKw9WHRxjR4948/the-futility-of-emergence",
+   "comments": 142,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e37": {
+   "title": "Say Not \"Complexity\"",
+   "url": "https://www.lesswrong.com/posts/kpRSCH7ALLcb6ucWM/say-not-complexity",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e38": {
+   "title": "Positive Bias: Look Into the Dark",
+   "url": "https://www.lesswrong.com/posts/rmAbiEKQDpDnZzcRf/positive-bias-look-into-the-dark",
+   "comments": 59,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e39": {
+   "title": "Lawful Uncertainty",
+   "url": "https://www.lesswrong.com/posts/msJA6B9ZjiiZxT6EZ/lawful-uncertainty",
+   "comments": 57,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e40": {
+   "title": "My Wild and Reckless Youth",
+   "url": "https://www.lesswrong.com/posts/DwtYPRuCxpXTrzG9m/my-wild-and-reckless-youth",
+   "comments": 54,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e41": {
+   "title": "Failing to Learn from History",
+   "url": "https://www.lesswrong.com/posts/97Y7Jwrzxyfzz3Ad2/failing-to-learn-from-history",
+   "comments": 11,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e42": {
+   "title": "Making History Available",
+   "url": "https://www.lesswrong.com/posts/TLKPj4GDXetZuPDH5/making-history-available",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e43": {
+   "title": "Explain/Worship/Ignore?",
+   "url": "https://www.lesswrong.com/posts/yxvi9RitzZDpqn6Yh/explain-worship-ignore",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e44": {
+   "title": "\"Science\" as Curiosity-Stopper",
+   "url": "https://www.lesswrong.com/posts/L22jhyY9ocXQNLqyE/science-as-curiosity-stopper",
+   "comments": 62,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e45": {
+   "title": "Truly Part Of You",
+   "url": "https://www.lesswrong.com/posts/fg9fXrHpeaDD6pEPL/truly-part-of-you",
+   "comments": 61,
+   "author": "Eliezer Yudkowsky"
+  },
+  "interlude-the-simple-truth": {
+   "title": "The Simple Truth",
+   "url": "https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth",
+   "comments": 16,
+   "author": "Eliezer Yudkowsky"
+  },
+  "rationality-an-introduction": {
+   "title": "Rationality: An Introduction",
+   "url": "https://www.lesswrong.com/posts/8qccXytpkEhEAkjjM/rationality-an-introduction",
+   "comments": 11,
+   "author": "Rob Bensinger"
+  },
+  "e46": {
+   "title": "The Proper Use of Humility",
+   "url": "https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQPw/the-proper-use-of-humility",
+   "comments": 54,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e47": {
+   "title": "The Third Alternative",
+   "url": "https://www.lesswrong.com/posts/erGipespbbzdG5zYb/the-third-alternative",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e48": {
+   "title": "Lotteries: A Waste of Hope",
+   "url": "https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hope",
+   "comments": 75,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e49": {
+   "title": "New Improved Lottery",
+   "url": "https://www.lesswrong.com/posts/QawvGzYWhqdyPWgBL/new-improved-lottery",
+   "comments": 45,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e50": {
+   "title": "But There's Still A Chance, Right?",
+   "url": "https://www.lesswrong.com/posts/q7Me34xvSG3Wm97As/but-there-s-still-a-chance-right",
+   "comments": 61,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e51": {
+   "title": "The Fallacy of Gray",
+   "url": "https://www.lesswrong.com/posts/dLJv2CoRCgeC2mPgj/the-fallacy-of-gray",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e52": {
+   "title": "Absolute Authority",
+   "url": "https://www.lesswrong.com/posts/PmQkensvTGg7nGtJE/absolute-authority",
+   "comments": 80,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e53": {
+   "title": "How to Convince Me That 2 + 2 = 3",
+   "url": "https://www.lesswrong.com/posts/6FmqiAgS8h4EJm86s/how-to-convince-me-that-2-2-3",
+   "comments": 410,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e54": {
+   "title": "Infinite Certainty",
+   "url": "https://www.lesswrong.com/posts/ooypcn7qFzsMcy53R/infinite-certainty",
+   "comments": 130,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e55": {
+   "title": "0 And 1 Are Not Probabilities",
+   "url": "https://www.lesswrong.com/posts/QGkYCwyC7wTDyt3yT/0-and-1-are-not-probabilities",
+   "comments": 149,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e56": {
+   "title": "Your Rationality is My Business",
+   "url": "https://www.lesswrong.com/posts/anCubLdggTWjnEvBS/your-rationality-is-my-business",
+   "comments": 28,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e57": {
+   "title": "Politics is the Mind-Killer",
+   "url": "https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer",
+   "comments": 243,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e58": {
+   "title": "Policy Debates Should Not Appear One-Sided",
+   "url": "https://www.lesswrong.com/posts/PeSzc9JTBxhaYRp9b/policy-debates-should-not-appear-one-sided",
+   "comments": 187,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e59": {
+   "title": "The Scales of Justice, the Notebook of Rationality",
+   "url": "https://www.lesswrong.com/posts/XYCEB9roxEBfgjfxs/the-scales-of-justice-the-notebook-of-rationality",
+   "comments": 22,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e60": {
+   "title": "Correspondence Bias",
+   "url": "https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias",
+   "comments": 49,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e61": {
+   "title": "Are Your Enemies Innately Evil?",
+   "url": "https://www.lesswrong.com/posts/28bAMAxhoX3bwbAKC/are-your-enemies-innately-evil",
+   "comments": 150,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e62": {
+   "title": "Reversed Stupidity Is Not Intelligence",
+   "url": "https://www.lesswrong.com/posts/qNZM3EGoE5ZeMdCRt/reversed-stupidity-is-not-intelligence",
+   "comments": 122,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e63": {
+   "title": "Argument Screens Off Authority",
+   "url": "https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority",
+   "comments": 87,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e64": {
+   "title": "Hug the Query",
+   "url": "https://www.lesswrong.com/posts/2jp98zdLo898qExrr/hug-the-query",
+   "comments": 22,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e65": {
+   "title": "Rationality and the English Language",
+   "url": "https://www.lesswrong.com/posts/Lz64L3yJEtYGkzMzu/rationality-and-the-english-language",
+   "comments": 33,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e66": {
+   "title": "Human Evil and Muddled Thinking",
+   "url": "https://www.lesswrong.com/posts/i8q4vXestDkGTFwsc/human-evil-and-muddled-thinking",
+   "comments": 144,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e67": {
+   "title": "Knowing About Biases Can Hurt People",
+   "url": "https://www.lesswrong.com/posts/AdYdLP2sRqPMoe8fb/knowing-about-biases-can-hurt-people",
+   "comments": 82,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e68": {
+   "title": "Update Yourself Incrementally",
+   "url": "https://www.lesswrong.com/posts/627DZcvme7nLDrbZu/update-yourself-incrementally",
+   "comments": 29,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e69": {
+   "title": "One Argument Against An Army",
+   "url": "https://www.lesswrong.com/posts/WN73eiLQkuDtSC8Ag/one-argument-against-an-army",
+   "comments": 37,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e70": {
+   "title": "The Bottom Line",
+   "url": "https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line",
+   "comments": 17,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e71": {
+   "title": "What Evidence Filtered Evidence?",
+   "url": "https://www.lesswrong.com/posts/kJiPnaQPiy4p9Eqki/what-evidence-filtered-evidence",
+   "comments": 43,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e72": {
+   "title": "Rationalization",
+   "url": "https://www.lesswrong.com/posts/SFZoEBpLo9frSJGkc/rationalization",
+   "comments": 29,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e73": {
+   "title": "A Rational Argument",
+   "url": "https://www.lesswrong.com/posts/9f5EXt8KNNxTAihtZ/a-rational-argument",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e74": {
+   "title": "Avoiding Your Belief's Real Weak Points",
+   "url": "https://www.lesswrong.com/posts/dHQkDNMhj692ayx78/avoiding-your-belief-s-real-weak-points",
+   "comments": 216,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e75": {
+   "title": "Motivated Stopping and Motivated Continuation",
+   "url": "https://www.lesswrong.com/posts/L32LHWzy9FzSDazEg/motivated-stopping-and-motivated-continuation",
+   "comments": 8,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e76": {
+   "title": "Fake Justification",
+   "url": "https://www.lesswrong.com/posts/bfbiyTogEKWEGP96S/fake-justification",
+   "comments": 59,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e77": {
+   "title": "Is That Your True Rejection?",
+   "url": "https://www.lesswrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-rejection",
+   "comments": 100,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e78": {
+   "title": "Entangled Truths, Contagious Lies",
+   "url": "https://www.lesswrong.com/posts/wyyfFfaRar2jEdeQK/entangled-truths-contagious-lies",
+   "comments": 42,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e79": {
+   "title": "Of Lies and Black Swan Blowups",
+   "url": "https://www.lesswrong.com/posts/E7CKXxtGKPmdM9ZRc/of-lies-and-black-swan-blowups",
+   "comments": 8,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e80": {
+   "title": "Dark Side Epistemology",
+   "url": "https://www.lesswrong.com/posts/XTWkjCJScy2GFAgDt/dark-side-epistemology",
+   "comments": 159,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e81": {
+   "title": "Singlethink",
+   "url": "https://www.lesswrong.com/posts/CahCppKy9HuXe3j2i/singlethink",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e82": {
+   "title": "Doublethink (Choosing to be Biased)",
+   "url": "https://www.lesswrong.com/posts/Hs3ymqypvhgFMkgLb/doublethink-choosing-to-be-biased",
+   "comments": 169,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e83": {
+   "title": "No, Really, I've Deceived Myself",
+   "url": "https://www.lesswrong.com/posts/rZX4WuufAPbN6wQTv/no-really-i-ve-deceived-myself",
+   "comments": 90,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e84": {
+   "title": "Belief in Self-Deception",
+   "url": "https://www.lesswrong.com/posts/wP2ymm44kZZwaFPYh/belief-in-self-deception",
+   "comments": 114,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e85": {
+   "title": "Moore's Paradox",
+   "url": "https://www.lesswrong.com/posts/ERRk4thxxYNcScqR4/moore-s-paradox",
+   "comments": 24,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e86": {
+   "title": "Don't Believe You'll Self-Deceive",
+   "url": "https://www.lesswrong.com/posts/W7LcN9gmdnaAk9K52/don-t-believe-you-ll-self-deceive",
+   "comments": 72,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e87": {
+   "title": "Anchoring and Adjustment",
+   "url": "https://www.lesswrong.com/posts/bMkCEZoBNhgRBtzoj/anchoring-and-adjustment",
+   "comments": 22,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e88": {
+   "title": "Priming and Contamination",
+   "url": "https://www.lesswrong.com/posts/BaCWFCxBQYjJXSsah/priming-and-contamination",
+   "comments": 27,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e89": {
+   "title": "Do We Believe Everything We're Told?",
+   "url": "https://www.lesswrong.com/posts/TiDGXt3WrQwtCdDj3/do-we-believe-everything-we-re-told",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e90": {
+   "title": "Cached Thoughts",
+   "url": "https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts",
+   "comments": 94,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e91": {
+   "title": "The \"Outside the Box\" Box",
+   "url": "https://www.lesswrong.com/posts/qu95AwSrKqQSo4fCY/the-outside-the-box-box",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e92": {
+   "title": "Original Seeing",
+   "url": "https://www.lesswrong.com/posts/SA79JMXKWke32A3hG/original-seeing",
+   "comments": 30,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e93": {
+   "title": "Stranger Than History",
+   "url": "https://www.lesswrong.com/posts/h3vdnR34ZvohDEFT5/stranger-than-history",
+   "comments": 335,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e94": {
+   "title": "The Logical Fallacy of Generalization from Fictional Evidence",
+   "url": "https://www.lesswrong.com/posts/rHBdcHGLJ7KvLJQPk/the-logical-fallacy-of-generalization-from-fictional",
+   "comments": 64,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e95": {
+   "title": "The Virtue of Narrowness",
+   "url": "https://www.lesswrong.com/posts/yDfxTj9TKYsYiWH5o/the-virtue-of-narrowness",
+   "comments": 66,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e96": {
+   "title": "How to Seem (and Be) Deep",
+   "url": "https://www.lesswrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep",
+   "comments": 123,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e97": {
+   "title": "We Change Our Minds Less Often Than We Think",
+   "url": "https://www.lesswrong.com/posts/buixYfcXBah9hbSNZ/we-change-our-minds-less-often-than-we-think",
+   "comments": 120,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e98": {
+   "title": "Hold Off On Proposing Solutions",
+   "url": "https://www.lesswrong.com/posts/uHYYA32CKgKT3FagE/hold-off-on-proposing-solutions",
+   "comments": 52,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e99": {
+   "title": "The Genetic Fallacy",
+   "url": "https://www.lesswrong.com/posts/KZLa74SzyKhSJ3M55/the-genetic-fallacy",
+   "comments": 18,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e100": {
+   "title": "The Affect Heuristic",
+   "url": "https://www.lesswrong.com/posts/Kow8xRzpfkoY7pa69/the-affect-heuristic",
+   "comments": 70,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e101": {
+   "title": "Evaluability (And Cheap Holiday Shopping)",
+   "url": "https://www.lesswrong.com/posts/3T6p93Mut7G8qdkAs/evaluability-and-cheap-holiday-shopping",
+   "comments": 65,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e102": {
+   "title": "Unbounded Scales, Huge Jury Awards, & Futurism",
+   "url": "https://www.lesswrong.com/posts/5u5THLyRkTpPHiaG5/unbounded-scales-huge-jury-awards-and-futurism",
+   "comments": 11,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e103": {
+   "title": "The Halo Effect",
+   "url": "https://www.lesswrong.com/posts/ACGeaAk6KButv2xwQ/the-halo-effect",
+   "comments": 57,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e104": {
+   "title": "Superhero Bias",
+   "url": "https://www.lesswrong.com/posts/krMzmSXgvEdf7iBT6/superhero-bias",
+   "comments": 43,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e105": {
+   "title": "Mere Messiahs",
+   "url": "https://www.lesswrong.com/posts/Tv7WWhgbKMWzEnMmx/mere-messiahs",
+   "comments": 83,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e106": {
+   "title": "Affective Death Spirals",
+   "url": "https://www.lesswrong.com/posts/XrzQW69HpidzvBxGr/affective-death-spirals",
+   "comments": 47,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e107": {
+   "title": "Resist the Happy Death Spiral",
+   "url": "https://www.lesswrong.com/posts/hwi8JQjspnMWyWs4g/resist-the-happy-death-spiral",
+   "comments": 47,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e108": {
+   "title": "Uncritical Supercriticality",
+   "url": "https://www.lesswrong.com/posts/NCefvet6X3Sd4wrPc/uncritical-supercriticality",
+   "comments": 174,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e109": {
+   "title": "Evaporative Cooling of Group Beliefs",
+   "url": "https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs",
+   "comments": 51,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e110": {
+   "title": "When None Dare Urge Restraint",
+   "url": "https://www.lesswrong.com/posts/Tw9cLvzSKrkGjNHW3/when-none-dare-urge-restraint",
+   "comments": 123,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e111": {
+   "title": "The Robbers Cave Experiment",
+   "url": "https://www.lesswrong.com/posts/MBpj3QKfPg9xKNeXW/the-robbers-cave-experiment",
+   "comments": 65,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e112": {
+   "title": "Every Cause Wants To Be A Cult",
+   "url": "https://www.lesswrong.com/posts/yEjaj7PWacno5EvWa/every-cause-wants-to-be-a-cult",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e113": {
+   "title": "Guardians of the Truth",
+   "url": "https://www.lesswrong.com/posts/etBrzxdfNop3DqJvA/guardians-of-the-truth",
+   "comments": 55,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e114": {
+   "title": "Guardians of the Gene Pool",
+   "url": "https://www.lesswrong.com/posts/aFtWRL3QihoF5uQd5/guardians-of-the-gene-pool",
+   "comments": 73,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e115": {
+   "title": "Guardians of Ayn Rand",
+   "url": "https://www.lesswrong.com/posts/96TBXaHwLbFyeAxrg/guardians-of-ayn-rand",
+   "comments": 122,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e116": {
+   "title": "Two Cult Koans",
+   "url": "https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans",
+   "comments": 100,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e117": {
+   "title": "Asch's Conformity Experiment",
+   "url": "https://www.lesswrong.com/posts/WHK94zXkQm7qm7wXk/asch-s-conformity-experiment",
+   "comments": 68,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e118": {
+   "title": "On Expressing Your Concerns",
+   "url": "https://www.lesswrong.com/posts/ovvwAhKKoNbfcMz8K/on-expressing-your-concerns",
+   "comments": 38,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e119": {
+   "title": "Lonely Dissent",
+   "url": "https://www.lesswrong.com/posts/CEGnJBHmkcwPTysb7/lonely-dissent",
+   "comments": 91,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e120": {
+   "title": "Cultish Countercultishness",
+   "url": "https://www.lesswrong.com/posts/gBma88LH3CLQsqyfS/cultish-countercultishness",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e121": {
+   "title": "The Importance of Saying \"Oops\"",
+   "url": "https://www.lesswrong.com/posts/wCqfCLs8z5Qw4GbKS/the-importance-of-saying-oops",
+   "comments": 40,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e122": {
+   "title": "The Crackpot Offer",
+   "url": "https://www.lesswrong.com/posts/qRWfvgJG75ESLRNu9/the-crackpot-offer",
+   "comments": 73,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e123": {
+   "title": "Just Lose Hope Already",
+   "url": "https://www.lesswrong.com/posts/waqC6FihC2ryAZuAq/just-lose-hope-already",
+   "comments": 78,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e124": {
+   "title": "The Proper Use of Doubt",
+   "url": "https://www.lesswrong.com/posts/43PTNr4ZMaezyAJ5o/the-proper-use-of-doubt",
+   "comments": 35,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e125": {
+   "title": "You Can Face Reality",
+   "url": "https://www.lesswrong.com/posts/HYWhKXRsMAyvRKRYz/you-can-face-reality",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e126": {
+   "title": "The Meditation on Curiosity",
+   "url": "https://www.lesswrong.com/posts/3nZMgRTfFEfHp34Gb/the-meditation-on-curiosity",
+   "comments": 102,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e127": {
+   "title": "No One Can Exempt You From Rationality's Laws",
+   "url": "https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e128": {
+   "title": "Leave a Line of Retreat",
+   "url": "https://www.lesswrong.com/posts/3XgYbghWruBMrPTAL/leave-a-line-of-retreat",
+   "comments": 75,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e129": {
+   "title": "Crisis of Faith",
+   "url": "https://www.lesswrong.com/posts/BcYBfG8KomcpcxkEg/crisis-of-faith",
+   "comments": 252,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e130": {
+   "title": "The Ritual",
+   "url": "https://www.lesswrong.com/posts/kXAb5riiaJNrfR8v8/the-ritual",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "minds-an-introduction": {
+   "title": "Minds: An Introduction",
+   "url": "https://www.lesswrong.com/posts/8GhSZzsQmusCN9is7/minds-an-introduction",
+   "comments": 3,
+   "author": "Rob Bensinger"
+  },
+  "interlude-the-power-of-intelligence": {
+   "title": "The Power of Intelligence",
+   "url": "https://www.lesswrong.com/posts/aiQabnugDhcrFtr9n/the-power-of-intelligence",
+   "comments": 7,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e131": {
+   "title": "An Alien God",
+   "url": "https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god",
+   "comments": 164,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e132": {
+   "title": "The Wonder of Evolution",
+   "url": "https://www.lesswrong.com/posts/ZyNak8F6WXjuEbWWc/the-wonder-of-evolution",
+   "comments": 85,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e133": {
+   "title": "Evolutions Are Stupid (But Work Anyway)",
+   "url": "https://www.lesswrong.com/posts/jAToJHtg39AMTAuJo/evolutions-are-stupid-but-work-anyway",
+   "comments": 68,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e134": {
+   "title": "No Evolutions for Corporations or Nanodevices",
+   "url": "https://www.lesswrong.com/posts/XC7Kry5q6CD9TyG4K/no-evolutions-for-corporations-or-nanodevices",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e135": {
+   "title": "Evolving to Extinction",
+   "url": "https://www.lesswrong.com/posts/gDNrpuwahdRrDJ9iY/evolving-to-extinction",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e136": {
+   "title": "The Tragedy of Group Selectionism",
+   "url": "https://www.lesswrong.com/posts/QsMJQSFj7WfoTMNgW/the-tragedy-of-group-selectionism",
+   "comments": 89,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e137": {
+   "title": "Fake Optimization Criteria",
+   "url": "https://www.lesswrong.com/posts/i6fKszWY6gLZSX2Ey/fake-optimization-criteria",
+   "comments": 21,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e138": {
+   "title": "Adaptation-Executers, not Fitness-Maximizers",
+   "url": "https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers",
+   "comments": 34,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e139": {
+   "title": "Evolutionary Psychology",
+   "url": "https://www.lesswrong.com/posts/epZLSoNvjW53tqNj9/evolutionary-psychology",
+   "comments": 43,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e140": {
+   "title": "An Especially Elegant Evpsych Experiment",
+   "url": "https://www.lesswrong.com/posts/J4vdsSKB7LzAvaAMB/an-especially-elegant-evpsych-experiment",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e141": {
+   "title": "Superstimuli and the Collapse of Western Civilization",
+   "url": "https://www.lesswrong.com/posts/Jq73GozjsuhdwMLEG/superstimuli-and-the-collapse-of-western-civilization",
+   "comments": 90,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e142": {
+   "title": "Thou Art Godshatter",
+   "url": "https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter",
+   "comments": 84,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e143": {
+   "title": "Belief in Intelligence",
+   "url": "https://www.lesswrong.com/posts/HktFCy6dgsqJ9WPpX/belief-in-intelligence",
+   "comments": 38,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e144": {
+   "title": "Humans in Funny Suits",
+   "url": "https://www.lesswrong.com/posts/Zkzzjg3h7hW5Z36hK/humans-in-funny-suits",
+   "comments": 133,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e145": {
+   "title": "Optimization and the Intelligence Explosion",
+   "url": "https://www.lesswrong.com/posts/8vpf46nLMDYPC6wA4/optimization-and-the-intelligence-explosion",
+   "comments": 3,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e146": {
+   "title": "Ghosts in the Machine",
+   "url": "https://www.lesswrong.com/posts/cnYHFNBF3kZEyx24v/ghosts-in-the-machine",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e147": {
+   "title": "Artificial Addition",
+   "url": "https://www.lesswrong.com/posts/YhgjmCxcQXixStWMC/artificial-addition",
+   "comments": 129,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e148": {
+   "title": "Terminal Values and Instrumental Values",
+   "url": "https://www.lesswrong.com/posts/n5ucT5ZbPdhfGNLtP/terminal-values-and-instrumental-values",
+   "comments": 47,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e149": {
+   "title": "Leaky Generalizations",
+   "url": "https://www.lesswrong.com/posts/Tc2H9KbKRjuDJ3WSS/leaky-generalizations",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e150": {
+   "title": "The Hidden Complexity of Wishes",
+   "url": "https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes",
+   "comments": 200,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e151": {
+   "title": "Anthropomorphic Optimism",
+   "url": "https://www.lesswrong.com/posts/RcZeZt8cPk48xxiQ8/anthropomorphic-optimism",
+   "comments": 60,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e152": {
+   "title": "Lost Purposes",
+   "url": "https://www.lesswrong.com/posts/sP2Hg6uPwpfp3jZJN/lost-purposes",
+   "comments": 79,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e153": {
+   "title": "The Parable of the Dagger",
+   "url": "https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger",
+   "comments": 105,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e154": {
+   "title": "The Parable of Hemlock",
+   "url": "https://www.lesswrong.com/posts/bcM5ft8jvsffsZZ4Y/the-parable-of-hemlock",
+   "comments": 19,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e155": {
+   "title": "Words as Hidden Inferences",
+   "url": "https://www.lesswrong.com/posts/3nxs2WYDGzJbzcLMp/words-as-hidden-inferences",
+   "comments": 24,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e156": {
+   "title": "Extensions and Intensions",
+   "url": "https://www.lesswrong.com/posts/HsznWM9A7NiuGsp28/extensions-and-intensions",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e157": {
+   "title": "Similarity Clusters",
+   "url": "https://www.lesswrong.com/posts/jMTbQj9XB5ah2maup/similarity-clusters",
+   "comments": 5,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e158": {
+   "title": "Typicality and Asymmetrical Similarity",
+   "url": "https://www.lesswrong.com/posts/4mEsPHqcbRWxnaE5b/typicality-and-asymmetrical-similarity",
+   "comments": 69,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e159": {
+   "title": "The Cluster Structure of Thingspace",
+   "url": "https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace",
+   "comments": 32,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e160": {
+   "title": "Disguised Queries",
+   "url": "https://www.lesswrong.com/posts/4FcxgdvdQP45D6Skg/disguised-queries",
+   "comments": 108,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e161": {
+   "title": "Neural Categories",
+   "url": "https://www.lesswrong.com/posts/yFDKvfN6D87Tf5J9f/neural-categories",
+   "comments": 17,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e162": {
+   "title": "How An Algorithm Feels From Inside",
+   "url": "https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside",
+   "comments": 85,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e163": {
+   "title": "Disputing Definitions",
+   "url": "https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions",
+   "comments": 46,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e164": {
+   "title": "Feel the Meaning",
+   "url": "https://www.lesswrong.com/posts/dMCFk2n2ur8n62hqB/feel-the-meaning",
+   "comments": 12,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e165": {
+   "title": "The Argument from Common Usage",
+   "url": "https://www.lesswrong.com/posts/9ZooAqfh2TC9SBDvq/the-argument-from-common-usage",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e166": {
+   "title": "Empty Labels",
+   "url": "https://www.lesswrong.com/posts/i2dfY65JciebF3CAo/empty-labels",
+   "comments": 7,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e167": {
+   "title": "Taboo Your Words",
+   "url": "https://www.lesswrong.com/posts/WBdvyyHLdxZSAMmoz/taboo-your-words",
+   "comments": 135,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e168": {
+   "title": "Replace the Symbol with the Substance",
+   "url": "https://www.lesswrong.com/posts/GKfPL6LQFgB49FEnv/replace-the-symbol-with-the-substance",
+   "comments": 17,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e169": {
+   "title": "Fallacies of Compression",
+   "url": "https://www.lesswrong.com/posts/y5MxoeacRKKM3KQth/fallacies-of-compression",
+   "comments": 29,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e170": {
+   "title": "Categorizing Has Consequences",
+   "url": "https://www.lesswrong.com/posts/veN86cBhoe7mBxXLk/categorizing-has-consequences",
+   "comments": 13,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e171": {
+   "title": "Sneaking in Connotations",
+   "url": "https://www.lesswrong.com/posts/yuKaWPRTxZoov4z8K/sneaking-in-connotations",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e172": {
+   "title": "Arguing \"By Definition\"",
+   "url": "https://www.lesswrong.com/posts/cFzC996D7Jjds3vS9/arguing-by-definition",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e173": {
+   "title": "Where to Draw the Boundary?",
+   "url": "https://www.lesswrong.com/posts/d5NyJ2Lf6N22AD9PB/where-to-draw-the-boundary",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e174": {
+   "title": "Entropy, and Short Codes",
+   "url": "https://www.lesswrong.com/posts/soQX8yXLbKy7cFvy8/entropy-and-short-codes",
+   "comments": 27,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e175": {
+   "title": "Mutual Information, and Density in Thingspace",
+   "url": "https://www.lesswrong.com/posts/yLcuygFfMfrfK8KjF/mutual-information-and-density-in-thingspace",
+   "comments": 28,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e176": {
+   "title": "Superexponential Conceptspace, and Simple Words",
+   "url": "https://www.lesswrong.com/posts/82eMd5KLiJ5Z6rTrr/superexponential-conceptspace-and-simple-words",
+   "comments": 18,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e177": {
+   "title": "Conditional Independence, and Naive Bayes",
+   "url": "https://www.lesswrong.com/posts/gDWvLicHhcMfGmwaK/conditional-independence-and-naive-bayes",
+   "comments": 16,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e178": {
+   "title": "Words as Mental Paintbrush Handles",
+   "url": "https://www.lesswrong.com/posts/YF9HB6cWCJrDK5pBM/words-as-mental-paintbrush-handles",
+   "comments": 76,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e179": {
+   "title": "Variable Question Fallacies",
+   "url": "https://www.lesswrong.com/posts/shoMpaoZypfkXv84Y/variable-question-fallacies",
+   "comments": 38,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e180": {
+   "title": "37 Ways That Words Can Be Wrong",
+   "url": "https://www.lesswrong.com/posts/FaJaCgqBKphrDzDSj/37-ways-that-words-can-be-wrong",
+   "comments": 78,
+   "author": "Eliezer Yudkowsky"
+  },
+  "interlude-an-intuitive-explanation-of-bayess-theorem": {
+   "title": "An Intuitive Explanation of Bayes's Theorem",
+   "url": "https://www.lesswrong.com/posts/XTXWPQSEgoMkAupKt/an-intuitive-explanation-of-bayes-s-theorem",
+   "comments": 12,
+   "author": "Eliezer Yudkowsky"
+  },
+  "the-world-an-introduction": {
+   "title": "The World: An Introduction",
+   "url": "https://www.lesswrong.com/posts/ujoJSat3ypzp3tmpj/the-world-an-introduction",
+   "comments": 0,
+   "author": "Rob Bensinger"
+  },
+  "e181": {
+   "title": "Universal Fire",
+   "url": "https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire",
+   "comments": 46,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e182": {
+   "title": "Universal Law",
+   "url": "https://www.lesswrong.com/posts/7iTwGquBFZKttpEdE/universal-law",
+   "comments": 29,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e183": {
+   "title": "Is Reality Ugly?",
+   "url": "https://www.lesswrong.com/posts/oKiy7YwGToaYXdvnj/is-reality-ugly",
+   "comments": 49,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e184": {
+   "title": "Beautiful Probability",
+   "url": "https://www.lesswrong.com/posts/bkSkRwo9SRYxJMiSY/beautiful-probability",
+   "comments": 124,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e185": {
+   "title": "Outside the Laboratory",
+   "url": "https://www.lesswrong.com/posts/N2pENnTPB75sfc9kb/outside-the-laboratory",
+   "comments": 353,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e186": {
+   "title": "The Second Law of Thermodynamics, and Engines of Cognition",
+   "url": "https://www.lesswrong.com/posts/QkX2bAkwG2EpGvNug/the-second-law-of-thermodynamics-and-engines-of-cognition",
+   "comments": 76,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e187": {
+   "title": "Perpetual Motion Beliefs",
+   "url": "https://www.lesswrong.com/posts/zFuCxbY9E2E8HTbfZ/perpetual-motion-beliefs",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e188": {
+   "title": "Searching for Bayes-Structure",
+   "url": "https://www.lesswrong.com/posts/QrhAeKBkm2WsdRYao/searching-for-bayes-structure",
+   "comments": 50,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e189": {
+   "title": "Dissolving the Question",
+   "url": "https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question",
+   "comments": 123,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e190": {
+   "title": "Wrong Questions",
+   "url": "https://www.lesswrong.com/posts/XzrqkhfwtiSDgKoAF/wrong-questions",
+   "comments": 138,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e191": {
+   "title": "Righting a Wrong Question",
+   "url": "https://www.lesswrong.com/posts/rQEwySCcLtdKHkrHp/righting-a-wrong-question",
+   "comments": 112,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e192": {
+   "title": "Mind Projection Fallacy",
+   "url": "https://www.lesswrong.com/posts/ZTRiSNmeGQK8AkdN2/mind-projection-fallacy",
+   "comments": 93,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e193": {
+   "title": "Probability is in the Mind",
+   "url": "https://www.lesswrong.com/posts/f6ZLxEWaankRZ2Crv/probability-is-in-the-mind",
+   "comments": 227,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e194": {
+   "title": "The Quotation is not the Referent",
+   "url": "https://www.lesswrong.com/posts/np3tP49caG4uFLRbS/the-quotation-is-not-the-referent",
+   "comments": 14,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e195": {
+   "title": "Qualitatively Confused",
+   "url": "https://www.lesswrong.com/posts/BwtBhqvTPGG2n2GuJ/qualitatively-confused",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e196": {
+   "title": "Think Like Reality",
+   "url": "https://www.lesswrong.com/posts/tWLFWAndSZSYN6rPB/think-like-reality",
+   "comments": 69,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e197": {
+   "title": "Chaotic Inversion",
+   "url": "https://www.lesswrong.com/posts/NyFtHycJvkyNjXNsP/chaotic-inversion",
+   "comments": 69,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e198": {
+   "title": "Reductionism",
+   "url": "https://www.lesswrong.com/posts/tPqQdLCuxanjhoaNs/reductionism",
+   "comments": 165,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e199": {
+   "title": "Explaining vs. Explaining Away",
+   "url": "https://www.lesswrong.com/posts/cphoF8naigLhRf3tu/explaining-vs-explaining-away",
+   "comments": 101,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e200": {
+   "title": "Fake Reductionism",
+   "url": "https://www.lesswrong.com/posts/mTf8MkpAigm3HP6x2/fake-reductionism",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e201": {
+   "title": "Savanna Poets",
+   "url": "https://www.lesswrong.com/posts/kQzs8MFbBxdYhe3hK/savanna-poets",
+   "comments": 40,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e202": {
+   "title": "Joy in the Merely Real",
+   "url": "https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real",
+   "comments": 44,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e203": {
+   "title": "Joy in Discovery",
+   "url": "https://www.lesswrong.com/posts/KfMNFB3G7XNviHBPN/joy-in-discovery",
+   "comments": 48,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e204": {
+   "title": "Bind Yourself to Reality",
+   "url": "https://www.lesswrong.com/posts/WjpA4PCjt5EkTGbLF/bind-yourself-to-reality",
+   "comments": 5,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e205": {
+   "title": "If You Demand Magic, Magic Won't Help",
+   "url": "https://www.lesswrong.com/posts/iiWiHgtQekWNnmE6Q/if-you-demand-magic-magic-won-t-help",
+   "comments": 143,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e206": {
+   "title": "Mundane Magic",
+   "url": "https://www.lesswrong.com/posts/SXK87NgEPszhWkvQm/mundane-magic",
+   "comments": 97,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e207": {
+   "title": "The Beauty of Settled Science",
+   "url": "https://www.lesswrong.com/posts/ndGYn7ZFiZyernp9f/the-beauty-of-settled-science",
+   "comments": 22,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e208": {
+   "title": "Amazing Breakthrough Day: April 1st",
+   "url": "https://www.lesswrong.com/posts/hYqDp4qAucZM33qSh/amazing-breakthrough-day-april-1st",
+   "comments": 16,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e209": {
+   "title": "Is Humanism A Religion-Substitute?",
+   "url": "https://www.lesswrong.com/posts/PMr6f7ZocEWFtCYXj/is-humanism-a-religion-substitute",
+   "comments": 54,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e210": {
+   "title": "Scarcity",
+   "url": "https://www.lesswrong.com/posts/MCYp8g9EMAiTCTawk/scarcity",
+   "comments": 21,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e211": {
+   "title": "The Sacred Mundane",
+   "url": "https://www.lesswrong.com/posts/Fwt4sDDacko8Sh5iR/the-sacred-mundane",
+   "comments": 117,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e212": {
+   "title": "To Spread Science, Keep It Secret",
+   "url": "https://www.lesswrong.com/posts/3diLhMELXxM8rFHJj/to-spread-science-keep-it-secret",
+   "comments": 51,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e213": {
+   "title": "Initiation Ceremony",
+   "url": "https://www.lesswrong.com/posts/fnEWQAYxcRnaYBqaZ/initiation-ceremony",
+   "comments": 99,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e214": {
+   "title": "Hand vs. Fingers",
+   "url": "https://www.lesswrong.com/posts/KmghfjH6RgXvoKruJ/hand-vs-fingers",
+   "comments": 94,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e215": {
+   "title": "Angry Atoms",
+   "url": "https://www.lesswrong.com/posts/ddwk9veF8efn3Nzbu/angry-atoms",
+   "comments": 59,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e216": {
+   "title": "Heat vs. Motion",
+   "url": "https://www.lesswrong.com/posts/ne6Ra62FB9ACHGSuh/heat-vs-motion",
+   "comments": 70,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e217": {
+   "title": "Brain Breakthrough! It's Made of Neurons!",
+   "url": "https://www.lesswrong.com/posts/nzzNFcrSk7akQ9bwD/brain-breakthrough-it-s-made-of-neurons",
+   "comments": 30,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e218": {
+   "title": "When Anthropomorphism Became Stupid",
+   "url": "https://www.lesswrong.com/posts/f4RJtHBPvDRJcCTva/when-anthropomorphism-became-stupid",
+   "comments": 12,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e219": {
+   "title": "A Priori",
+   "url": "https://www.lesswrong.com/posts/qmqLxvtsPzZ2s6mpY/a-priori",
+   "comments": 133,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e220": {
+   "title": "Reductive Reference",
+   "url": "https://www.lesswrong.com/posts/gRa5cWWBsZqdFvmqu/reductive-reference",
+   "comments": 46,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e221": {
+   "title": "Zombies! Zombies?",
+   "url": "https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies",
+   "comments": 160,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e222": {
+   "title": "Zombie Responses",
+   "url": "https://www.lesswrong.com/posts/4moMTeCy9EqYxAher/zombie-responses",
+   "comments": 40,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e223": {
+   "title": "The Generalized Anti-Zombie Principle",
+   "url": "https://www.lesswrong.com/posts/kYAuNJX2ecH2uFqZ9/the-generalized-anti-zombie-principle",
+   "comments": 65,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e224": {
+   "title": "GAZP vs. GLUT",
+   "url": "https://www.lesswrong.com/posts/k6EPphHiBH4WWYFCj/gazp-vs-glut",
+   "comments": 170,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e225": {
+   "title": "Belief in the Implied Invisible",
+   "url": "https://www.lesswrong.com/posts/3XMwPNMSbaPm2suGz/belief-in-the-implied-invisible",
+   "comments": 35,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e226": {
+   "title": "Zombies: The Movie",
+   "url": "https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie",
+   "comments": 82,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e227": {
+   "title": "Excluding the Supernatural",
+   "url": "https://www.lesswrong.com/posts/u6JzcFtPGiznFgDxP/excluding-the-supernatural",
+   "comments": 150,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e228": {
+   "title": "Psychic Powers",
+   "url": "https://www.lesswrong.com/posts/7Au7kvRAPREm3ADcK/psychic-powers",
+   "comments": 90,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e229": {
+   "title": "Quantum Explanations",
+   "url": "https://www.lesswrong.com/posts/7FSwbFpDsca7uXpQ2/quantum-explanations",
+   "comments": 61,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e230": {
+   "title": "Configurations and Amplitude",
+   "url": "https://www.lesswrong.com/posts/5vZD32EynD9n94dhr/configurations-and-amplitude",
+   "comments": 361,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e231": {
+   "title": "Joint Configurations",
+   "url": "https://www.lesswrong.com/posts/ybusFwDqiZgQa6NCq/joint-configurations",
+   "comments": 40,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e232": {
+   "title": "Distinct Configurations",
+   "url": "https://www.lesswrong.com/posts/KbeHkLNY5ETJ3TN3W/distinct-configurations",
+   "comments": 25,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e233": {
+   "title": "Collapse Postulates",
+   "url": "https://www.lesswrong.com/posts/xsZnufn3cQw7tJeQ3/collapse-postulates",
+   "comments": 66,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e234": {
+   "title": "Decoherence is Simple",
+   "url": "https://www.lesswrong.com/posts/Atu4teGvob5vKvEAF/decoherence-is-simple",
+   "comments": 63,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e235": {
+   "title": "Decoherence is Falsifiable and Testable",
+   "url": "https://www.lesswrong.com/posts/DFxoaWGEh9ndwtZhk/decoherence-is-falsifiable-and-testable",
+   "comments": 43,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e236": {
+   "title": "Privileging the Hypothesis",
+   "url": "https://www.lesswrong.com/posts/X2AD2LgtKgkRNPj2a/privileging-the-hypothesis",
+   "comments": 130,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e237": {
+   "title": "Living in Many Worlds",
+   "url": "https://www.lesswrong.com/posts/qcYCAxYZT4Xp9iMZY/living-in-many-worlds",
+   "comments": 82,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e238": {
+   "title": "Quantum Non-Realism",
+   "url": "https://www.lesswrong.com/posts/k3823vuarnmL5Pqin/quantum-non-realism",
+   "comments": 40,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e239": {
+   "title": "If Many-Worlds Had Come First",
+   "url": "https://www.lesswrong.com/posts/WqGCaRhib42dhKWRL/if-many-worlds-had-come-first",
+   "comments": 190,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e240": {
+   "title": "Where Philosophy Meets Science",
+   "url": "https://www.lesswrong.com/posts/Bh9cdfMjATrTdLrGH/where-philosophy-meets-science",
+   "comments": 21,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e241": {
+   "title": "Thou Art Physics",
+   "url": "https://www.lesswrong.com/posts/NEeW7eSXThPz7o4Ne/thou-art-physics",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e242": {
+   "title": "Many Worlds, One Best Guess",
+   "url": "https://www.lesswrong.com/posts/S8ysHqeRGuySPttrS/many-worlds-one-best-guess",
+   "comments": 82,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e243": {
+   "title": "The Failures of Eld Science",
+   "url": "https://www.lesswrong.com/posts/ZxR8P8hBFQ9kC8wMy/the-failures-of-eld-science",
+   "comments": 56,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e244": {
+   "title": "The Dilemma: Science or Bayes?",
+   "url": "https://www.lesswrong.com/posts/viPPjojmChxLGPE2v/the-dilemma-science-or-bayes",
+   "comments": 190,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e245": {
+   "title": "Science Doesn't Trust Your Rationality",
+   "url": "https://www.lesswrong.com/posts/5bJyRMZzwMov5u3hW/science-doesn-t-trust-your-rationality",
+   "comments": 136,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e246": {
+   "title": "When Science Can't Help",
+   "url": "https://www.lesswrong.com/posts/wzxneh7wxkdNYNbtB/when-science-can-t-help",
+   "comments": 91,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e247": {
+   "title": "Science Isn't Strict Enough",
+   "url": "https://www.lesswrong.com/posts/PGfJdgemDJSwWBZSX/science-isn-t-strict-enough",
+   "comments": 64,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e248": {
+   "title": "Do Scientists Already Know This Stuff?",
+   "url": "https://www.lesswrong.com/posts/WijMw9WkcafmCFgj4/do-scientists-already-know-this-stuff",
+   "comments": 57,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e249": {
+   "title": "No Safe Defense, Not Even Science",
+   "url": "https://www.lesswrong.com/posts/wustx45CPL5rZenuo/no-safe-defense-not-even-science",
+   "comments": 75,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e250": {
+   "title": "Changing the Definition of Science",
+   "url": "https://www.lesswrong.com/posts/SoDsr8GEZmRKMZNkj/changing-the-definition-of-science",
+   "comments": 30,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e251": {
+   "title": "Faster Than Science",
+   "url": "https://www.lesswrong.com/posts/xTyuQ3cgsPjifr7oj/faster-than-science",
+   "comments": 14,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e252": {
+   "title": "Einstein's Speed",
+   "url": "https://www.lesswrong.com/posts/mpaqTWGiLT7GA3w76/einstein-s-speed",
+   "comments": 35,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e253": {
+   "title": "That Alien Message",
+   "url": "https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message",
+   "comments": 178,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e254": {
+   "title": "My Childhood Role Model",
+   "url": "https://www.lesswrong.com/posts/3Jpchgy53D2gB5qdk/my-childhood-role-model",
+   "comments": 62,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e255": {
+   "title": "Einstein's Superpowers",
+   "url": "https://www.lesswrong.com/posts/5o4EZJyqmHY4XgRCY/einstein-s-superpowers",
+   "comments": 92,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e256": {
+   "title": "Class Project",
+   "url": "https://www.lesswrong.com/posts/xAXrEpF5FYjwqKMfZ/class-project",
+   "comments": 38,
+   "author": "Eliezer Yudkowsky"
+  },
+  "interlude-a-technical-explanation-of-technical-explanation": {
+   "title": "A Technical Explanation of Technical Explanation",
+   "url": "https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation",
+   "comments": 13,
+   "author": "Eliezer Yudkowsky"
+  },
+  "ends-an-introduction": {
+   "title": "Ends: An Introduction",
+   "url": "https://www.lesswrong.com/posts/KfEyHB6WXFW6q2D5S/ends-an-introduction",
+   "comments": 0,
+   "author": "Rob Bensinger"
+  },
+  "e257": {
+   "title": "Not for the Sake of Happiness (Alone)",
+   "url": "https://www.lesswrong.com/posts/synsRtBKDeAFuo7e3/not-for-the-sake-of-happiness-alone",
+   "comments": 109,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e258": {
+   "title": "Fake Selfishness",
+   "url": "https://www.lesswrong.com/posts/Masoq4NdmmGSiq2xw/fake-selfishness",
+   "comments": 72,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e259": {
+   "title": "Fake Morality",
+   "url": "https://www.lesswrong.com/posts/fATPBv4pnHC33EmJ2/fake-morality",
+   "comments": 105,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e260": {
+   "title": "Fake Utility Functions",
+   "url": "https://www.lesswrong.com/posts/NnohDYHNnKDtbiMyp/fake-utility-functions",
+   "comments": 64,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e261": {
+   "title": "Detached Lever Fallacy",
+   "url": "https://www.lesswrong.com/posts/zY4pic7cwQpa9dnyk/detached-lever-fallacy",
+   "comments": 42,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e262": {
+   "title": "Dreams of AI Design",
+   "url": "https://www.lesswrong.com/posts/p7ftQ6acRkgo6hqHb/dreams-of-ai-design",
+   "comments": 61,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e263": {
+   "title": "The Design Space of Minds-In-General",
+   "url": "https://www.lesswrong.com/posts/tnWRXkcDi5Tw9rzXw/the-design-space-of-minds-in-general",
+   "comments": 85,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e264": {
+   "title": "Where Recursive Justification Hits Bottom",
+   "url": "https://www.lesswrong.com/posts/C8nEXTcjZb9oauTCW/where-recursive-justification-hits-bottom",
+   "comments": 81,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e265": {
+   "title": "My Kind of Reflection",
+   "url": "https://www.lesswrong.com/posts/TynBiYt6zg42StRbb/my-kind-of-reflection",
+   "comments": 24,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e266": {
+   "title": "No Universally Compelling Arguments",
+   "url": "https://www.lesswrong.com/posts/PtoQdG7E8MxYJrigu/no-universally-compelling-arguments",
+   "comments": 61,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e267": {
+   "title": "Created Already In Motion",
+   "url": "https://www.lesswrong.com/posts/CuSTqHgeK4CMpWYTe/created-already-in-motion",
+   "comments": 25,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e268": {
+   "title": "Sorting Pebbles Into Correct Heaps",
+   "url": "https://www.lesswrong.com/posts/mMBTPTjRbsrqbSkZE/sorting-pebbles-into-correct-heaps",
+   "comments": 110,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e269": {
+   "title": "2-Place and 1-Place Words",
+   "url": "https://www.lesswrong.com/posts/eDpPnT7wdBwWPGvo5/2-place-and-1-place-words",
+   "comments": 39,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e270": {
+   "title": "What Would You Do Without Morality?",
+   "url": "https://www.lesswrong.com/posts/iGH7FSrdoCXa5AHGs/what-would-you-do-without-morality",
+   "comments": 186,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e271": {
+   "title": "Changing Your Metaethics",
+   "url": "https://www.lesswrong.com/posts/LhP2zGBWR5AdssrdJ/changing-your-metaethics",
+   "comments": 20,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e272": {
+   "title": "Could Anything Be Right?",
+   "url": "https://www.lesswrong.com/posts/vy9nnPdwTjSmt5qdb/could-anything-be-right",
+   "comments": 39,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e273": {
+   "title": "Morality as Fixed Computation",
+   "url": "https://www.lesswrong.com/posts/FnJPa8E9ZG5xiLLp5/morality-as-fixed-computation",
+   "comments": 51,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e274": {
+   "title": "Magical Categories",
+   "url": "https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories",
+   "comments": 143,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e275": {
+   "title": "The True Prisoner's Dilemma",
+   "url": "https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dilemma",
+   "comments": 118,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e276": {
+   "title": "Sympathetic Minds",
+   "url": "https://www.lesswrong.com/posts/NLMo5FZWFFq652MNe/sympathetic-minds",
+   "comments": 27,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e277": {
+   "title": "High Challenge",
+   "url": "https://www.lesswrong.com/posts/29vqqmGNxNRGzffEj/high-challenge",
+   "comments": 76,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e278": {
+   "title": "Serious Stories",
+   "url": "https://www.lesswrong.com/posts/6qS9q5zHafFXsB6hf/serious-stories",
+   "comments": 105,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e279": {
+   "title": "Value is Fragile",
+   "url": "https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile",
+   "comments": 109,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e280": {
+   "title": "The Gift We Give To Tomorrow",
+   "url": "https://www.lesswrong.com/posts/pGvyqAQw6yqTjpKf4/the-gift-we-give-to-tomorrow",
+   "comments": 102,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e281": {
+   "title": "Scope Insensitivity",
+   "url": "https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity",
+   "comments": 71,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e282": {
+   "title": "One Life Against the World",
+   "url": "https://www.lesswrong.com/posts/xiHy3kFni8nsxfdcP/one-life-against-the-world",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e283": {
+   "title": "The Allais Paradox",
+   "url": "https://www.lesswrong.com/posts/zJZvoiwydJ5zvzTHK/the-allais-paradox",
+   "comments": 150,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e284": {
+   "title": "Zut Allais!",
+   "url": "https://www.lesswrong.com/posts/zNcLnqHF5rvrTsQJx/zut-allais",
+   "comments": 51,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e285": {
+   "title": "Feeling Moral",
+   "url": "https://www.lesswrong.com/posts/Nx2WxEuPSvNBGuYpo/feeling-moral",
+   "comments": 8,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e286": {
+   "title": "The \"Intuitions\" Behind \"Utilitarianism\"",
+   "url": "https://www.lesswrong.com/posts/r5MSQ83gtbjWRBDWJ/the-intuitions-behind-utilitarianism",
+   "comments": 208,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e287": {
+   "title": "Ends Don't Justify Means (Among Humans)",
+   "url": "https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans",
+   "comments": 100,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e288": {
+   "title": "Ethical Injunctions",
+   "url": "https://www.lesswrong.com/posts/dWTEtgBfFaz6vjwQf/ethical-injunctions",
+   "comments": 78,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e289": {
+   "title": "Something to Protect",
+   "url": "https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect",
+   "comments": 82,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e290": {
+   "title": "When (Not) To Use Probabilities",
+   "url": "https://www.lesswrong.com/posts/AJ9dX59QXokZb35fk/when-not-to-use-probabilities",
+   "comments": 47,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e291": {
+   "title": "Newcomb's Problem and Regret of Rationality",
+   "url": "https://www.lesswrong.com/posts/6ddcsdA2c2XpNpE5x/newcomb-s-problem-and-regret-of-rationality",
+   "comments": 620,
+   "author": "Eliezer Yudkowsky"
+  },
+  "interlude-the-twelve-virtues-of-rationality": {
+   "title": "Twelve Virtues of Rationality",
+   "url": "https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality",
+   "comments": 23,
+   "author": "Eliezer Yudkowsky"
+  },
+  "beginnings-an-introduction": {
+   "title": "Beginnings: An Introduction",
+   "url": "https://www.lesswrong.com/posts/tPWZfmNpstRMCBjFM/beginnings-an-introduction",
+   "comments": 1,
+   "author": "Rob Bensinger"
+  },
+  "e292": {
+   "title": "My Childhood Death Spiral",
+   "url": "https://www.lesswrong.com/posts/uD9TDHPwQ5hx4CgaX/my-childhood-death-spiral",
+   "comments": 106,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e293": {
+   "title": "My Best and Worst Mistake",
+   "url": "https://www.lesswrong.com/posts/BA7dRRrzMLyvfJr9J/my-best-and-worst-mistake",
+   "comments": 17,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e294": {
+   "title": "Raised in Technophilia",
+   "url": "https://www.lesswrong.com/posts/uNWRXtdwL33ELgWjD/raised-in-technophilia",
+   "comments": 33,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e295": {
+   "title": "A Prodigy of Refutation",
+   "url": "https://www.lesswrong.com/posts/CcBe9aCKDgT5FSoty/a-prodigy-of-refutation",
+   "comments": 20,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e296": {
+   "title": "The Sheer Folly of Callow Youth",
+   "url": "https://www.lesswrong.com/posts/Yicjw6wSSaPdb83w9/the-sheer-folly-of-callow-youth",
+   "comments": 18,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e297": {
+   "title": "That Tiny Note of Discord",
+   "url": "https://www.lesswrong.com/posts/SwCwG9wZcAzQtckwx/that-tiny-note-of-discord",
+   "comments": 36,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e298": {
+   "title": "Fighting a Rearguard Action Against the Truth",
+   "url": "https://www.lesswrong.com/posts/PCfaLLtuxes6Jk4S2/fighting-a-rearguard-action-against-the-truth",
+   "comments": 8,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e299": {
+   "title": "My Naturalistic Awakening",
+   "url": "https://www.lesswrong.com/posts/75LZMCCePG4Pwj3dB/my-naturalistic-awakening",
+   "comments": 47,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e300": {
+   "title": "The Level Above Mine",
+   "url": "https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine",
+   "comments": 358,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e301": {
+   "title": "The Magnitude of His Own Folly",
+   "url": "https://www.lesswrong.com/posts/fLRPeXihRaiRo5dyX/the-magnitude-of-his-own-folly",
+   "comments": 131,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e302": {
+   "title": "Beyond the Reach of God",
+   "url": "https://www.lesswrong.com/posts/sYgv4eYH82JEsTD34/beyond-the-reach-of-god",
+   "comments": 281,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e303": {
+   "title": "My Bayesian Enlightenment",
+   "url": "https://www.lesswrong.com/posts/Ti3Z7eZtud32LhGZT/my-bayesian-enlightenment",
+   "comments": 66,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e304": {
+   "title": "Tsuyoku Naritai! (I Want To Become Stronger)",
+   "url": "https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger",
+   "comments": 85,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e305": {
+   "title": "Tsuyoku vs. the Egalitarian Instinct",
+   "url": "https://www.lesswrong.com/posts/gWGA8Da539EQmAR9F/tsuyoku-vs-the-egalitarian-instinct",
+   "comments": 35,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e306": {
+   "title": "Trying to Try",
+   "url": "https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try",
+   "comments": 58,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e307": {
+   "title": "Use the Try Harder, Luke",
+   "url": "https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke",
+   "comments": 46,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e308": {
+   "title": "On Doing the Impossible",
+   "url": "https://www.lesswrong.com/posts/fpecAJLG9czABgCe9/on-doing-the-impossible",
+   "comments": 41,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e309": {
+   "title": "Make an Extraordinary Effort",
+   "url": "https://www.lesswrong.com/posts/GuEsfTpSDSbXFiseH/make-an-extraordinary-effort",
+   "comments": 50,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e310": {
+   "title": "Shut up and do the impossible!",
+   "url": "https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible",
+   "comments": 167,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e311": {
+   "title": "Final Words",
+   "url": "https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words",
+   "comments": 64,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e312": {
+   "title": "Raising the Sanity Waterline",
+   "url": "https://www.lesswrong.com/posts/XqmjdBKa4ZaXJtNmf/raising-the-sanity-waterline",
+   "comments": 234,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e313": {
+   "title": "A Sense That More Is Possible",
+   "url": "https://www.lesswrong.com/posts/Nu3wa6npK4Ry66vFp/a-sense-that-more-is-possible",
+   "comments": 220,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e314": {
+   "title": "Epistemic Viciousness",
+   "url": "https://www.lesswrong.com/posts/T8ddXNtmNSHexhQh8/epistemic-viciousness",
+   "comments": 93,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e315": {
+   "title": "Schools Proliferating Without Evidence",
+   "url": "https://www.lesswrong.com/posts/JnKCaGcgZL4Rsep8m/schools-proliferating-without-evidence",
+   "comments": 58,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e316": {
+   "title": "3 Levels of Rationality Verification",
+   "url": "https://www.lesswrong.com/posts/5K7CMa6dEL7TN7sae/3-levels-of-rationality-verification",
+   "comments": 247,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e317": {
+   "title": "Why Our Kind Can't Cooperate",
+   "url": "https://www.lesswrong.com/posts/7FzD7pNm9X68Gp5ZC/why-our-kind-can-t-cooperate",
+   "comments": 210,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e318": {
+   "title": "Tolerate Tolerance",
+   "url": "https://www.lesswrong.com/posts/JKxxFseBWz8SHkTgt/tolerate-tolerance",
+   "comments": 86,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e319": {
+   "title": "Your Price for Joining",
+   "url": "https://www.lesswrong.com/posts/Q8evewZW5SeidLdbA/your-price-for-joining",
+   "comments": 58,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e320": {
+   "title": "Can Humanism Match Religion's Output?",
+   "url": "https://www.lesswrong.com/posts/3fNL2ssfvRzpApvdN/can-humanism-match-religion-s-output",
+   "comments": 115,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e321": {
+   "title": "Church vs. Taskforce",
+   "url": "https://www.lesswrong.com/posts/p5DmraxDmhvMoZx8J/church-vs-taskforce",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e322": {
+   "title": "Rationality: Common Interest of Many Causes",
+   "url": "https://www.lesswrong.com/posts/4PPE6D635iBcGPGRy/rationality-common-interest-of-many-causes",
+   "comments": 53,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e323": {
+   "title": "Helpless Individuals",
+   "url": "https://www.lesswrong.com/posts/f42BHX7rMw2dyFJfT/helpless-individuals",
+   "comments": 245,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e324": {
+   "title": "Money: The Unit of Caring",
+   "url": "https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring",
+   "comments": 132,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e325": {
+   "title": "Purchase Fuzzies and Utilons Separately",
+   "url": "https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately",
+   "comments": 88,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e326": {
+   "title": "Bystander Apathy",
+   "url": "https://www.lesswrong.com/posts/K5nq3KcDXaGm7QQWR/bystander-apathy",
+   "comments": 20,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e327": {
+   "title": "Collective Apathy and the Internet",
+   "url": "https://www.lesswrong.com/posts/NnQbfLo868wgnHF4n/collective-apathy-and-the-internet",
+   "comments": 34,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e328": {
+   "title": "Incremental Progress and the Valley",
+   "url": "https://www.lesswrong.com/posts/oZNXmHcdhb4m7vwsv/incremental-progress-and-the-valley",
+   "comments": 114,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e329": {
+   "title": "Bayesians vs. Barbarians",
+   "url": "https://www.lesswrong.com/posts/KsHmn6iJAEr9bACQW/bayesians-vs-barbarians",
+   "comments": 277,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e330": {
+   "title": "Beware of Other-Optimizing",
+   "url": "https://www.lesswrong.com/posts/6NvbSwuSAooQxxf7f/beware-of-other-optimizing",
+   "comments": 119,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e331": {
+   "title": "Practical Advice Backed By Deep Theories",
+   "url": "https://www.lesswrong.com/posts/LqjKP255fPRY7aMzw/practical-advice-backed-by-deep-theories",
+   "comments": 114,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e332": {
+   "title": "The Sin of Underconfidence",
+   "url": "https://www.lesswrong.com/posts/pkFazhcTErMw7TFtT/the-sin-of-underconfidence",
+   "comments": 187,
+   "author": "Eliezer Yudkowsky"
+  },
+  "e333": {
+   "title": "Go Forth and Create the Art!",
+   "url": "https://www.lesswrong.com/posts/aFEsqd6ofwnkNqaXo/go-forth-and-create-the-art",
+   "comments": 114,
+   "author": "Eliezer Yudkowsky"
+  }
+ },
+ "unresolved": [],
+ "sequences": [
+  {
+   "book": 1,
+   "title": "Predictably Wrong",
+   "id": "5g5TkQTe9rmPS5vvM",
+   "grid": "sequencesgrid/wwkkaskmbcajjogyv1hu",
+   "banner": "sequences/bkywjoighcyelqiphpom"
+  },
+  {
+   "book": 1,
+   "title": "Fake Beliefs",
+   "id": "7gRSERQZbqTuLX5re",
+   "grid": "sequencesgrid/vx5txwdtbsejuj6tbf4e",
+   "banner": "sequences/q4tcljti5efjf89eumbq"
+  },
+  {
+   "book": 1,
+   "title": "Noticing Confusion",
+   "id": "zpCiuR4T343j9WkcK",
+   "grid": "sequencesgrid/ff6hxn6crxxxzfrtnciq",
+   "banner": "sequences/vuavr3nio14dt7zqb0gl"
+  },
+  {
+   "book": 1,
+   "title": "Mysterious Answers",
+   "id": "5uZQHpecjn7955faL",
+   "grid": "sequencesgrid/qxrtikxmqtdgdrv8laod",
+   "banner": "sequences/vgcsholytg4h2nghqwez"
+  },
+  {
+   "book": 2,
+   "title": "Overly Convenient Excuses",
+   "id": "FrqfoG3LJeCZs96Ym",
+   "grid": "sequencesgrid/khst2yhr0iyt9vaq18ee",
+   "banner": "sequences/yughmhoaztvyguxtv2r8"
+  },
+  {
+   "book": 2,
+   "title": "Politics and Rationality",
+   "id": "3ELrPerFTSo75WnrH",
+   "grid": "sequencesgrid/h6vrwdypijqgsop7xwa0",
+   "banner": "sequences/zubypk0qvjpk1ztfb6kh"
+  },
+  {
+   "book": 2,
+   "title": "Against Rationalization",
+   "id": "GSqFqc646rsRd2oyz",
+   "grid": "sequencesgrid/hltj7lnof0lzwlgbeidd",
+   "banner": "sequences/dkna6abcm0bprklg8svn"
+  },
+  {
+   "book": 2,
+   "title": "Against Doublethink",
+   "id": "qqFS6Kw5fmPyzkLby",
+   "grid": "sequencesgrid/xl51zsusg8iahec404fm",
+   "banner": "sequences/tkskys8xnpfctwawgb7q"
+  },
+  {
+   "book": 2,
+   "title": "Seeing with Fresh Eyes",
+   "id": "pmHZDpak4NeRLLLCw",
+   "grid": "sequencesgrid/a1qshk4kjvlctafdi5rw",
+   "banner": "sequences/zklyrawm5gbtv42fxfyo"
+  },
+  {
+   "book": 2,
+   "title": "Death Spirals",
+   "id": "M3TJ2fTCzoQq66NBJ",
+   "grid": "sequencesgrid/kfdosmh7m4gptzsdcl5e",
+   "banner": "sequences/g535ig3ug85ibloq2bhb"
+  },
+  {
+   "book": 2,
+   "title": "Letting Go",
+   "id": "5bZZZJ5psXrrD5BGb",
+   "grid": "sequencesgrid/lzvmuizelhfnz4vflmqk",
+   "banner": "sequences/riopbq8yqizk0pi12vkz"
+  },
+  {
+   "book": 3,
+   "title": "The Simple Math of Evolution",
+   "id": "MH2b8NfWv22dBtrs8",
+   "grid": "sequencesgrid/zdvived9irhffc6rnz1e",
+   "banner": "sequences/osurcdykkapwp9n7rel8"
+  },
+  {
+   "book": 3,
+   "title": "Fragile Purposes",
+   "id": "3HyeNiEpvbQQaqeoH",
+   "grid": "sequencesgrid/cl2cyyzxkous0oy9uir6",
+   "banner": "sequences/idgdjgvh9fndr9wctb46"
+  },
+  {
+   "book": 3,
+   "title": "A Human's Guide to Words",
+   "id": "SGB7Y5WERh4skwtnb",
+   "grid": "sequencesgrid/bbhnqs3en78i274e5fzx",
+   "banner": "sequences/ai3jkdik2rpddopxaz9r"
+  },
+  {
+   "book": 4,
+   "title": "Lawful Truth",
+   "id": "oFePMp9rKftEeZDDr",
+   "grid": "sequencesgrid/ocof6os9fv9dfgiuyr36",
+   "banner": "sequences/ammv6f2cwgo6hesusugo"
+  },
+  {
+   "book": 4,
+   "title": "Reductionism 101",
+   "id": "p3TndjYbdYaiWwm9x",
+   "grid": "sequencesgrid/tggcycp4xgcp5awosmta",
+   "banner": "sequences/mp3372tnup0unjzgeb4v"
+  },
+  {
+   "book": 4,
+   "title": "Joy in the Merely Real",
+   "id": "6BFkmEgre7uwhDxDR",
+   "grid": "sequencesgrid/awsd65brbw8jl3p3txx5",
+   "banner": "sequences/mxbam5oryvkuxwv4eljl"
+  },
+  {
+   "book": 4,
+   "title": "Physicalism 201",
+   "id": "FqgKAHZAiZn9JAjDo",
+   "grid": "sequencesgrid/fowl7xmsw7pq08qcyvtt",
+   "banner": "sequences/v0zd48pebte23ukllap2"
+  },
+  {
+   "book": 4,
+   "title": "Quantum Physics and Many Worlds",
+   "id": "Kqs6GR7F5xziuSyGZ",
+   "grid": "sequencesgrid/wncutymtkeulpld7cbrm",
+   "banner": "sequences/jdxy4e2prjrptbxteh92"
+  },
+  {
+   "book": 4,
+   "title": "Science and Rationality",
+   "id": "fxynfGCSHpY4FmBZy",
+   "grid": "sequencesgrid/qynhzqukuonidzl0c0kp",
+   "banner": "sequences/nkmmllvtuqofsxk54yig"
+  },
+  {
+   "book": 5,
+   "title": "Fake Preferences",
+   "id": "fqh9TLuoquxpducDb",
+   "grid": "sequencesgrid/mm0ivmd2a1eizxatc0uz",
+   "banner": "sequences/ttcbsp6an5inaezxqasz"
+  },
+  {
+   "book": 5,
+   "title": "Value Theory",
+   "id": "9bvAELWc8y2gYjRav",
+   "grid": "sequencesgrid/i9c5eiacx4ldzaezqmfn",
+   "banner": "sequences/yqkdhawwdi99gfc0g1pj"
+  },
+  {
+   "book": 5,
+   "title": "Quantified Humanism",
+   "id": "waF2Pomid7YHjfEDt",
+   "grid": "sequencesgrid/f5njri3ukki9fltibb8y",
+   "banner": "sequences/r0hlr0q2zbxxk9a0hqqu"
+  },
+  {
+   "book": 6,
+   "title": "Yudkowsky's Coming of Age",
+   "id": "SXurf2mWFw8LX2mkG",
+   "grid": "sequencesgrid/nggx4r2f8zoyehbcqcia",
+   "banner": "sequences/i9bdwjexpt24lzffs1ep"
+  },
+  {
+   "book": 6,
+   "title": "Challenging the Difficult",
+   "id": "3szfzHZr7EYGSWt92",
+   "grid": "sequencesgrid/bdj5ovunbpuswk1eipt9",
+   "banner": "sequences/equ6gp1mvza2hcgo4rtt"
+  },
+  {
+   "book": 6,
+   "title": "The Craft and the Community",
+   "id": "pvim9PZJ6qHRTMqD3",
+   "grid": "sequencesgrid/yd3bzuj2zhnafkh9uavf",
+   "banner": "sequences/zxtxxob2ltpnviyavqdk"
+  }
+ ]
+}

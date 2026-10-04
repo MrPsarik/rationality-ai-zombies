@@ -1,0 +1,21 @@
+% Paper geometry for the print edition.
+%
+% The paper is selected by ONE parameter, \PaperName, which the Makefile sets
+% from `make PAPER=...` (default: royal).  Interior and covers both read the
+% dimensions below, so `make all PAPER=a5` rebuilds the whole set as A5.
+%
+% Printenbind: binding-side safety >= 15 mm, other sides >= 5 mm.
+\providecommand\PaperName{royal}
+\expandafter\def\csname RAZpaper:royal\endcsname{% 156 x 234 mm
+  \def\PaperW{156mm}\def\PaperH{234mm}%
+  \def\MarginInner{25mm}\def\MarginOuter{34mm}%   text block 97 mm
+  \def\MarginTop{20mm}\def\MarginBottom{26mm}%
+  \def\BodySize{11}\def\BodyLead{14}}
+\expandafter\def\csname RAZpaper:a5\endcsname{% 148 x 210 mm
+  \def\PaperW{148mm}\def\PaperH{210mm}%
+  \def\MarginInner{23mm}\def\MarginOuter{29mm}%   text block 96 mm
+  \def\MarginTop{17mm}\def\MarginBottom{22mm}%
+  \def\BodySize{11}\def\BodyLead{14}}
+\csname RAZpaper:\PaperName\endcsname
+\ifdefined\PaperW\else
+  \errmessage{Unknown paper "\PaperName" (use royal or a5)}\fi

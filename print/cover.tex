@@ -1,0 +1,118 @@
+% Typographic cover for one volume.  Called by tools/covers.py as
+%   lualatex "\def\PaperName{royal}\def\VolNum{1}\def\SpineW{10.2mm}
+%             \def\CoverPart{spread}\input{print/cover.tex}"
+% \CoverPart: spread (back + spine + front), front, back.
+% Every file has 3 mm bleed on all outer edges.
+\input{print/paper.tex}
+\documentclass{article}
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}
+\setsansfont{Libertinus Sans}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{ifthen}
+\input{print/series.tex}
+\def\Bleed{3mm}
+\newlength\TrimW \setlength\TrimW{\PaperW}
+\newlength\TrimH \setlength\TrimH{\PaperH}
+\newlength\Spine \setlength\Spine{\SpineW}
+\newlength\SheetW \newlength\SheetH
+\setlength\SheetH{\TrimH+2\dimexpr\Bleed\relax}
+\ifthenelse{\equal{\CoverPart}{spread}}
+  {\setlength\SheetW{2\TrimW+\Spine+2\dimexpr\Bleed\relax}}
+  {\setlength\SheetW{\TrimW+2\dimexpr\Bleed\relax}}
+\usepackage[paperwidth=\SheetW,paperheight=\SheetH,margin=0pt]{geometry}
+\pagestyle{empty}
+\definecolor{ink}{HTML}{F4ECDD}
+\colorlet{vol}{vol\VolNum}
+\colorlet{volshade}{vol!78!black}
+\colorlet{inkfaint}{ink!22!vol}
+\newcommand\Spaced[2][6]{{\addfontfeatures{LetterSpace=#1}#2}}
+
+% --- the series marker: six squares, the current volume filled ----------
+\newcommand\SeriesMarks[1]{% #1 = size
+  \foreach \i in {1,...,6}{%
+    \pgfmathsetmacro\x{(\i-1)*1.7}
+    \ifnum\i=\VolNum
+      \fill[ink] (\x*#1,0) rectangle ++(#1,#1);
+    \else
+      \draw[ink,line width=0.5pt] (\x*#1,0) rectangle ++(#1,#1);
+    \fi}}
+
+% --- front cover; origin = lower left of the trimmed front ---------------
+\newcommand\Front{%
+  \fill[vol] (-\Bleed,-\Bleed) rectangle (\TrimW+\Bleed,\TrimH+\Bleed);
+  % large faint numeral
+  \node[anchor=base west,inner sep=0pt,text=inkfaint,
+        font=\fontsize{210}{210}\selectfont]
+    at (13mm, 31mm) {\VolRoman};
+  \node[anchor=north west,inner sep=0pt,text=ink,
+        font=\small\scshape]
+    at (16mm,\TrimH-19mm) {\Spaced[14]{rationality: from ai to zombies}};
+  \draw[ink,line width=0.6pt] (16mm,\TrimH-25mm) -- (\TrimW-16mm,\TrimH-25mm);
+  \node[anchor=north west,inner sep=0pt,text=ink,
+        font=\normalsize\scshape]
+    at (16mm,\TrimH-31mm) {\Spaced[12]{book \VolRoman}};
+  \node[anchor=north west,inner sep=0pt,text=ink,align=left,
+        text width=\TrimW-32mm,
+        font=\fontsize{34}{39}\selectfont]
+    at (16mm,\TrimH-42mm) {\VolTitleBroken};
+  \draw[ink,line width=0.6pt] (16mm,24mm) -- (\TrimW-16mm,24mm);
+  \node[anchor=south west,inner sep=0pt,text=ink,font=\large\scshape]
+    at (16mm,13.5mm) {\Spaced[14]{eliezer yudkowsky}};
+  \begin{scope}[shift={(\TrimW-16mm-15.1mm,14mm)}]
+    \SeriesMarks{2.5mm}
+  \end{scope}}
+
+% --- back cover; origin = lower left of the trimmed back -----------------
+\newcommand\Back{%
+  \fill[vol] (-\Bleed,-\Bleed) rectangle (\TrimW+\Bleed,\TrimH+\Bleed);
+  \node[anchor=north west,inner sep=0pt,text=ink,align=left,
+        text width=\TrimW-36mm,font=\fontsize{13}{18}\selectfont\itshape]
+    (q) at (18mm,\TrimH-34mm) {\VolQuote};
+  \node[anchor=north west,inner sep=0pt,text=ink,font=\footnotesize\scshape]
+    at ([yshift=-6mm]q.south west) {\Spaced[8]{\VolQuoteSource}};
+  \node[anchor=south west,inner sep=0pt,text=ink,align=left,
+        font=\footnotesize]
+    at (18mm,46mm) {\SeriesList};
+  \draw[ink,line width=0.6pt] (18mm,24mm) -- (\TrimW-18mm,24mm);
+  \node[anchor=south west,inner sep=0pt,text=ink,align=left,
+        text width=\TrimW-36mm,font=\scriptsize]
+    at (18mm,12mm) {Personal print edition, not for sale.
+      Eliezer Yudkowsky, \emph{Rationality: From AI to Zombies}
+      (MIRI, 2015). CC BY-NC-SA 3.0.};}
+
+% --- spine; origin = lower left of the spine ------------------------------
+\newcommand\SpineArt{%
+  \fill[volshade] (0,-\Bleed) rectangle (\Spine,\TrimH+\Bleed);
+  \ifdim\Spine>6mm
+    \node[text=ink,inner sep=0pt,font=\SpineNumFont]
+      at (0.5\Spine,\TrimH-15mm) {\VolRoman};
+    \node[text=ink,inner sep=0pt,rotate=-90,anchor=center,
+          font=\SpineTitleFont]
+      at (0.5\Spine,0.5\TrimH+4mm) {\VolSpineTitle};
+    \node[text=ink,inner sep=0pt,rotate=-90,anchor=center,
+          font=\SpineAuthorFont]
+      at (0.5\Spine,22mm) {\Spaced[10]{yudkowsky}};
+  \fi}
+% spine type scales with spine width (1 mm clearance from each fold)
+\newcommand\SpineNumFont{\fontsize{\fpeval{min(16,max(8,\Spine/1mm*1.15))}}{18}\selectfont}
+\newcommand\SpineTitleFont{\fontsize{\fpeval{min(14,max(7,(\Spine/1mm-2)*1.3))}}{16}\selectfont}
+\newcommand\SpineAuthorFont{\fontsize{\fpeval{min(8.5,max(6,(\Spine/1mm-2)*0.8))}}{10}\selectfont\scshape}
+
+\begin{document}
+\noindent\begin{tikzpicture}[x=1pt,y=1pt]
+  \useasboundingbox (0,0) rectangle (\SheetW,\SheetH);
+  \ifthenelse{\equal{\CoverPart}{spread}}{%
+    \begin{scope}[shift={(\Bleed,\Bleed)}]\Back\end{scope}
+    \begin{scope}[shift={(\Bleed+\TrimW,\Bleed)}]\SpineArt\end{scope}
+    \begin{scope}[shift={(\Bleed+\TrimW+\Spine,\Bleed)}]\Front\end{scope}
+  }{\ifthenelse{\equal{\CoverPart}{front}}{%
+    \begin{scope}[shift={(\Bleed,\Bleed)}]\Front\end{scope}
+  }{%
+    \begin{scope}[shift={(\Bleed,\Bleed)}]\Back\end{scope}
+  }}
+\end{tikzpicture}
+\end{document}

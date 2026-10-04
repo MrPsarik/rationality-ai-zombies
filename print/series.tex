@@ -1,0 +1,60 @@
+% Series data shared by the covers: palette, titles, back-cover quotes.
+% All six colours have similar lightness and saturation so the set reads as
+% one series on the shelf; the light "ink" colour is used for all type.
+\definecolor{vol1}{HTML}{2E5E6E}% deep teal
+\definecolor{vol2}{HTML}{9A3B2D}% brick
+\definecolor{vol3}{HTML}{3E4277}% indigo
+\definecolor{vol4}{HTML}{4D6A38}% moss
+\definecolor{vol5}{HTML}{773556}% plum
+\definecolor{vol6}{HTML}{92611E}% ochre
+\def\VolRoman{\ifcase\VolNum\or I\or II\or III\or IV\or V\or VI\fi}
+\def\VolTitleBroken{\ifcase\VolNum\or
+  Map and\\Territory\or
+  How to Actually\\Change Your Mind\or
+  The Machine\\in the Ghost\or
+  Mere\\Reality\or
+  Mere\\Goodness\or
+  Becoming\\Stronger\fi}
+\def\VolSpineTitle{\ifcase\VolNum\or
+  Map and Territory\or
+  How to Actually Change Your Mind\or
+  The Machine in the Ghost\or
+  Mere Reality\or
+  Mere Goodness\or
+  Becoming Stronger\fi}
+% Back-cover quotes, verbatim from the volume itself.
+\def\VolQuote{\ifcase\VolNum\or
+  The measure of your strength as a rationalist is your ability to be
+  more confused by fiction than by reality.\or
+  If the box contains a diamond,\\
+  I desire to believe that the box contains a diamond;\\
+  If the box does not contain a diamond,\\
+  I desire to believe that the box does not contain a diamond;\\
+  Let me not become attached to beliefs I may not want.\or
+  The map is not the territory, but you can't fold up the territory
+  and put it in your glove compartment.\or
+  If we cannot take joy in things that are merely real, our lives will
+  \textup{always} be empty.\or
+  When you've reflected on enough intuitions, and corrected enough
+  absurdities, you start to see a common denominator, a meta-principle at
+  work, which one might phrase as \textup{``Shut up and multiply.''}\or
+  The important thing is to \textup{do better}, to keep moving ahead, to
+  take one more step forward. Tsuyoku naritai!\fi}
+\def\VolQuoteSource{\ifcase\VolNum\or
+  from \textup{``Hindsight Devalues Science''}\or
+  the litany of tarski\or
+  from \textup{``Fallacies of Compression''}\or
+  from \textup{``Joy in the Merely Real''}\or
+  from \textup{``The `Intuitions' Behind `Utilitarianism'\,''}\or
+  from \textup{``Tsuyoku Naritai! (I Want to Become Stronger)''}\fi}
+\def\SeriesList{%
+  \begin{tabular}{@{}r@{\hspace{2.5mm}}l@{}}
+    \SeriesRow{1}{I}{Map and Territory}\\
+    \SeriesRow{2}{II}{How to Actually Change Your Mind}\\
+    \SeriesRow{3}{III}{The Machine in the Ghost}\\
+    \SeriesRow{4}{IV}{Mere Reality}\\
+    \SeriesRow{5}{V}{Mere Goodness}\\
+    \SeriesRow{6}{VI}{Becoming Stronger}\\
+  \end{tabular}}
+\def\SeriesRow#1#2#3{\SRstyle{#1}#2 & \SRstyle{#1}#3}
+\def\SRstyle#1{\ifnum#1=\VolNum\relax\bfseries\fi}
